@@ -197,7 +197,7 @@ window.questions = [
   },
   {
     id: 16,
-    image: "images/IMG_6553.jpeg",
+    image: "images/IMG_6592.jpeg",
     question: "A newborn delivered at 37 weeks is found to have severe craniofacial abnormalities. Examination shows microcephaly, microphthalmia, cleft lip and palate, postaxial polydactyly with flexed fingers, scalp defect, and a cardiac murmur. Neuroimaging reveals holoprosencephaly. Ultrasound abdomen shows renal abnormalities.\nWhich of the following chromosomal disorders is most likely present?",
     options: [
       "Trisomy 13",
