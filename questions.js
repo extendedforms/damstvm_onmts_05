@@ -770,7 +770,7 @@ window.questions = [
   },
   {
     id: 60,
-    image: "images/IMG_8117.jpeg",
+    image: "",
     question: "A 45-year-old carpenter presents with a classic \"claw hand\" deformity following a deep laceration at the wrist. Examination specifically reveals extension of the metacarpophalangeal (MCP) joints and flexion of the interphalangeal (IP) joints. Which of the following intrinsic muscles of the hand will be strictly spared from atrophy in this patient?",
     options: [
       "Palmar interossei",
