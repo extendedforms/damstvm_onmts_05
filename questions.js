@@ -3,2342 +3,2342 @@
 window.questions = [
   {
     id: 1,
-    image: "images/IMG_8081.jpeg",
-    question: "A 24-year-old male presents with chronic early morning backache that improves with exercise. Which of the following is the earliest radiological sign seen in this condition?",
+    image: "",
+    question: "A 7-year-old child presents with recurrent dry, scaly skin, increased transepidermal water loss, and frequent superficial skin infections. Skin biopsy shows defective keratohyalin granules containing filaggrin and reduced secretion of lipid-rich lamellar bodies, leading to impaired epidermal barrier formation.\nWhich epidermal layer is primarily affected?",
     options: [
-      "Erosion of sacroiliac joints",
-      "Squaring of vertebrae",
-      "Bamboo spine appearance",
-      "Periarticular sclerosis"
+      "Stratum granulosum",
+      "Stratum spinosum",
+      "Stratum basale",
+      "Stratum lucidum"
     ],
     answerIndex: 0,
-    correctAnswerText: "Erosion of sacroiliac joints"
+    correctAnswerText: "Stratum granulosum"
   },
   {
     id: 2,
-    image: "images/IMG_8082.jpeg",
-    question: "A 38-year-old HIV-positive male presents with violaceous plaques on his hard palate. Biopsy reveals sheets of proliferating spindle cells. Which of the following is true regarding this condition?",
+    image: "images/IMG_6951.jpeg",
+    question: "A 24-year-old male presents with progressive thinning of hair over the frontal scalp. Trichoscopic examination shows miniaturized follicles producing thin, short, non-pigmented, non-medullated hairs that are located more superficially compared to thick scalp hairs.\nWhich type of hair is being described?",
     options: [
-      "It is a highly radioresistant tumor",
-      "It is caused by Human Herpesvirus 8",
-      "More common in stem-cell than solid organ transplants",
-      "It is not an AIDS-defining illness"
+      "Lanugo hair",
+      "Vellus hair",
+      "Terminal hair",
+      "Medullated animal hair"
     ],
     answerIndex: 1,
-    correctAnswerText: "It is caused by Human Herpesvirus 8"
+    correctAnswerText: "Vellus hair"
   },
   {
     id: 3,
-    image: "",
-    question: "A 62-year-old male presents with a pill-rolling resting tremor, bradykinesia, and a shuffling gait. The primary pathophysiology of his condition involves the degeneration of nerve fibers that project to which of the following structures?",
+    image: "images/IMG_6952.jpeg",
+    question: "A 28-year-old woman presents with diffuse hair shedding 3 months after delivery. Hair-pull test is positive, and microscopy shows multiple club-shaped hairs. There is no scarring, scaling, or patchy alopecia.\nThe phase predominantly increased in this condition normally lasts for approximately:",
     options: [
-      "Subthalamic nucleus",
-      "Globus pallidus",
-      "Caudate nucleus and putamen",
-      "Cerebellar dentate nucleus"
+      "2–5 years and forms nearly 80% of scalp hair",
+      "3 weeks and represents an involutionary phase",
+      "3 months and forms nearly 15% of scalp hair",
+      "Variable empty follicle interval between shedding and regrowth"
     ],
     answerIndex: 2,
-    correctAnswerText: "Caudate nucleus and putamen"
+    correctAnswerText: "3 months and forms nearly 15% of scalp hair"
   },
   {
     id: 4,
-    image: "images/IMG_8083.jpeg",
-    question: "A 60-year-old chronic smoker presents with severe right shoulder pain radiating to the ulnar aspect of his arm, along with ipsilateral drooping of the eyelid. Chest X-ray reveals a right apical lung opacity. Which of the following is the investigation of choice to best visualize the extent of local soft tissue infiltration in this patient?",
+    image: "images/IMG_6953.jpeg",
+    question: "A 32-year-old woman presents with a slowly progressive patch of hair loss over the scalp. On examination, the affected area appears smooth, shiny, and atrophic, with loss of follicular openings. Mild perifollicular erythema and scaling are present at the margins. The dermatologist explains that regrowth is unlikely because the follicular stem cell region has been destroyed.\nWhich of the following conditions belongs to the same category of alopecia?",
     options: [
-      "Contrast-enhanced CT scan",
-      "Bronchoscopy",
-      "Whole-body FDG-PET scan",
-      "Magnetic Resonance Imaging (MRI)"
+      "Alopecia areata",
+      "Telogen effluvium",
+      "Trichotillomania",
+      "Lichen planus"
     ],
     answerIndex: 3,
-    correctAnswerText: "Magnetic Resonance Imaging (MRI)"
+    correctAnswerText: "Lichen planus"
   },
   {
     id: 5,
-    image: "",
-    question: "A 15-year-old male presents with severe vomiting, abdominal pain, and deep, rapid breathing. Labs reveal a blood glucose of 480 mg/dL, high anion gap metabolic acidosis, and a serum potassium of 2.8 mEq/L. What is the most appropriate next step in management?",
+    image: "images/IMG_6954.jpeg",
+    question: "A 19-year-old student presents with sudden onset well-defined patchy hair loss over the scalp. The skin over the patch is smooth, follicular openings are preserved, and dermoscopy shows tapering exclamation-mark hairs. Nail examination shows uniform geometric pitting. Biopsy from the active margin shows dense peribulbar T-lymphocytic infiltrate described as “swarm of bees” appearance.\nWhich is the primary target in this disorder?",
     options: [
-      "Withhold insulin and correct potassium",
-      "Administer IV regular insulin bolus",
-      "Start IV insulin at 0.1 units/kg/hour",
-      "Administer intravenous sodium bicarbonate"
+      "Pigment-producing cells of the hair bulb",
+      "Sebaceous glands around the follicle",
+      "Arrector pili muscle of the follicle",
+      "Dermal collagen around terminal follicles"
     ],
     answerIndex: 0,
-    correctAnswerText: "Withhold insulin and correct potassium"
+    correctAnswerText: "Pigment-producing cells of the hair bulb"
   },
   {
     id: 6,
-    image: "",
-    question: "A 40-year-old male presents with a 3-week history of fever, headache, and diplopia. Examination reveals right oculomotor nerve palsy and nuchal rigidity. Which of the following cerebrospinal fluid (CSF) findings is most characteristic of his likely diagnosis?",
+    image: "images/IMG_6956.jpeg",
+    question: "A 6-month-old infant develops multiple tiny, clear, superficial vesicles over the trunk after a febrile illness in a hot humid climate. The lesions look like dew drops, are non-inflammatory, and rupture easily. The pediatrician explains that this occurs due to obstruction of the eccrine sweat duct at the most superficial epidermal level.\nAt which level is the obstruction most likely present?",
     options: [
-      "Neutrophilic pleocytosis with low glucose",
-      "Lymphocytic predominance with cobweb clot",
-      "Lymphocytic predominance with normal glucose",
-      "Hemorrhagic fluid with normal proteins"
+      "Stratum corneum",
+      "Stratum Malpighian",
+      "Dermo-epidermal junction",
+      "Deep dermis around apocrine gland"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Lymphocytic predominance with cobweb clot"
+    answerIndex: 0,
+    correctAnswerText: "Stratum corneum"
   },
   {
     id: 7,
-    image: "",
-    question: "A 28-year-old female presents with severe, throbbing, unilateral headaches accompanied by nausea, photophobia, and phonophobia. She reports experiencing these debilitating episodes 5 times over the past month. Which of the following is the most appropriate pharmacological approach for this patient?",
+    image: "images/IMG_6960.jpeg",
+    question: "A 26-year-old woman complains that her clothes get stained with yellow-green coloured sweat, especially from the axillary region. There is no foul smell, fever, sinus tract, or painful nodules. Histopathology shows accumulation of lipofuscin granules in apocrine secretory cells.\nWhat is the most likely diagnosis?",
     options: [
-      "Daily oral Ergotamine",
-      "Trigger avoidance alone",
-      "Prophylactic Topiramate",
-      "Daily oral Sumatriptan"
+      "Bromhidrosis",
+      "Chromhidrosis",
+      "Fox-Fordyce disease",
+      "Hidradenitis suppurativa"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Prophylactic Topiramate"
+    answerIndex: 1,
+    correctAnswerText: "Chromhidrosis"
   },
   {
     id: 8,
-    image: "",
-    question: "A 30-year-old male presents with progressive, symmetrical weakness of his bilateral lower limbs that has now spread to his arms over the past 48 hours. Examination reveals absent deep tendon reflexes. He reports having a severe diarrheal illness two weeks ago. Which of the following is specifically not effective and should be avoided in the definitive management of this patient?",
+    image: "images/IMG_6963.jpeg",
+    question: "A 17-year-old boy presents with severe facial acne. Examination shows multiple painful deep lesions with nodules and cysts, along with old scars. The dermatologist explains that this stage occurs due to rupture of hair follicles in the pilosebaceous unit and carries a high risk of permanent scarring.\nWhich is the most appropriate treatment of choice?",
     options: [
-      "Plasmapheresis",
-      "Intravenous immunoglobulin",
-      "Elective ventilatory assistance",
-      "Intravenous glucocorticoids"
+      "Topical antibiotics",
+      "Topical adapalene",
+      "Oral isotretinoin",
+      "Oral doxycycline"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Intravenous glucocorticoids"
+    answerIndex: 2,
+    correctAnswerText: "Oral isotretinoin"
   },
   {
     id: 9,
-    image: "images/IMG_8084.jpeg",
-    question: "A 35-year-old male with a history of sickle cell disease presents with sudden onset of high fever, breathlessness, and productive cough. Chest CT reveals a sharply demarcated, homogenous consolidation of the right lower lobe with visible air bronchograms. Which of the following is the most likely causative organism?",
+    image: "images/IMG_7097.jpeg",
+    question: "A 29-year-old factory worker from an industrial chemical unit presents with sudden onset of multiple uniform acne-like lesions over the face and trunk. Examination shows predominantly monomorphic comedones, with minimal inflammatory papules or pustules. He gives a history of chronic exposure to chlorinated hydrocarbon compounds at work.\nWhat is the most likely diagnosis?",
     options: [
-      "Streptococcus pneumoniae",
-      "Mycoplasma pneumoniae",
-      "Staphylococcus aureus",
-      "Pseudomonas aeruginosa"
+      "Acne excoriée",
+      "Acne conglobata",
+      "Acne fulminans",
+      "Chloracne"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Streptococcus pneumoniae"
+    answerIndex: 3,
+    correctAnswerText: "Chloracne"
   },
   {
     id: 10,
-    image: "",
-    question: "A 22-year-old female presents to the ER with severe nausea and abdominal pain 12 hours after an intentional analgesic overdose. Labs reveal markedly raised aminotransferases and low bilirubin. The massive hepatic necrosis in this patient is directly mediated by the accumulation of which of the following?",
+    image: "images/IMG_6965.jpeg",
+    question: "A 48-year-old man with chronic illness presents with paired transverse white bands across multiple fingernails. The bands are parallel to the lunula, do not move with nail growth, and become less prominent on applying pressure over the nail plate. Serum albumin is found to be markedly reduced.\nWhich nail finding is most likely present?",
     options: [
-      "Cytochrome P450 CYP2E1",
-      "N-acetyl-p-benzoquinone-imine",
-      "Depleted Glutathione",
-      "N-acetylcysteine"
+      "Muehrcke’s lines",
+      "Mees’ lines",
+      "Lindsay nails",
+      "Onychomycosis"
     ],
-    answerIndex: 1,
-    correctAnswerText: "N-acetyl-p-benzoquinone-imine"
+    answerIndex: 0,
+    correctAnswerText: "Muehrcke’s lines"
   },
   {
     id: 11,
-    image: "images/IMG_8085.jpeg",
-    question: "A 30-year-old female presents with secondary amenorrhea, galactorrhea, and bitemporal visual field defects. MRI reveals a 1.5 cm pituitary mass. Serum prolactin levels are 250 µg/L. The preferred pharmacological agents for this condition act via which of the following mechanisms?",
+    image: "images/IMG_6968.jpeg",
+    question: "A 13-year-old boy develops multiple small erythematous scaly plaques over the trunk 2 weeks after an episode of sore throat. On scraping, the lesions show dry silvery-white micaceous scales. The dermatologist explains that this disorder is a T-cell mediated chronic inflammatory disease precipitated by an external infectious trigger.\nWhich of the following is the most likely trigger in this patient?",
     options: [
-      "Serotonin 5-HT2 receptor antagonism",
-      "Dopamine D2 receptor antagonism",
-      "Dopamine D2 receptor agonism",
-      "Estrogen receptor modulation"
+      "Staphylococcus aureus",
+      "Group A β-hemolytic streptococcus",
+      "Pseudomonas aeruginosa",
+      "Candida albicans"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Dopamine D2 receptor agonism"
+    answerIndex: 1,
+    correctAnswerText: "Group A β-hemolytic streptococcus"
   },
   {
     id: 12,
-    image: "images/IMG_8086.jpeg",
-    question: "A 55-year-old male with alcoholic cirrhosis and ascites presents with new-onset fever and diffuse abdominal pain. Diagnostic paracentesis reveals an ascitic fluid neutrophil count of 400/mm³. Which of the following interventions is recommended alongside intravenous antibiotics to specifically decrease this patient's risk of developing renal failure?",
+    image: "images/IMG_6969.jpeg",
+    question: "A 21-year-old woman presents with an oval erythematous plaque on the trunk followed by multiple smaller lesions along the skin cleavage lines. On close examination, each lesion shows a fine scale attached at the inner margin with free edge directed inward, giving a collar-like appearance.\nWhich of the following conditions is classically associated with this type of scale?",
     options: [
-      "Fresh frozen plasma",
-      "Intravenous loop diuretics",
-      "Prophylactic beta-blockers",
-      "Intravenous albumin infusion"
+      "Psoriasis",
+      "Ichthyosis",
+      "Pityriasis rosea",
+      "Seborrheic dermatitis"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Intravenous albumin infusion"
+    answerIndex: 2,
+    correctAnswerText: "Pityriasis rosea"
   },
   {
     id: 13,
-    image: "images/IMG_8087.jpeg",
-    question: "A 50-year-old male on chronic loop diuretics presents with severe muscle weakness and decreased bowel sounds. An ECG is ordered to evaluate for suspected electrolyte imbalance. Which of the following is the earliest expected electrocardiographic change in this patient's condition?",
+    image: "images/IMG_6970.jpeg",
+    question: "A 34-year-old man presents with well-defined erythematous plaques over the elbows and knees covered by dry silvery scales. During bedside examination, the dermatologist gently rubs the plaque with a glass slide. The scaling first becomes more prominent, then a thin translucent membrane is exposed, and on further removal of this membrane, multiple pinpoint bleeding spots appear.\nWhich of the following correctly represents the final finding described?",
     options: [
-      "Flattening of the T wave",
-      "Prominent U wave",
-      "ST segment depression",
-      "Pseudo P pulmonale"
+      "Candle wax sign",
+      "Bulkley’s membrane",
+      "Koebner phenomenon",
+      "Auspitz sign"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Flattening of the T wave"
+    answerIndex: 3,
+    correctAnswerText: "Auspitz sign"
   },
   {
     id: 14,
-    image: "",
-    question: "A 65-year-old male with an acute exacerbation of COPD requires immediate mechanical ventilation for severe acute respiratory acidosis. During his management, rapid correction of his hypercapnia must be strictly avoided to prevent which of the following specific complications?",
+    image: "images/IMG_6972.jpeg",
+    question: "A 28-year-old woman with severe psoriasis has generalized pustular lesions involving a large body surface area. She is planned for systemic therapy. The dermatologist chooses an oral retinoid and specifically counsels her to avoid pregnancy for 3 years after stopping the drug.\nWhich drug is most likely being prescribed?",
     options: [
-      "Non-cardiogenic pulmonary edema",
-      "Cardiac arrhythmias and seizures",
-      "Paradoxical intracellular acidosis",
-      "Osmotic demyelination syndrome"
+      "Acitretin",
+      "Methotrexate",
+      "Cyclosporine",
+      "Oral corticosteroid"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Cardiac arrhythmias and seizures"
+    answerIndex: 0,
+    correctAnswerText: "Acitretin"
   },
   {
     id: 15,
-    image: "",
-    question: "A 60-year-old male with a history of prior myocardial infarction presents with sudden onset of palpitations. His blood pressure is 130/80 mmHg and he is completely conscious. ECG reveals a wide QRS complex tachycardia with an absent P wave and ventriculoatrial dissociation. What is the most appropriate initial management for this patient?",
+    image: "images/IMG_6973.jpeg",
+    question: "A 42-year-old woman presents with multiple intensely itchy lesions over the flexor aspect of the wrist. Examination shows violaceous, flat-topped, polygonal papules. On close inspection, fine whitish lacy lines are seen over the surface of the lesions.\nWhich of the following best describes the classical morphology of this condition?",
     options: [
-      "Synchronized electrical cardioversion",
-      "Intravenous magnesium sulfate",
-      "Intravenous amiodarone",
-      "Intravenous procainamide"
+      "Painful pustules with purulent crusting",
+      "Pruritic purple polygonal planar papules",
+      "Photosensitive plaques with greasy yellow scales",
+      "Pearly papules with central umbilication"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Intravenous amiodarone"
+    answerIndex: 1,
+    correctAnswerText: "Pruritic purple polygonal planar papules"
   },
   {
     id: 16,
-    image: "",
-    question: "A 28-year-old male presents with a recent onset of jaundice, anorexia, and tender hepatomegaly. His viral serology panel reveals negative HBsAg and negative anti-HBs. Which of the following markers is most crucial to establish a diagnosis of acute Hepatitis B in this specific patient?",
+    image: "images/IMG_6975.jpeg",
+    question: "A 36-year-old woman presents with intensely itchy, violaceous, flat-topped papules over the wrists. On nail examination, there is longitudinal ridging, thinning of the nail plate, and a triangular extension of the proximal nail fold onto the nail plate, which appears to fuse with the nail bed.\nWhich nail finding is most specific for this condition?",
     options: [
-      "HBeAg",
-      "Anti-HBe",
-      "IgG anti-HBc",
-      "IgM anti-HBc"
+      "Uniform geometric nail pitting",
+      "Muehrcke’s lines",
+      "Dorsal pterygium",
+      "Oil-drop sign"
     ],
-    answerIndex: 3,
-    correctAnswerText: "IgM anti-HBc"
+    answerIndex: 2,
+    correctAnswerText: "Dorsal pterygium"
   },
   {
     id: 17,
-    image: "",
-    question: "A 3-year-old child survives an episode of acute poisoning after accidentally ingesting a handful of his mother's radiopaque prenatal supplements. He initially presented with severe abdominal pain and hemorrhagic gastroenteritis. Six weeks later, he presents to the clinic with recurrent episodes of non-bilious vomiting. Which of the following is the most likely acquired cause of his current symptoms?",
+    image: "images/IMG_6976.jpeg",
+    question: "A 9-year-old child presents with generalized rough follicular papules that are red-orange and pointed. Examination shows diffuse erythematous plaques with sharply demarcated normal skin islands within the involved areas. Palms and soles show orangish-yellow thickening, giving a keratoderma-like appearance. Histopathology shows alternating vertical and horizontal zones of orthokeratosis and parakeratosis, producing a checkerboard pattern.\nWhich is the most likely diagnosis?",
     options: [
-      "Pyloric stenosis",
-      "Esophageal stricture",
-      "Intussusception",
-      "Duodenal web"
+      "Psoriasis",
+      "Pityriasis rosea",
+      "Lichen planus",
+      "Pityriasis rubra pilaris"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Pyloric stenosis"
+    answerIndex: 3,
+    correctAnswerText: "Pityriasis rubra pilaris"
   },
   {
     id: 18,
-    image: "",
-    question: "A 34-year-old female presents with a daily, worsening headache for the past 6 months. She reports taking over-the-counter ibuprofen every day for relief. She notes that her headache severity paradoxically decreased during a recent 3-day period when she ran out of her pills. What is the most appropriate initial management for this condition?",
+    image: "images/IMG_6977.jpeg",
+    question: "A 46-year-old woman presents with painful oral erosions followed by multiple flaccid bullae over the trunk. The bullae rupture easily, leaving raw erosions. Biopsy shows loss of cohesion between keratinocytes above the basal layer, while basal cells remain attached to the basement membrane giving a “row of tombstones” appearance.\nWhich immunological abnormality best explains this condition?",
     options: [
-      "Start prophylactic topiramate",
-      "Withdrawal of the overused medication",
-      "Switch to daily oral sumatriptan",
-      "Order an urgent MRI of the brain"
+      "IgG antibodies against desmoglein 3 causing suprabasal split",
+      "IgG antibodies against desmoglein 1 causing subcorneal split",
+      "IgA deposition in dermal papillae causing grouped vesicles",
+      "IgG antibodies against hemidesmosomes causing subepidermal split"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Withdrawal of the overused medication"
+    answerIndex: 0,
+    correctAnswerText: "IgG antibodies against desmoglein 3 causing suprabasal split"
   },
   {
     id: 19,
-    image: "images/IMG_8161.jpeg",
-    question: "A 34-year-old female presents with bilateral ptosis and dysphagia that progressively worsens towards the evening. Her deep tendon reflexes are intact. Application of an ice pack over her eyes significantly improves the ptosis. This patient's condition is primarily caused by autoantibodies directly targeting which of the following structures?",
+    image: "images/IMG_6980.jpeg",
+    question: "A 58-year-old man presents with severe, persistent painful oral erosions and widespread polymorphic skin lesions including erosions, crusted plaques, and vesiculobullous lesions. The lesions are unusually resistant to routine therapy. Immunological evaluation shows antibodies against desmoglein 1, desmoglein 3, and plakin group proteins. Further workup is planned to look for an associated internal malignancy.\nWhich of the following malignancies is most commonly associated with this condition?",
     options: [
-      "Pre-synaptic voltage-gated calcium channels",
-      "Synaptic cleft acetylcholinesterase enzymes",
-      "Post-synaptic acetylcholine receptors",
-      "Pre-synaptic acetylcholine vesicles"
+      "Chronic lymphocytic leukemia",
+      "Non-Hodgkin lymphoma",
+      "Thymoma",
+      "Castleman disease"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Post-synaptic acetylcholine receptors"
+    answerIndex: 1,
+    correctAnswerText: "Non-Hodgkin lymphoma"
   },
   {
     id: 20,
     image: "",
-    question: "A 30-year-old female presents with severe persistent vomiting for 4 days. Her blood pressure is 90/60 mmHg. Arterial blood gas reveals a pH of 7.52, PaCO2 of 20 mmHg, and HCO3- of 30 mEq/L. Serum chloride is severely low at 67 mEq/L. Which of the following is the definitive acid-base diagnosis?",
+    question: "A 44-year-old woman with recurrent painful oral erosions and flaccid bullae is diagnosed with an autoimmune intraepidermal blistering disorder. She was initially started on systemic corticosteroids at 1 mg/kg/day, but due to repeated relapses and steroid-related adverse effects, a biologic agent targeting B lymphocytes is planned.\nWhich of the following drugs acts by blocking the CD20 receptor?",
     options: [
-      "Compensated metabolic alkalosis",
-      "Compensated respiratory alkalosis",
-      "Mixed metabolic acidosis and respiratory alkalosis",
-      "Mixed metabolic and respiratory alkalosis"
+      "Methotrexate",
+      "Cyclosporine",
+      "Rituximab",
+      "Dapsone"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Mixed metabolic and respiratory alkalosis"
+    answerIndex: 2,
+    correctAnswerText: "Rituximab"
   },
   {
     id: 21,
-    image: "",
-    question: "A 60-year-old male presents with confusion and nausea. Laboratory investigations reveal a serum sodium of 120 mEq/L, plasma osmolality of 270 mOsm/kg, and a surprisingly high urine osmolality of 1000 mOsm/kg. Clinical examination reveals no signs of dehydration or pedal edema. Which of the following best describes this patient's sodium and volume status?",
+    image: "images/IMG_6981.jpeg",
+    question: "A 72-year-old man presents with multiple large tense bullae over the abdomen and thighs. Oral mucosa is spared. Tzanck smear shows no acantholytic cells, but inflammatory cells rich in eosinophils are seen. Skin biopsy shows a subepidermal split, and direct immunofluorescence demonstrates linear IgG deposition along the basement membrane zone, giving a ribbon-like appearance.\nWhich antigen is most commonly targeted in this disorder?",
     options: [
-      "Euvolemic hyponatremia",
-      "Hypovolemic hyponatremia",
-      "Hypervolemic hyponatremia",
-      "Hypertonic hyponatremia"
+      "Desmoglein 3",
+      "Desmoglein 1",
+      "Epidermal transglutaminase",
+      "BPAg2 hemidesmosomal antigen"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Euvolemic hyponatremia"
+    answerIndex: 3,
+    correctAnswerText: "BPAg2 hemidesmosomal antigen"
   },
   {
     id: 22,
-    image: "images/IMG_8091.jpeg",
-    question: "A 25-year-old male is evaluated for refractory hypertension. Physical examination reveals a blood pressure of 160/90 mmHg in his right arm, but his femoral pulses are weak and delayed. A chest X-ray demonstrates inferior rib notching (Roesler's sign). Which of the following ribs are characteristically spared from this radiological finding in this condition?",
+    image: "images/IMG_6982.jpeg",
+    question: "A 29-year-old primigravida in her third trimester presents with intensely itchy erythematous plaques around the umbilicus. Over the next few days, she develops tense bullae with surrounding edema. Biopsy shows a subepidermal blister, and immunopathology suggests antibodies cross-reacting with BPAg2 after loss of immune tolerance to fetal tissue.\nWhat is the most likely diagnosis?",
     options: [
-      "1st and 2nd ribs",
-      "4th and 5th ribs",
-      "6th and 7th ribs",
-      "8th and 9th ribs"
+      "Pemphigoid gestationis",
+      "Polymorphic eruption of pregnancy",
+      "Intrahepatic cholestasis of pregnancy",
+      "Impetigo herpetiformis"
     ],
     answerIndex: 0,
-    correctAnswerText: "1st and 2nd ribs"
+    correctAnswerText: "Pemphigoid gestationis"
   },
   {
     id: 23,
-    image: "",
-    question: "A 65-year-old female presents with a new-onset, severe right-sided headache and jaw pain while chewing. Today, she suddenly developed blurred vision in her right eye. She also reports morning stiffness in her shoulders for the past month. What is the most appropriate immediate next step in management?",
+    image: "images/IMG_7098.jpeg",
+    question: "A 5-year-old child presents with recurrent itchy vesiculobullous lesions over the lower trunk and perineal region. Examination shows multiple vesicles arranged in an annular pattern, with newer vesicles forming around older lesions, producing a “string of pearls” / “cluster of jewels” appearance. Immunopathology shows linear IgA deposition targeting BPAg2.\nWhat is the most likely diagnosis?",
     options: [
-      "Urgent temporal artery biopsy",
-      "Intravenous methylprednisolone",
-      "Oral non-steroidal anti-inflammatory drugs",
-      "Subcutaneous tocilizumab"
+      "Bullous pemphigoid",
+      "Chronic bullous disease of childhood",
+      "Pemphigus vulgaris",
+      "Dermatitis herpetiformis"
     ],
     answerIndex: 1,
-    correctAnswerText: "Intravenous methylprednisolone"
+    correctAnswerText: "Chronic bullous disease of childhood"
   },
   {
     id: 24,
-    image: "images/IMG_8093.jpeg",
-    question: "A 10-month-old male infant presents with an itchy rash on his cheeks and a history of recurrent bacterial ear infections. A complete blood count reveals a platelet count of 45,000/µL. A peripheral smear shows characteristically small platelets. Which of the following immunoglobulin profiles is most likely expected in this patient?",
+    image: "images/IMG_6984.jpeg",
+    question: "A 24-year-old man presents with severe itching and recurrent grouped vesicles over both elbows, knees, buttocks, and shoulders. Many lesions are excoriated due to scratching. Biopsy shows a subepidermal split with collections of neutrophils at the tips of dermal papillae. Direct immunofluorescence shows a granular pattern of IgA deposition at the dermal papillary tips.\nWhich of the following is the treatment of choice for rapid symptomatic relief?",
     options: [
-      "Isolated low IgA",
-      "High IgM, low IgA and IgG",
-      "Low IgM, high IgA and IgE",
-      "Panhypogammaglobulinemia"
+      "Rituximab",
+      "Oral acitretin",
+      "Dapsone",
+      "Methotrexate"
     ],
     answerIndex: 2,
-    correctAnswerText: "Low IgM, high IgA and IgE"
+    correctAnswerText: "Dapsone"
   },
   {
     id: 25,
-    image: "",
-    question: "A 45-year-old male presents with palpitations and exertional dyspnea. Vital signs reveal a blood pressure of 160/50 mmHg. Palpation of the chest demonstrates a heaving apical impulse displaced inferiorly. Which of the following is the most likely expected finding in this patient?",
+    image: "images/IMG_6989.jpeg",
+    question: "A 16-year-old boy presents with multiple dark, greasy, hyperkeratotic papules over the neck, upper trunk, and seborrheic areas. The neck appears unclean despite repeated washing. Oral examination shows thickened hard palate with cobblestone appearance, and nails show V-shaped triangular notching at the distal nail margin. Histology reveals suprabasal acantholysis.\nWhich genetic defect is most likely responsible for this disorder?",
     options: [
-      "Loud A2 component of the second heart sound",
-      "Pulsus parvus et tardus on palpation",
-      "Measurement of diastolic pressure at Korotkoff phase V",
-      "Early diastolic murmur at the third left intercostal space"
+      "CARD14 gene defect",
+      "Filaggrin gene defect",
+      "Desmoglein 1 gene defect",
+      "ATP2A2 gene defect"
     ],
     answerIndex: 3,
-    correctAnswerText: "Early diastolic murmur at the third left intercostal space"
+    correctAnswerText: "ATP2A2 gene defect"
   },
   {
     id: 26,
-    image: "",
-    question: "A 28-year-old male is brought to the ER following a high-speed motorcycle accident. He is in severe respiratory distress, hypotensive (80/50 mmHg), and exhibits engorged neck veins. Examination reveals absent breath sounds on the right hemithorax and a deviated trachea to the left. Which of the following is the most appropriate anatomical landmark for the definitive immediate management of this patient's condition?",
+    image: "images/IMG_6990.jpeg",
+    question: "A 30-year-old man presents with recurrent painful erosions and macerated plaques in the axilla and groin, worsened by sweating and friction. There is a family history of similar lesions. Biopsy shows suprabasal acantholysis with incomplete separation of keratinocytes, giving a “dilapidated brick wall” appearance. Genetic testing reveals a defect in a calcium channel–related gene.\nWhich is the most likely diagnosis?",
     options: [
-      "Second intercostal space in the midclavicular line",
-      "Right fifth intercostal space anterior to the mid-axillary line",
-      "Left fifth intercostal space anterior to the mid-axillary line",
-      "Triangle of safety bounded by the lateral border of latissimus dorsi"
+      "Hailey-Hailey disease",
+      "Darier disease",
+      "Pemphigus vulgaris",
+      "Bullous pemphigoid"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Right fifth intercostal space anterior to the mid-axillary line"
+    answerIndex: 0,
+    correctAnswerText: "Hailey-Hailey disease"
   },
   {
     id: 27,
-    image: "",
-    question: "A 65-year-old male with a history of severe coronary artery disease presents to the clinic with signs of severe volume overload. Which of the following clinical findings specifically points towards isolated left-sided heart failure?",
+    image: "images/IMG_6992.jpeg",
+    question: "A 41-year-old diabetic man presents with rapidly spreading painful erythematous swelling over the leg associated with fever. Examination shows diffuse warmth, tenderness, and edema of the involved skin without any obvious follicular-centered pustule or boil. The dermatologist classifies it as a progressive non-follicular pyoderma.\nWhich of the following belongs to the same category?",
     options: [
-      "Early satiety",
-      "Raised pulsatile JVP",
-      "Paroxysmal nocturnal dyspnea",
-      "Tender hepatomegaly"
+      "Impetigo",
+      "Cellulitis",
+      "Folliculitis",
+      "Furuncle"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Paroxysmal nocturnal dyspnea"
+    answerIndex: 1,
+    correctAnswerText: "Cellulitis"
   },
   {
     id: 28,
-    image: "",
-    question: "A 32-year-old female presents with recurrent episodes of unilateral visual loss and limb weakness that disseminate in time and space. Visual evoked potential studies demonstrate significantly delayed conduction velocities. The primary pathophysiology of her condition involves the disruption of rapid, saltatory electrical conduction that normally jumps between which of the following structures?",
+    image: "images/IMG_6993.jpeg",
+    question: "A 7-year-old child presents with patchy hair loss over the scalp with broken hairs and mild scaling. On examination in a dark room using a diagnostic lamp emitting 365 nm wavelength, the affected scalp hairs show blue-green fluorescence.\nWhich condition is most likely responsible for this finding?",
     options: [
-      "Synaptic clefts",
-      "Astrocytic foot processes",
-      "Adjacent Schwann cells",
-      "Nodes of Ranvier"
+      "Erythrasma",
+      "Pityriasis versicolor",
+      "Tinea capitis",
+      "Vitiligo"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Nodes of Ranvier"
+    answerIndex: 2,
+    correctAnswerText: "Tinea capitis"
   },
   {
     id: 29,
-    image: "",
-    question: "A 10-year-old boy with short stature, chronic diarrhea, and iron deficiency anemia is suspected of having a gluten-sensitive enteropathy. His initial screening test for IgA anti-tissue transglutaminase (anti-tTG) returns negative. Which of the following parameters must be evaluated to rule out a false-negative result in this patient?",
+    image: "images/IMG_6996.jpeg",
+    question: "A 6-year-old child presents with multiple superficial erosions around the nose and mouth covered by golden honey-coloured crusts. There are no intact bullae. Culture shows predominance of Group A Streptococcus. Two weeks later, the child develops facial puffiness, cola-coloured urine, and hypertension.\nWhich complication is classically associated with this condition?",
     options: [
-      "Total serum IgA levels",
-      "Serum IgG anti-tTG",
-      "HLA-DQ2/DQ8 typing",
-      "Fecal calprotectin"
+      "Staphylococcal scalded skin syndrome",
+      "Acute rheumatic fever",
+      "Secondary complications are rare",
+      "Post-streptococcal glomerulonephritis"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Total serum IgA levels"
+    answerIndex: 3,
+    correctAnswerText: "Post-streptococcal glomerulonephritis"
   },
   {
     id: 30,
-    image: "",
-    question: "A 22-year-old male with type 1 diabetes presents to the emergency department with deep, rapid breathing and a blood glucose of 450 mg/dL. Arterial blood gas analysis reveals a pH of 7.20 and a serum bicarbonate (HCO3-) of 10 mEq/L. To determine the adequacy of his respiratory compensation, which of the following is his expected PaCO2 level?",
+    image: "images/IMG_6998.jpeg",
+    question: "A 2-year-old child develops fever and diffuse painful erythema after a recent ear infection. Within 24 hours, large sheets of superficial skin peel off, giving a “potato-skin peeling” appearance. The child has marked skin tenderness, but the oral mucosa is spared. The causative organism releases a toxin that targets a desmosomal protein in the upper epidermis.\nWhich mechanism best explains this condition?",
     options: [
-      "15 ± 2 mmHg",
-      "23 ± 2 mmHg",
-      "28 ± 2 mmHg",
-      "35 ± 2 mmHg"
+      "Exfoliative toxin of Staphylococcus aureus binds desmoglein 1 causing subcorneal split",
+      "IgG antibody against desmoglein 3 causing suprabasal split",
+      "IgG antibody against BPAg2 causing subepidermal split",
+      "Streptococcal infection causing honey-coloured crust with renal complication"
     ],
-    answerIndex: 1,
-    correctAnswerText: "23 ± 2 mmHg"
+    answerIndex: 0,
+    correctAnswerText: "Exfoliative toxin of Staphylococcus aureus binds desmoglein 1 causing subcorneal split"
   },
   {
     id: 31,
-    image: "",
-    question: "A 14-year-old boy presents with severe groin pain and a limp after playing a rigorous football match in the summer heat. He has a history of recurrent episodes of painful hand swelling during infancy, and a recent abdominal ultrasound revealed a shrunken, fibrotic spleen. Which of the following is the most likely diagnosis for his current hip pathology?",
+    image: "images/IMG_6999.jpeg",
+    question: "A 24-year-old man presents with excessive sweating and poor local hygiene. On examination, the axillary hairs are coated with yellowish crust-like concretions. The underlying skin is minimally inflamed. The dermatologist advises improved hygiene and shaving of axillary hair as part of treatment.\nWhich is the most likely diagnosis?",
     options: [
-      "Slipped capital femoral epiphysis",
-      "Legg-Calvé-Perthes disease",
-      "Avascular necrosis of the femoral head",
-      "Transient synovitis"
+      "Erythrasma",
+      "Trichomycosis axillaris",
+      "Pitted keratolysis",
+      "Pityriasis versicolor"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Avascular necrosis of the femoral head"
+    answerIndex: 1,
+    correctAnswerText: "Trichomycosis axillaris"
   },
   {
     id: 32,
-    image: "",
-    question: "A patient with suspected leprosy presents with an anesthetic patch on the ear lobule. Clinical examination reveals a visibly thickened, cord-like structure winding over the upper posterior border of the sternocleidomastoid muscle. Which of the following nerves is most likely involved?",
+    image: "images/IMG_7003.jpeg",
+    question: "A 58-year-old diabetic woman presents with sudden onset fever and a painful, bright red swelling over the face. Examination shows well-defined erythema with raised margins. The lesion extends over the cheek and also involves the ear pinna. The dermatologist mentions that this ear involvement helps differentiate it from a deeper soft tissue infection.\nWhat is the most likely diagnosis?",
     options: [
-      "Great auricular nerve",
-      "Transverse cervical nerve",
-      "Lesser occipital nerve",
-      "Spinal accessory nerve"
+      "Cellulitis",
+      "Erysipeloid",
+      "Erysipelas",
+      "Pitted keratolysis"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Great auricular nerve"
+    answerIndex: 2,
+    correctAnswerText: "Erysipelas"
   },
   {
     id: 33,
-    image: "",
-    question: "A 60-year-old right-handed man is brought to the emergency department after a sudden stroke. He is frustrated because he can understand commands perfectly, but his speech is non-fluent, broken, and requires immense effort to produce. The acute infarct is most likely localized to which of the following specific cortical regions?",
+    image: "images/IMG_7004.jpeg",
+    question: "A 27-year-old veterinary worker develops a painful nodular lesion over the finger after handling goats. The lesion later becomes ulcerated with thick hemorrhagic crusting. There is no generalized illness. Biopsy shows ballooning degeneration of keratinocytes. The dermatologist reassures him that treatment is mainly symptomatic.\nWhich is the most likely causative agent?",
     options: [
-      "Superior temporal gyrus (Area 22)",
-      "Inferior frontal gyrus (Areas 44, 45)",
-      "Middle frontal gyrus (Area 8)",
-      "Postcentral gyrus (Areas 3, 1, 2)"
+      "Streptococcus pyogenes",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Orf virus"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Inferior frontal gyrus (Areas 44, 45)"
+    answerIndex: 3,
+    correctAnswerText: "Orf virus"
   },
   {
     id: 34,
-    image: "",
-    question: "A 45-year-old male is undergoing a Nissen fundoplication for severe, refractory gastroesophageal reflux disease. The surgeon carefully dissects the diaphragmatic crura to mobilize the gastroesophageal junction. At this specific vertebral level (T10), which of the following structures must be meticulously identified and protected as it passes through the same aperture?",
+    image: "images/IMG_7006.jpeg",
+    question: "A 23-year-old woman presents with recurrent episodes of burning and itching around the angle of the mouth followed by multiple grouped vesicles near the mucocutaneous junction. The lesions heal spontaneously but recur during stress. Tzanck smear shows multinucleated giant cells, and histopathology shows ballooning degeneration with intranuclear inclusion bodies.\nWhat is the most likely diagnosis?",
     options: [
-      "Right phrenic nerve",
-      "Thoracic duct",
-      "Right and left vagus nerves",
-      "Azygos vein"
+      "Herpes simplex virus infection",
+      "Varicella zoster infection",
+      "Non-bullous impetigo",
+      "Ecthyma contagiosum"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Right and left vagus nerves"
+    answerIndex: 0,
+    correctAnswerText: "Herpes simplex virus infection"
   },
   {
     id: 35,
-    image: "",
-    question: "A patient presents to the orthopedics clinic complaining of a severe restriction in side-to-side rotation of the head (\"shaking the head no\") following a minor neck sprain. This specific movement occurs primarily at the median atlanto-axial articulation. What is the specific anatomical classification of this central joint?",
+    image: "images/IMG_7007.jpeg",
+    question: "A 52-year-old man presents with severe ear pain followed by lower motor neuron facial palsy. Examination shows grouped vesicles in the external auditory canal. He also complains of burning pain before appearance of the vesicles. The physician explains that this occurs due to reactivation of a latent virus causing inflammation of the geniculate ganglion.\nWhat is the most likely diagnosis?",
     options: [
-      "Saddle joint",
-      "Hinge joint",
-      "Plane joint",
-      "Pivot joint"
+      "Herpes simplex labialis",
+      "Ramsay Hunt syndrome",
+      "Chickenpox",
+      "Non-bullous impetigo"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Pivot joint"
+    answerIndex: 1,
+    correctAnswerText: "Ramsay Hunt syndrome"
   },
   {
     id: 36,
-    image: "images/IMG_8101.jpeg",
-    question: "A neonate is born with a prominent midline abdominal wall defect. Examination reveals herniated bowel loops and a portion of the liver completely covered by a translucent membranous sac. Which of the following is the primary embryological failure responsible for this specific condition?",
+    image: "",
+    question: "A 15-year-old athlete presents with a painful hyperkeratotic lesion on the sole, worsened while walking. He has a history of excessive sweating of feet and repeated minor trauma during sports. On paring the lesion, pinpoint black dots are seen. Histopathology shows vacuolated keratinocytes with inclusion bodies.\nWhich HPV type is most commonly associated with this lesion?",
     options: [
-      "Failure of physiological hernia to reduce",
-      "Incomplete closure of lateral body folds",
-      "Ischemic injury to the paraumbilical region",
-      "Postnatal weakness of the fascial ring"
+      "HPV 2 and 5",
+      "HPV 6 and 11",
+      "HPV 1",
+      "HPV 3 and 10"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Failure of physiological hernia to reduce"
+    answerIndex: 2,
+    correctAnswerText: "HPV 1"
   },
   {
     id: 37,
-    image: "",
-    question: "A 22-year-old male presents with acute appendicitis. He initially complained of vague, poorly localized pain around the umbilicus before it shifted to the right iliac fossa. The initial periumbilical referred pain is mediated by which specific spinal dermatome level?",
+    image: "images/IMG_7015.jpeg",
+    question: "A 6-year-old child presents with multiple discrete, smooth, flesh-coloured, pearly dome-shaped papules over the trunk. Each lesion has a characteristic central umbilication. Histopathology shows enlarged epidermal cells with intracytoplasmic inclusion bodies and a “smashed potato” appearance.\nWhich of the following is the most characteristic histopathological finding?",
     options: [
-      "T8",
-      "T10",
-      "T12",
-      "L1"
+      "Koilocytes with perinuclear halo",
+      "Multinucleated giant cells",
+      "Ballooning degeneration of keratinocytes",
+      "Henderson-Patterson bodies"
     ],
-    answerIndex: 1,
-    correctAnswerText: "T10"
+    answerIndex: 3,
+    correctAnswerText: "Henderson-Patterson bodies"
   },
   {
     id: 38,
-    image: "images/IMG_8103.jpeg",
-    question: "A 30-year-old male presents with a classic \"foot drop\" and high-stepping gait following a fracture of the fibular neck. Which of the following specific muscles is paralyzed due to the injury of the deep branch of the affected nerve?",
+    image: "images/IMG_7016.jpeg",
+    question: "A 9-year-old child presents with chronic scalp scaling and patchy hair loss. Examination shows multiple yellow, cup-shaped crusted lesions around hair follicles. Some lesions have coalesced, and early scarring alopecia is noted. The dermatologist describes these yellow cup-like crusts as scutula.\nWhich organism is most classically associated with this presentation?",
     options: [
-      "Peroneus longus",
-      "Short head of biceps femoris",
-      "Tibialis anterior",
-      "Gastrocnemius"
+      "Trichophyton schoenleinii",
+      "Microsporum canis",
+      "Trichophyton tonsurans",
+      "Trichophyton mentagrophytes"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Tibialis anterior"
+    answerIndex: 0,
+    correctAnswerText: "Trichophyton schoenleinii"
   },
   {
-    id: 39,
-    image: "",
-    question: "A 65-year-old chronic smoker is being followed up for an asymptomatic abdominal aortic aneurysm (AAA). Routine surveillance is being performed using ultrasonography. Which of the following parameters is a definitive indication for elective surgical intervention in this patient?",
-    options: [
-      "Aneurysm diameter of 5.0 cm in a male",
-      "Aneurysm expansion of 0.4 cm in 6 months",
-      "Aneurysm diameter of 4.2 cm in a female",
-      "Aneurysm expansion of 1.2 cm in 1 year"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Aneurysm expansion of 1.2 cm in 1 year"
+  id: 39,
+  image: "images/IMG_7021.jpeg",
+  question: "A 17-year-old boy from a tropical rural area presents with multiple chronic itchy plaques over the trunk and limbs. Examination shows concentric, overlapping, ring-like scaly lesions giving a target-like / imbricated pattern. KOH mount from the scale confirms dermatophyte infection.\nWhich organism is most likely responsible?",
+  options: [
+    "Trichophyton rubrum",
+    "Trichophyton concentricum",
+    "Microsporum canis",
+    "Trichophyton schoenleinii"
+  ],
+  answerIndex: 1,
+  correctAnswerText: "Trichophyton concentricum"
   },
   {
     id: 40,
-    image: "images/IMG_8104.jpeg",
-    question: "A 35-year-old male undergoes a radical orchiectomy for a painless testicular swelling. Gross examination reveals a well-circumscribed, pale, fleshy, homogenous mass with a lobulated cut surface and no evidence of hemorrhage. Which of the following is the most likely histopathological finding?",
+    image: "images/IMG_7022.jpeg",
+    question: "A 19-year-old college student presents with multiple discrete-to-confluent hypopigmented perifollicular macules over the upper back and chest. The lesions become more obvious after sun exposure. KOH mount shows short curved hyphae mixed with round spores, giving a “spaghetti and meatball” appearance. Wood’s lamp examination shows yellow fluorescence.\nWhich factor best explains the hypopigmentation in this condition?",
     options: [
-      "Uniform cells with clear cytoplasm and central nuclei",
-      "Schiller-Duval bodies with glomeruloid structures",
-      "Pleomorphic cells with extensive hemorrhage",
-      "Interstitial cells containing Reinke crystals"
+      "Porphyrin production by Corynebacterium minutissimum",
+      "Autoimmune destruction of melanocytes",
+      "Azelaic acid released by Malassezia species",
+      "Exfoliative toxin-mediated cleavage of desmoglein 1"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Uniform cells with clear cytoplasm and central nuclei"
+    answerIndex: 2,
+    correctAnswerText: "Azelaic acid released by Malassezia species"
   },
   {
     id: 41,
-    image: "images/IMG_8105.jpeg",
-    question: "A 5-month-old infant is brought to the clinic with a bright red, elevated, and lobulated mass on her right upper eyelid. The mother reports it has grown rapidly over the last few weeks and is now partially obstructing the infant's visual axis. Which of the following is the most appropriate first-line systemic management for this condition?",
+    image: "images/IMG_7023.jpeg",
+    question: "A 38-year-old farmer presents with a chronic swelling of the foot for several years. The lesion is slowly progressive and has multiple discharging sinuses. On examination, there is marked deformity of the foot, and black-coloured granules are seen in the discharge.\nWhich of the following best fits this condition?",
     options: [
-      "Intralesional triamcinolone",
-      "Oral propranolol",
-      "Interferon alfa-2a",
-      "Local resection with carbon dioxide laser"
+      "Actinomycetoma with yellow grains and rapid progression",
+      "Botryomycosis due to Staphylococcus aureus",
+      "Erysipeloid due to Erysipelothrix rhusiopathiae",
+      "Eumycetoma with black grains and slow progression"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Oral propranolol"
+    answerIndex: 3,
+    correctAnswerText: "Eumycetoma with black grains and slow progression"
   },
   {
     id: 42,
-    image: "",
-    question: "A 40-year-old female presents with spontaneous, bloody discharge from a single duct of her right breast. Clinical examination and imaging reveal no palpable mass. Which of the following is the most appropriate definitive surgical intervention?",
+    image: "images/IMG_7026.jpeg",
+    question: "A 45-year-old farmer presents with a slowly enlarging verrucous, cauliflower-like thickened plaque over the extensor surface of the leg. The lesion is chronic and non-healing. Biopsy shows thick-walled, brown, round fungal bodies arranged with internal septations.\nWhich of the following histopathological findings is most characteristic of this condition?",
     options: [
-      "Adair-Haldfield operation",
-      "Simple mastectomy",
-      "Microdochectomy",
-      "Wide local excision"
+      "Copper penny bodies",
+      "Henderson-Patterson bodies",
+      "Donovan bodies",
+      "Negri bodies"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Microdochectomy"
+    answerIndex: 0,
+    correctAnswerText: "Copper penny bodies"
   },
   {
     id: 43,
-    image: "",
-    question: "A surgical resident is closing a subcutaneous layer and selects chromic catgut to approximate the rapidly healing tissue. Which of the following describes the primary mechanism by which this specific suture material is eventually absorbed by the body?",
+    image: "images/IMG_7028.jpeg",
+    question: "A 35-year-old gardener presents with a painless ulcerated nodule on the hand after a thorn prick while handling rose plants. Over the next few weeks, multiple nodules develop in a linear arrangement along the forearm, following the course of lymphatics. Biopsy shows star-shaped asteroid bodies.\nWhich organism is most likely responsible?",
     options: [
-      "Slow continuous hydrolysis",
-      "Permanent fibroblastic encapsulation",
-      "Rapid degradation within 7 days",
-      "Macrophage phagocytosis and enzymatic degradation"
+      "Nocardia brasiliensis",
+      "Sporothrix schenckii",
+      "Mycobacterium marinum",
+      "Phialophora verrucosa"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Macrophage phagocytosis and enzymatic degradation"
+    answerIndex: 1,
+    correctAnswerText: "Sporothrix schenckii"
   },
   {
     id: 44,
-    image: "",
-    question: "A 68-year-old female presents with severe pruritus and a well-defined, moist, erythematous scaly plaque on her vulva. A punch biopsy confirms the diagnosis of Extramammary Paget's disease. Which of the following statements regarding the pathogenesis or management of this condition is most accurate?",
+    image: "images/IMG_7029.jpeg",
+    question: "A 46-year-old homeless man presents with severe generalized itching, multiple excoriations, and secondary bacterial infection over the trunk. Examination reveals lice and nits mainly in the seams of clothing and bedding, while scalp hair and pubic hair are relatively spared. The dermatologist advises disinfection of clothes and bedding as the most important step.\nWhich infestation is most likely responsible?",
     options: [
-      "The primary form is most common and occurs without an underlying malignancy",
-      "The perianal region is the most frequently affected anatomical site",
-      "The secondary form arises exclusively from local squamous cell carcinoma",
-      "Definitive surgical excision typically requires a narrow 1 cm margin clearance"
+      "Pediculosis capitis",
+      "Pediculosis pubis",
+      "Pediculosis corporis",
+      "Scabies"
     ],
-    answerIndex: 0,
-    correctAnswerText: "The primary form is most common and occurs without an underlying malignancy"
+    answerIndex: 2,
+    correctAnswerText: "Pediculosis corporis"
   },
   {
     id: 45,
-    image: "",
-    question: "A 4-week-old male infant presents with recurrent non-bilious projectile vomiting. During a test feed, a firm, olive-shaped mass is palpable in the right upper quadrant. Which of the following is the characteristic acid-base disturbance expected in this patient?",
+    image: "images/IMG_7030.jpeg",
+    question: "A 28-year-old man presents with intense nocturnal itching involving the wrist, web spaces, axilla, periumbilical area, groin, and elbows. Examination shows burrows, papules, pustules, and excoriations. He also has persistent itchy nodules over the scrotum and penile shaft, explained as a hypersensitivity reaction to mite antigen.\nWhich is the most appropriate treatment for these persistent nodular lesions?",
     options: [
-      "Hyperchloremic metabolic acidosis",
-      "Hypochloremic metabolic alkalosis",
-      "Hypokalemic metabolic acidosis",
-      "Hyperkalemic respiratory alkalosis"
+      "Oral acyclovir",
+      "Disinfection of clothes and bedding only",
+      "Oral terbinafine",
+      "Intralesional corticosteroids"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Hypochloremic metabolic alkalosis"
+    answerIndex: 3,
+    correctAnswerText: "Intralesional corticosteroids"
   },
   {
     id: 46,
-    image: "images/IMG_8106.jpeg",
-    question: "A 25-year-old male with chronic right lower quadrant pain and diarrhea undergoes a colonoscopy. The gastroenterologist notes rectal sparing but severe inflammation in the ileocecal region. If this patient were evaluated in the very early stages of his disease, which of the following macroscopic lesions would have been observed?",
+    image: "images/IMG_7032.jpeg",
+    question: "A 32-year-old man who was treated for visceral leishmaniasis 3 years ago now presents with multiple hypopigmented macules over the face and trunk, followed later by nodular lesions. There is no active fever or hepatosplenomegaly. The dermatologist explains that this is a delayed dermal manifestation occurring after recovery from kala-azar.\nWhich is the drug of choice for this condition?",
     options: [
-      "Mucosal cobblestoning",
-      "Deep serpiginous ulcers",
-      "Punched-out aphthous ulcers",
-      "Large stellate ulcers"
+      "Oral miltefosine",
+      "Oral acyclovir",
+      "Intralesional corticosteroid",
+      "Oral terbinafine"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Punched-out aphthous ulcers"
+    answerIndex: 0,
+    correctAnswerText: "Oral miltefosine"
   },
   {
     id: 47,
-    image: "images/IMG_8107.jpeg",
-    question: "A 42-year-old male presents with a 6-month history of progressive dysphagia to both solid and liquid foods, regurgitation of undigested meals, and occasional chest pain. A barium swallow reveals a dilated esophagus tapering to a smooth \"bird-beak\" appearance at the lower end. Which of the following is the underlying primary pathophysiology responsible for this condition?",
+    image: "images/IMG_7034.jpeg",
+    question: "A 26-year-old woman presents with a slowly enlarging lesion over the buttock. Examination shows a dark brown annular plaque with peripheral extension and central scarring. On pressing the lesion with a glass slide, multiple soft yellow-brown translucent nodules become visible, described as apple-jelly nodules. She is otherwise immunocompetent.\nWhat is the most likely diagnosis?",
     options: [
-      "Hypertrophy of the circular muscle of the lower esophagus",
-      "Epidermotropic spread of malignant adnexal cells",
-      "Premature, uncoordinated contractions of the esophageal body",
-      "Loss of ganglion cells within the esophageal myenteric plexus"
+      "Tuberculosis verrucosa cutis",
+      "Lupus vulgaris",
+      "Scrofuloderma",
+      "Erythema induratum"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Loss of ganglion cells within the esophageal myenteric plexus"
+    answerIndex: 1,
+    correctAnswerText: "Lupus vulgaris"
   },
   {
     id: 48,
     image: "",
-    question: "A 55-year-old female on long-term cyclophosphamide therapy presents with a one-month history of painless gross hematuria. Cystoscopy reveals a non-muscle invasive bladder mass. Which of the following specific metabolites is primarily responsible for inducing malignant transformation in this patient?",
+    question: "A 38-year-old man with advanced HIV infection presents with multiple chronic cutaneous nodules and ulcers along with constitutional symptoms. His CD4 count is less than 200 cells/mm³. Imaging suggests disseminated mycobacterial involvement. The physician explains that this atypical mycobacterial infection commonly occurs in immunocompromised patients and usually requires combination therapy.\nWhich organism is most likely responsible?",
     options: [
-      "Phosphoramide mustard",
-      "Acrolein",
-      "Benzidine",
-      "Mesna"
+      "Mycobacterium marinum",
+      "Mycobacterium ulcerans",
+      "Mycobacterium avium complex",
+      "Mycobacterium chelonae / fortuitum"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Phosphoramide mustard"
+    answerIndex: 2,
+    correctAnswerText: "Mycobacterium avium complex"
   },
   {
     id: 49,
-    image: "images/IMG_8109.jpeg",
-    question: "A 68-year-old male presents with progressive dysphagia, regurgitation, halitosis, and a gurgling sound in his neck during swallowing. A lateral barium swallow reveals a posterior hypopharyngeal pouch. Which of the following best describes the true nature of this pathology?",
+    image: "images/IMG_7035.jpeg",
+    question: "A 27-year-old man presents with generalized lymphadenopathy and hyperpigmented macules over palms and soles. Oral examination shows an asymptomatic mucous patch, and genital examination reveals flat moist lesions in the groin. He also has patchy moth-eaten alopecia. On palpation of the skin lesions, deep dermal tenderness is elicited, known as Ollendorff’s sign.\nWhich pathological process best explains this tenderness?",
     options: [
-      "Congenital traction diverticulum containing all muscle layers",
-      "Acquired pulsion diverticulum lacking a muscular coat",
-      "Herniation of mucosa through the cricothyroid membrane",
-      "True diverticulum caused by superior constrictor spasm"
+      "Suprabasal acantholysis",
+      "Subepidermal blister formation",
+      "Epidermal koilocytosis",
+      "Endarteritis"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Acquired pulsion diverticulum lacking a muscular coat"
+    answerIndex: 3,
+    correctAnswerText: "Endarteritis"
   },
   {
     id: 50,
-    image: "",
-    question: "A 48-year-old asymptomatic female with primary hyperparathyroidism undergoes a targeted parathyroidectomy. Following the successful excision of an adenoma, the surgeon decides to autotransplant a minced portion of the parathyroid tissue to a peripheral site to facilitate easy future removal should the disease recur. Which of the following is the most preferred anatomical site for this autotransplantation?",
+    image: "images/IMG_7036.jpeg",
+    question: "A 26-year-old man presents with multiple painful genital ulcers after unprotected sexual exposure. The ulcers are soft, non-indurated, and have undermined edges with a dirty necrotic base. He also has painful unilateral inguinal lymph node enlargement. Gram staining of ulcer discharge shows gram-negative coccobacilli arranged in a characteristic pattern.\nWhich of the following findings is most likely seen on Gram stain?",
     options: [
-      "Sternocleidomastoid",
-      "Deltoid",
-      "Brachioradialis",
-      "Pectoralis major"
+      "School of fish / rail-track appearance",
+      "Donovan bodies inside macrophages",
+      "Multinucleated giant cells on Tzanck smear",
+      "Corkscrew-shaped spirochetes on dark-field microscopy"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Brachioradialis"
+    answerIndex: 0,
+    correctAnswerText: "School of fish / rail-track appearance"
   },
   {
     id: 51,
     image: "",
-    question: "A 42-year-old pre-menopausal female is started on targeted adjuvant therapy following breast-conserving surgery for an estrogen receptor-positive (ER+) breast carcinoma. While this medication effectively antagonizes receptors in the breast tissue, its tissue-specific agonistic activity significantly increases the patient's risk for which of the following complications?",
+    question: "A 31-year-old man presents with a chronic genital ulcer that is painless, red, exuberant, and bleeds easily on touch. There is no true inguinal lymph node enlargement, but a soft groin swelling resembling a bubo is noted. Giemsa stain from the lesion shows organisms inside macrophages with bipolar staining, giving a safety-pin appearance.\nWhich diagnostic finding is most characteristic of this condition?",
     options: [
-      "Severe osteoporosis",
-      "Peptic ulcer disease",
-      "Ovarian carcinoma",
-      "Endometrial cancer"
+      "School of fish appearance",
+      "Donovan bodies inside macrophages",
+      "Multinucleated giant cells",
+      "Corkscrew-shaped spirochetes"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Endometrial cancer"
+    answerIndex: 1,
+    correctAnswerText: "Donovan bodies inside macrophages"
   },
   {
     id: 52,
     image: "",
-    question: "A 28-year-old male presents to the surgical casualty with a fluctuant, exquisitely tender, and erythematous swelling over his right gluteal region. The surgeon diagnoses a subcutaneous abscess and decides to perform an immediate incision and drainage (I&D). Which of the following surgical blades is classically used to make the initial \"stab\" incision for this procedure?",
+    question: "A 29-year-old man presents with a history of a small transient painless genital ulcer that healed spontaneously. Two weeks later, he develops multiple painful inguinal lymph nodes. On examination, enlarged lymph nodes are present both above and below the inguinal ligament, producing a groove-like depression. He later develops chronic genital lymphatic obstruction with elephantiasis-like swelling.\nWhich is the most likely diagnosis?",
     options: [
-      "11-size blade",
-      "10-size blade",
-      "15-size blade",
-      "22-size blade"
+      "Chancroid",
+      "Donovanosis",
+      "Lymphogranuloma venereum",
+      "Primary syphilis"
     ],
-    answerIndex: 0,
-    correctAnswerText: "11-size blade"
+    answerIndex: 2,
+    correctAnswerText: "Lymphogranuloma venereum"
   },
   {
     id: 53,
     image: "",
-    question: "A 45-year-old male complains of unilateral facial sweating and flushing while eating. He underwent a superficial parotidectomy 6 months ago. The aberrant regeneration of which of the following specific nerve fibers is primarily responsible for this patient's presentation?",
+    question: "A 24-year-old man presents with burning micturition and profuse purulent urethral discharge 4 days after unprotected sexual exposure. His partner has features of endocervicitis. Gram stain of the discharge shows numerous pus cells containing intracellular gram-negative diplococci.\nWhich is the most appropriate drug of choice?",
     options: [
-      "Pre-ganglionic sympathetic fibers",
-      "Post-ganglionic parasympathetic fibers",
-      "Pre-ganglionic parasympathetic fibers",
-      "Post-ganglionic sympathetic fibers"
+      "Doxycycline",
+      "Azithromycin",
+      "Benzathine penicillin G",
+      "Ceftriaxone / Cefixime"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Post-ganglionic parasympathetic fibers"
+    answerIndex: 3,
+    correctAnswerText: "Ceftriaxone / Cefixime"
   },
   {
     id: 54,
     image: "",
-    question: "A 50-year-old male with end-stage renal disease secondary to chronic glomerulonephritis undergoes a living donor kidney transplant. The donor is his healthy 25-year-old biological son. Based on the genetic relationship between the donor and recipient, which of the following terms best classifies this specific type of transplant?",
+    question: "A 24-year-old woman presents with thin, profuse, watery vaginal discharge. She has a history of early onset of sexual activity and multiple sexual partners. Vaginal pH is 5.2. Addition of KOH to the discharge produces a characteristic fishy odour. Wet mount shows vaginal epithelial cells with borders obscured by numerous adherent bacteria.\nWhich finding is most characteristic of this condition?",
     options: [
-      "Xenograft",
-      "Autograft",
-      "Allograft",
-      "Isograft"
+      "Clue cells formed by bacteria-coated vaginal epithelial cells",
+      "Budding yeast cells with pseudohyphae",
+      "Motile flagellated pear-shaped trophozoites",
+      "Intracellular gram-negative diplococci in pus cells"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Allograft"
+    answerIndex: 0,
+    correctAnswerText: "Clue cells formed by bacteria-coated vaginal epithelial cells"
   },
   {
     id: 55,
     image: "",
-    question: "A 58-year-old male chronic smoker presents with severe cramping pain in his buttocks and thighs after walking 100 meters, which is relieved by rest. He also reports recent-onset erectile dysfunction. On clinical examination, a bruit is heard over the lower abdomen, and his femoral pulses are symmetrically absent. Based on the anatomical correlation of his claudication, which of the following is the most likely site of the primary arterial obstruction?",
+    question: "A 23-year-old woman presents to an STI clinic with profuse vaginal discharge and vulvovaginal symptoms. On examination, there is no evidence of cervicitis or pelvic inflammatory disease. Under the NACP colour-coded syndromic management approach, she is diagnosed as vaginal discharge syndrome due to vaginitis.\nWhich colour-coded kit is most appropriate?",
     options: [
-      "Popliteal artery",
-      "Unilateral common iliac artery",
-      "Femoropopliteal segment",
-      "Aortoiliac segment"
+      "Kit 1 – Grey kit",
+      "Kit 2 – Green kit",
+      "Kit 3 – White kit",
+      "Kit 6 – Yellow kit"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Aortoiliac segment"
+    answerIndex: 1,
+    correctAnswerText: "Kit 2 – Green kit"
   },
   {
     id: 56,
-    image: "images/IMG_8167.jpeg",
-    question: "A 55-year-old female presents with facial flushing and dilated cervical veins upon raising her arms. A CECT of the neck and thorax reveals a mass in the superior mediastinum that is contiguous with the lower pole of a cervical nodular goiter. Which of the following best describes the primary arterial blood supply to this mediastinal mass?",
+    image: "",
+    question: "A 4-year-old child is brought with generalized absence of skin pigmentation since birth. He has white scalp hair, pale eyelashes and eyebrows, absent iris pigmentation, marked photophobia, and repeated sunburns after minimal sun exposure. Parents are counselled about increased risk of skin malignancy due to defective melanin synthesis.\nWhich enzyme is most likely defective in this child?",
     options: [
-      "Superior and inferior thyroid vessels",
-      "Direct branches from the aortic arch",
-      "Internal thoracic arteries",
-      "Bronchial and intercostal arteries"
+      "Myosin Va",
+      "ATP2A2 calcium pump",
+      "Tyrosinase",
+      "Desmoglein 3"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Superior and inferior thyroid vessels"
+    answerIndex: 2,
+    correctAnswerText: "Tyrosinase"
   },
   {
     id: 57,
-    image: "images/IMG_8163.jpeg",
-    question: "An 80-year-old female presents with painless jaundice and fatigue. An abdominal ultrasound reveals a scleroatrophic gallbladder with impacted stones and a dilated common bile duct (10 mm) containing a suspected calculus. She has severe cardiac comorbidities and is deemed unfit for general anesthesia. Which of the following is the most appropriate next step in management?",
+    image: "",
+    question: "A 17-year-old girl presents with multiple sharply demarcated milky-white depigmented patches over the hands and perioral region. Some lesions appeared after minor trauma. Wood’s lamp accentuates the lesions, and biopsy from the patch shows absence of melanocytes. She also has a family history of autoimmune thyroid disease.\nWhich mechanism best explains this condition?",
     options: [
-      "Magnetic Resonance Cholangiopancreatography (MRCP)",
-      "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
-      "Open choledochotomy and stone extraction",
-      "Contrast-Enhanced Computed Tomography (CECT)"
+      "Defective tyrosinase enzyme causing impaired melanin synthesis",
+      "Azelaic acid-mediated inhibition of pigmentation by Malassezia",
+      "Defective melanosome transport due to myosin abnormality",
+      "T-lymphocyte mediated damage to melanocytes"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Endoscopic Retrograde Cholangiopancreatography (ERCP)"
+    answerIndex: 3,
+    correctAnswerText: "T-lymphocyte mediated damage to melanocytes"
   },
   {
     id: 58,
-    image: "images/IMG_8116.jpeg",
-    question: "A 15-year-old female presents with a progressive, painless, non-pitting swelling of her right lower limb that began around menarche. She has no history of trauma, surgery, or filariasis. Her mother reports having a similar condition that also started in her teens. Which of the following is the specific eponymous diagnosis for the familial form of this patient's condition?",
+    image: "",
+    question: "A 16-year-old girl with depigmented milky-white patches develops new similar lesions exactly along scratch marks after minor trauma. Similar trauma-induced lesions are also classically seen in psoriasis and lichen planus. The dermatologist explains that this is a true isomorphic phenomenon.\nWhich of the following conditions is classically included under true Koebner phenomenon?",
     options: [
-      "Nonne-Milroy syndrome",
-      "Stewart-Treves syndrome",
-      "Meig's disease",
-      "Klippel-Trenaunay syndrome"
+      "Vitiligo",
+      "Molluscum contagiosum",
+      "Viral warts",
+      "Impetigo contagiosa"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Meig's disease"
+    answerIndex: 0,
+    correctAnswerText: "Vitiligo"
   },
   {
     id: 59,
     image: "",
-    question: "A pediatric patient diagnosed with ataxia-telangiectasia is found to have a profound loss of specific, flask-shaped neurons within the cerebellum. Which of the following statements correctly describes the physiological anatomy of these specific lost neurons?",
+    question: "A 19-year-old man presents with a unilateral bluish-grey patch involving the periorbital region, forehead, and cheek. The pigmentation follows the distribution of the trigeminal nerve and is associated with bluish discoloration of the sclera. The dermatologist explains that the pigmentation is due to dermal melanocytes resulting from premature termination of neural crest cell migration.\nWhich is the most likely diagnosis?",
     options: [
-      "Their axons form the sole efferent output of the cerebellar cortex",
-      "They function as excitatory neurons utilizing glutamate",
-      "Their cell bodies are primarily located within the molecular layer",
-      "They are highly resistant to global hypoxic-ischemic injury"
+      "Nevus of Ito",
+      "Nevus of Ota",
+      "Mongolian spot",
+      "Segmental vitiligo"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Their axons form the sole efferent output of the cerebellar cortex"
+    answerIndex: 1,
+    correctAnswerText: "Nevus of Ota"
   },
   {
     id: 60,
     image: "",
-    question: "A 45-year-old carpenter presents with a classic \"claw hand\" deformity following a deep laceration at the wrist. Examination specifically reveals extension of the metacarpophalangeal (MCP) joints and flexion of the interphalangeal (IP) joints. Which of the following intrinsic muscles of the hand will be strictly spared from atrophy in this patient?",
+    question: "A 32-year-old woman presents with symmetrical brownish hyperpigmented patches over both cheeks and the bridge of the nose. The pigmentation worsens after sunlight exposure. She is currently on hormonal therapy and has a history of hypothyroidism. The dermatologist starts a depigmenting agent but warns that excessive use can cause exogenous ochronosis.\nWhich drug is most likely being prescribed?",
     options: [
-      "Palmar interossei",
-      "First and second lumbricals",
-      "Third and fourth lumbricals",
-      "Dorsal interossei"
+      "Methoxsalen",
+      "Permethrin",
+      "Hydroquinone",
+      "Acyclovir"
     ],
-    answerIndex: 1,
-    correctAnswerText: "First and second lumbricals"
+    answerIndex: 2,
+    correctAnswerText: "Hydroquinone"
   },
   {
     id: 61,
     image: "",
-    question: "A 26-year-old female undergoes a diagnostic laparoscopic evaluation for primary infertility. A micro-biopsy of her structurally normal adult ovary reveals various stages of cellular division. The specific reductional division required to produce haploid gametes with 23 chromosomes strictly takes place in which of the following?",
+    question: "A 3-year-old child from a low socioeconomic background presents with rough dry skin and grouped, pointed, hyperkeratotic follicular papules over the elbows, knees, anterolateral thighs, and posterolateral arms. The mother also reports that the child has difficulty seeing in dim light. Eye examination shows conjunctival xerosis with foamy white patches.\nWhich of the following is the earliest cutaneous manifestation of this deficiency?",
     options: [
-      "Granulosa cells",
-      "Theca interna cells",
-      "Germ cells",
-      "Stromal fibroblasts"
+      "Bitot spots",
+      "Nyctalopia",
+      "Phrynoderma",
+      "Asteatosis"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Germ cells"
+    answerIndex: 3,
+    correctAnswerText: "Asteatosis"
   },
   {
     id: 62,
-    image: "images/IMG_8118.jpeg",
-    question: "A 55-year-old male weightlifter feels a sudden \"snap\" in his anterior shoulder while aggressively curling a heavy barbell. Upon clinical examination, a highly prominent, abnormal bulge appears in the middle of his anterior arm specifically when he is asked to actively flex his elbow. This classic clinical deformity is primarily caused by the rupture of which of the following specific structures?",
+    image: "",
+    question: "A 7-year-old child presents with painful fissuring at the angles of the mouth, cracked lips, and a red sore tongue. Examination also shows greasy erythematous scaling around the nasolabial folds, resembling seborrheic dermatitis. The pediatrician suspects a water-soluble vitamin deficiency and starts supplementation.\nWhich deficiency best explains these findings?",
     options: [
-      "Tendon of the coracobrachialis muscle",
-      "Tendon of the short head of biceps brachii",
-      "Distal tendon of the brachialis muscle",
-      "Tendon of the long head of biceps brachii"
+      "Riboflavin deficiency",
+      "Niacin deficiency",
+      "Vitamin A deficiency",
+      "Vitamin C deficiency"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Tendon of the long head of biceps brachii"
+    answerIndex: 0,
+    correctAnswerText: "Riboflavin deficiency"
   },
   {
     id: 63,
     image: "",
-    question: "A 45-year-old male develops profound anterograde amnesia immediately following the transcallosal resection of a colloid cyst located in the roof of the third ventricle. The surgeon notes iatrogenic injury to the prominent, C-shaped white matter tract that serves as the major efferent pathway from the hippocampus. Which of the following specific structures was most likely damaged?",
+    question: "A 36-year-old chronic alcoholic man from a low socioeconomic background presents with photosensitive dermatitis, diarrhea, irritability, and glossitis. His staple diet is mainly jowar and maize with very little animal protein. The physician explains that one component in jowar interferes with tryptophan utilization, reducing NAD synthesis and worsening niacin deficiency.\nWhich dietary factor is most responsible for this mechanism?",
     options: [
-      "Fornix",
-      "Corpus callosum",
-      "Cingulate gyrus",
-      "Stria terminalis"
+      "Poor bioavailability of folate from maize",
+      "Excess leucine inhibiting tryptophan uptake",
+      "Increased isoleucine promoting NAD degradation",
+      "Defective absorption of vitamin B12 from cereals"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Fornix"
+    answerIndex: 1,
+    correctAnswerText: "Excess leucine inhibiting tryptophan uptake"
   },
   {
     id: 64,
     image: "",
-    question: "A 65-year-old right-handed man suffers a localized ischemic stroke. Afterwards, he is unable to recognize his daughter by looking at her face, yet he instantly identifies her the moment she speaks. He is still able to accurately copy geometric drawings. Where is the primary cortical lesion most likely located?",
+    question: "A 42-year-old chronic alcoholic presents with photosensitive dark, rough plaques over the dorsum of hands and around the neck. The neck lesion forms a sharply demarcated hyperpigmented collar-like band. He also has diarrhea, depression, irritability, glossitis, and a bald red tongue.\nWhich deficiency best explains this presentation?",
     options: [
-      "Contralateral parietal lobe",
-      "Right inferior temporal lobe",
-      "Left superior temporal gyrus",
-      "Bilateral occipitoparietal junction"
+      "Vitamin B2 deficiency",
+      "Vitamin A deficiency",
+      "Vitamin B3 deficiency",
+      "Vitamin C deficiency"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Right inferior temporal lobe"
+    answerIndex: 2,
+    correctAnswerText: "Vitamin B3 deficiency"
   },
   {
     id: 65,
     image: "",
-    question: "A 50-year-old postoperative patient suddenly develops acute dyspnea and pleuritic chest pain. A CT pulmonary angiogram reveals a massive pulmonary embolism completely obstructing blood flow to the right lower lobe. Assuming ventilation to this affected lobe remains completely normal, what will be the expected ventilation-perfusion (Va/Q) ratio and the alveolar partial pressure of carbon dioxide (PCO2) in this specific region?",
+    question: "A 58-year-old strict vegetarian man presents with burning sensation of tongue, recurrent aphthae-like oral lesions, and progressive fatigue. Examination shows symmetrical generalized hyperpigmentation, most prominent over the knuckles, palmar creases, soles, and flexures. Oral cavity shows cheilitis, glossitis, and a red beefy tongue. The deficient nutrient is normally absorbed in the ileum through a receptor-mediated process requiring a gastric glycoprotein.\nWhich deficiency best explains these findings?",
     options: [
-      "Va/Q = Zero; PCO2 = 46 mmHg",
-      "Va/Q = One; PCO2 = 40 mmHg",
-      "Va/Q = Infinity; PCO2 = 0 mmHg",
-      "Va/Q = Infinity; PCO2 = 40 mmHg"
+      "Vitamin A deficiency",
+      "Vitamin B2 deficiency",
+      "Vitamin B3 deficiency",
+      "Vitamin B12 deficiency"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Va/Q = Infinity; PCO2 = 0 mmHg"
+    answerIndex: 3,
+    correctAnswerText: "Vitamin B12 deficiency"
   },
   {
     id: 66,
     image: "",
-    question: "A 55-year-old patient admitted to the intensive care unit has a central venous catheter in place. Continuous monitoring displays a normal jugular venous pressure waveform consisting of 'a', 'c', and 'v' peaks. The specific 'c' wave observed on this tracing is primarily generated by which of the following mechanical events?",
+    question: "A 68-year-old chronic alcoholic man presents with bleeding gums, foul breath, loosening of teeth, and easy bruising. Examination shows spongy hemorrhagic gingivitis, perifollicular purpura, petechiae, ecchymoses, and corkscrew hairs. Capillary fragility test is positive. The physician explains that the basic defect is impaired formation of supporting connective tissue.\nWhich mechanism best explains these findings?",
     options: [
-      "Right atrial contraction at the end of ventricular diastole",
-      "Passive venous filling of the right atrium from the vena cava",
-      "Downward displacement of the tricuspid annulus during ejection",
-      "Bulging of the tricuspid valve during isovolumetric contraction"
+      "Defective collagen and ground substance formation due to vitamin C deficiency",
+      "Defective DNA synthesis due to cobalamin deficiency",
+      "Defective NAD synthesis due to niacin deficiency",
+      "Defective melanin synthesis due to tyrosinase deficiency"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Bulging of the tricuspid valve during isovolumetric contraction"
+    answerIndex: 0,
+    correctAnswerText: "Defective collagen and ground substance formation due to vitamin C deficiency"
   },
   {
     id: 67,
     image: "",
-    question: "A 60-year-old male with pulmonary arterial hypertension (PAH) is started on sildenafil to alleviate symptoms. This drug works by interfering with the degradation pathway of a critical intracellular signaling molecule. Which of the following is the direct precursor of the neurotransmitter whose actions are ultimately prolonged by this medication?",
+    question: "A 9-month-old infant is brought with recurrent diarrhea, irritability, and poor feeding after weaning. Examination shows periorificial dermatitis, erosive lesions over acral areas, alopecia, angular stomatitis, glossitis, paronychia, leukonychia, and conjunctivitis. Serum zinc level is markedly low. The pediatrician explains that the inherited form is autosomal recessive and requires lifelong supplementation.\nWhich molecular defect best explains this condition?",
     options: [
-      "Arginine",
-      "Citrulline",
-      "Histidine",
-      "Phenylalanine"
+      "Defective intrinsic factor-mediated ileal absorption",
+      "Defect in intestinal zinc transporter ZIP4",
+      "Defective tyrosinase-mediated melanin synthesis",
+      "Excess leucine inhibiting tryptophan uptake"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Arginine"
+    answerIndex: 1,
+    correctAnswerText: "Defect in intestinal zinc transporter ZIP4"
   },
   {
     id: 68,
     image: "",
-    question: "A 45-year-old male undergoes pulmonary function testing for suspected restrictive lung disease. The pulmonologist specifically wants to evaluate the baseline volume of air that remains in his lungs immediately after a normal, unforced expiration. This specific physiological capacity is calculated by adding which of the following two lung volumes?",
+    question: "A 48-year-old man presents with an irregular pigmented lesion that has recently increased in size. He gives a history of repeated short, intense sun exposure during outdoor work. His father had melanoma, and he also has a large congenital melanocytic nevus with excessive hair. Genetic counselling is done because a high-risk susceptibility gene mutation is suspected.\nWhich gene is most strongly associated with high-risk susceptibility to malignant melanoma?",
     options: [
-      "Tidal Volume + Inspiratory Reserve Volume",
-      "Expiratory Reserve Volume + Residual Volume",
-      "Vital Capacity + Residual Volume",
-      "Inspiratory Capacity + Expiratory Reserve Volume"
+      "ATP2A2 gene",
+      "ZIP4 gene",
+      "CDKN2A gene",
+      "TYR gene"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Expiratory Reserve Volume + Residual Volume"
+    answerIndex: 2,
+    correctAnswerText: "CDKN2A gene"
   },
   {
     id: 69,
     image: "",
-    question: "A 45-year-old male presents with decreased libido and chronic fatigue. Suspecting hypogonadism, the physician decides to evaluate his androgen status. Which of the following is the standard laboratory protocol for confirming biochemical testosterone deficiency?",
+    question: "A 52-year-old man is diagnosed with malignant melanoma arising from an epidermal melanocyte. Histopathology shows a localized lesion with Breslow thickness of 0.8 mm and no evidence of disseminated disease. The oncologist plans definitive management based on tumour depth.\nWhich is the most appropriate treatment approach?",
     options: [
-      "Single random serum testosterone level",
-      "Peak serum testosterone level at midnight",
-      "Serum testosterone at 8-10 AM on three occasions",
-      "Fasting serum androstenedione level"
+      "Dacarbazine-based chemotherapy as first-line treatment",
+      "Radiotherapy as the treatment of choice for localized disease",
+      "Observation only, as the tumour is less than 1 mm thick",
+      "Surgical excision with 1 cm clearance"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Serum testosterone at 8-10 AM on three occasions"
+    answerIndex: 3,
+    correctAnswerText: "Surgical excision with 1 cm clearance"
   },
   {
     id: 70,
     image: "",
-    question: "A 45-year-old patient receives a rapid intravenous saline bolus, leading to a surge in fluid and sodium chloride delivery to the macula densa in the early distal tubule. Which of the following is the immediate autoregulatory response in that specific nephron?",
+    question: "A 67-year-old farmer presents with a slowly enlarging lesion over the face. It began as a small shiny translucent papule and gradually developed central ulceration. On examination, the ulcer has telangiectasia over the surface and rolled, pearly, bead-like margins. There is no significant pain, but the lesion has been progressively enlarging over months.\nWhich type of basal cell carcinoma is most likely?",
     options: [
-      "Afferent arteriolar vasodilation",
-      "Increased renin release",
-      "Increased glomerular filtration rate",
-      "Decreased glomerular filtration rate"
+      "Nodulo-ulcerative basal cell carcinoma",
+      "Morpheaform basal cell carcinoma",
+      "Superficial basal cell carcinoma",
+      "Pigmented basal cell carcinoma"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Decreased glomerular filtration rate"
+    answerIndex: 0,
+    correctAnswerText: "Nodulo-ulcerative basal cell carcinoma"
   },
   {
     id: 71,
-    image: "images/IMG_8119.jpeg",
-    question: "A patient requires an emergency transfusion. A rapid bedside blood typing test is performed. The sample shows distinct clumping only when mixed with the anti-D (Rh) reagent, while remaining completely uniformly mixed when tested with anti-A and anti-B reagents. What is the confirmed blood group of this patient?",
+    image: "",
+    question: "A 22-year-old man develops multiple symmetrically distributed lesions over the hands and forearms 1 week after recurrent herpes labialis. Each lesion has a central dusky purpuric zone, a middle pale edematous ring, and an outer erythematous rim with a sharp border. He also has painful oral erosions with hemorrhagic crusting of the lips.\nWhich of the following is the most accurate statement regarding this condition?",
     options: [
-      "O positive",
-      "AB positive",
-      "O negative",
-      "A positive"
+      "Drugs are more common triggers than infections",
+      "Herpes simplex virus is the most common infectious trigger",
+      "Lesions are classically distributed over seborrheic areas",
+      "Absence of target lesions is required for diagnosis"
     ],
-    answerIndex: 0,
-    correctAnswerText: "O positive"
+    answerIndex: 1,
+    correctAnswerText: "Herpes simplex virus is the most common infectious trigger"
   },
   {
     id: 72,
     image: "",
-    question: "A 25-year-old athlete is running a marathon. Towards the end of the race, his breathing becomes heavily labored, requiring the active use of his abdominal muscles to forcefully push air out of his lungs. Which of the following specific neural centers acts as an \"overdrive mechanism\" and primarily fires to drive this forceful expiration?",
+    question: "A 35-year-old woman develops fever, malaise, arthralgia, painful oral erosions, conjunctival involvement, and widespread skin tenderness 10 days after starting carbamazepine. Examination shows atypical target lesions, flaccid bullae, and peeling of epidermis in large sheets. The detached epidermal area involves 18% of body surface area.\nWhat is the correct nomenclature for this condition?",
     options: [
-      "Dorsal Respiratory Group (DRG)",
-      "Ventral Respiratory Group (VRG)",
-      "Pneumotaxic centre",
-      "Apneustic centre"
+      "Erythema multiforme major",
+      "Stevens-Johnson syndrome",
+      "SJS-TEN overlap",
+      "Toxic epidermal necrolysis"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Ventral Respiratory Group (VRG)"
+    answerIndex: 2,
+    correctAnswerText: "SJS-TEN overlap"
   },
   {
     id: 73,
     image: "",
-    question: "A 35-year-old male is prescribed desmopressin (an antidiuretic hormone analog) for the management of central diabetes insipidus. This medication exerts its primary antidiuretic effect by upregulating the luminal expression of specific water channels in which of the following designated segments of the nephron?",
+    question: "A 6-year-old boy is brought with generalized fish-like scaling since early childhood. Examination shows large dark-black adherent scales involving almost the whole body. His mother also gives history of undescended testis in infancy, and ophthalmic evaluation shows corneal opacity. Skin biopsy shows hypergranulosis.\nWhich underlying defect best explains this condition?",
     options: [
-      "Proximal convoluted tubule",
-      "Descending thin limb of the loop of Henle",
-      "Late distal tubule and collecting duct",
-      "Early distal convoluted tubule"
+      "Filaggrin defect",
+      "ATP2A2 gene defect",
+      "ZIP4 transporter defect",
+      "Steroid sulfatase deficiency"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Late distal tubule and collecting duct"
+    answerIndex: 3,
+    correctAnswerText: "Steroid sulfatase deficiency"
   },
   {
     id: 74,
     image: "",
-    question: "A 40-year-old patient with suspected hypervitaminosis A undergoes a liver biopsy. Microscopic evaluation reveals massive accumulation of lipid droplets containing retinyl esters. Which specific cells in the liver are the primary physiological storage depot for this vitamin?",
+    question: "A 9-year-old child is brought for evaluation of multiple light-brown skin patches present since early childhood. Examination shows more than six café-au-lait macules, each measuring more than 5 mm, along with axillary freckling. Ophthalmic evaluation later shows iris hamartomas. The margins of the pigmented patches are smooth and regular.\nWhich of the following statements is most appropriate?",
     options: [
-      "Hepatocytes",
-      "Kupffer cells",
-      "Cholangiocytes",
-      "Ito cells"
+      "Smooth-bordered café-au-lait macules suggest Coast of California appearance",
+      "One café-au-lait macule more than 5 mm is sufficient for diagnosis",
+      "Café-au-lait macules in this condition usually have Coast of Maine appearance",
+      "Optic glioma excludes the diagnosis of neurofibromatosis type 1"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Ito cells"
+    answerIndex: 0,
+    correctAnswerText: "Smooth-bordered café-au-lait macules suggest Coast of California appearance"
   },
   {
     id: 75,
     image: "",
-    question: "A patient suffers a right-sided spinal cord hemisection resulting from a stab wound at the T10 level. Which of the following classic sensory deficits will be exclusively observed below the level of the lesion?",
+    question: "A 66-year-old man presents with easy fatigability, bilateral carpal tunnel syndrome, enlarged tongue, pedal edema, and recurrent purpuric patches around the eyelids after coughing and minor rubbing. Serum evaluation shows monoclonal light chains. Skin biopsy reveals extracellular eosinophilic amorphous deposits in the papillary dermis.\nWhich finding will most characteristically confirm the diagnosis?",
     options: [
-      "Right-sided loss of vibration, left-sided loss of pain",
-      "Left-sided loss of proprioception, right-sided loss of pain",
-      "Right-sided loss of pain, left-sided loss of temperature",
-      "Left-sided loss of vibration, right-sided loss of temperature"
+      "Hypergranulosis with large black scales",
+      "Green birefringence under polarized light",
+      "Absent granular layer with fine scaling",
+      "Suprabasal split with acantholytic cells"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Right-sided loss of vibration, left-sided loss of pain"
+    answerIndex: 1,
+    correctAnswerText: "Green birefringence under polarized light"
   },
   {
     id: 76,
     image: "",
-    question: "A 26-year-old primigravida recently gave birth to a healthy term infant. While discussing lactation physiology on ward rounds, the attending asks when the basal serum prolactin concentration reaches its absolute highest physiological level. Which of the following time points is correct?",
+    question: "A 32-year-old woman presents with well-defined scaly plaques over the face and scalp. The lesions slowly heal with atrophy, scarring, and pigmentary change. On gently removing the adherent scale, follicular keratotic spikes are seen on its undersurface, giving a carpet tack appearance. Biopsy is planned.\nWhich histopathological finding is most expected in this condition?",
     options: [
-      "During the late first trimester",
-      "24 hours after delivery",
-      "Two weeks postpartum before nursing",
-      "Three months postpartum during regular lactation"
+      "Subepidermal split with eosinophils",
+      "Suprabasal split with acantholytic cells",
+      "Epidermal atrophy with basal layer liquefaction and Civatte bodies",
+      "Munro microabscess with regular acanthosis"
     ],
-    answerIndex: 1,
-    correctAnswerText: "24 hours after delivery"
+    answerIndex: 2,
+    correctAnswerText: "Epidermal atrophy with basal layer liquefaction and Civatte bodies"
   },
   {
     id: 77,
     image: "",
-    question: "A 6-year-old boy presents with severe periorbital edema and massive albuminuria. A functional defect in the glomerular basement membrane is suspected, specifically involving the loss of its normal electrostatic properties. Which of the following molecules is primarily responsible for establishing this critical negative charge barrier?",
+    question: "A 41-year-old woman presents with progressive tightening of skin over both hands. She also has Raynaud phenomenon, abnormal nail-fold capillaries, mottled pigmentation, and a small puckered mouth giving a purse-string appearance. On examination, skin thickening of the fingers extends proximal to the metacarpophalangeal joints.\nWhich clinical finding is sufficient by itself to diagnose systemic sclerosis?",
     options: [
-      "Collagen type IV",
-      "Hyaluronic acid",
-      "Heparan sulfate",
-      "Keratan sulfate"
+      "Raynaud phenomenon with color change of fingers",
+      "Abnormal nail-fold capillaries with telangiectasia",
+      "Sclerodactyly limited only to fingers distal to MCP joints",
+      "Skin thickening of fingers extending proximal to MCP joints"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Heparan sulfate"
+    answerIndex: 3,
+    correctAnswerText: "Skin thickening of fingers extending proximal to MCP joints"
   },
   {
     id: 78,
     image: "",
-    question: "A 35-year-old male with stricturing Crohn's disease undergoes a complete surgical resection of his terminal ileum. Post-operatively, he requires lifelong parenteral supplementation of a specific hematopoietic factor to prevent megaloblastic anemia and severe neurological deficits. The normal physiological uptake of this factor is completely abolished due to the loss of this specific bowel segment. Which of the following factors will be profoundly deficient in this patient?",
+    question: "A 24-year-old woman presents with recurrent intensely itchy, pale-pink, well-defined raised lesions over the body. The lesions enlarge after scratching and sometimes coalesce into larger plaques. Each individual lesion disappears completely within a few hours without leaving pigmentation or purpura. There is no fever, arthralgia, or systemic complaint.\nWhich feature best supports simple urticaria rather than urticarial vasculitis?",
     options: [
-      "Iron",
-      "Folate",
-      "Calcium",
-      "Vitamin B12"
+      "Individual lesions lasting less than 24 hours without post-inflammatory pigmentation",
+      "Burning painful lesions persisting for more than 24 hours",
+      "Purpuric center with residual pigmentation after resolution",
+      "Biopsy showing leukocytoclastic vasculitis"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Vitamin B12"
+    answerIndex: 0,
+    correctAnswerText: "Individual lesions lasting less than 24 hours without post-inflammatory pigmentation"
   },
   {
     id: 79,
     image: "",
-    question: "A 30-week pregnant female is admitted with signs of preterm labor. The obstetrician is concerned about the risk of neonatal respiratory distress syndrome (RDS) due to immature lung development. At this specific gestational age, pulmonary surfactant is just beginning to be detectable in the amniotic fluid, but mature levels have not yet been achieved. What is the primary functional role of the surfactant produced by type 2 pneumocytes?",
+    question: "A 29-year-old woman presents with recurrent itchy eczematous lesions over exposed areas after repeated outdoor exposure. Allergic contact dermatitis is suspected. Multiple allergens are applied over her upper back using small chambers. The patches are removed after 48 hours, and the final reading is planned later to detect a delayed reaction.\nWhich statement best describes this diagnostic test?",
     options: [
-      "Increasing alveolar surface tension",
-      "Decreasing alveolar surface tension",
-      "Enhancing alveolar capillary exchange",
-      "Stimulating fetal lung fluid absorption"
+      "It detects IgE-mediated immediate hypersensitivity and is read within 20 minutes",
+      "It identifies the causative allergen in allergic contact dermatitis by type IV hypersensitivity",
+      "It is mainly used to confirm urticaria and should be read within 90 minutes",
+      "It confirms irritant dermatitis only when the reaction is negative on day 4"
     ],
     answerIndex: 1,
-    correctAnswerText: "Decreasing alveolar surface tension"
+    correctAnswerText: "It identifies the causative allergen in allergic contact dermatitis by type IV hypersensitivity"
   },
   {
     id: 80,
     image: "",
-    question: "A 30-year-old patient with an insulin-secreting tumor undergoes comprehensive biochemical analysis. The physician notes that insulin exerts its physiological effects by utilizing a specific intracellular signaling pathway known as receptor tyrosine kinase (RTK). Which of the following substances acts through a mechanism fundamentally different from the RTK pathway used by insulin?",
+    question: "A 58-year-old man presents with sudden-onset dark velvety thickening over the neck folds. On examination, his palms show exaggerated dermatoglyphics giving a tripe-like appearance, and there is an abrupt eruption of multiple seborrheic keratoses over the trunk. He also reports recent weight loss and early satiety.\nWhich underlying malignancy should be strongly suspected?",
     options: [
-      "Platelet-Derived Growth Factor (PDGF)",
-      "Vascular Endothelial Growth Factor (VEGF)",
-      "Growth Hormone (GH)",
-      "Nerve Growth Factor (NGF)"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Growth Hormone (GH)"
-  },
-  {
-    id: 81,
-    image: "",
-    question: "A patient wakes up with profound weakness in their arm after sleeping in an awkward position with their head resting on the limb, yet they notably retain intact pain sensation in the same area. This specific clinical presentation, often referred to as Saturday night palsy, is primarily due to the differential susceptibility of nerve fibers to sustained compression. Which of the following correctly ranks the nerve fibers by their susceptibility to pressure-induced block?",
-    options: [
-      "C > B > A",
-      "A > B > C",
-      "B > A > C",
-      "C > A > B"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "A > B > C"
-  },
-  {
-    id: 82,
-    image: "",
-    question: "A 34-week pregnant patient with preeclampsia requires immediate delivery. Before the procedure, the obstetrician assesses fetal lung maturity using amniotic fluid analysis. Which of the following L/S ratio values indicates that the fetal lungs are sufficiently mature, indicating a low risk for neonatal respiratory distress syndrome?",
-    options: [
-      "< 1.0",
-      "≥ 2.0",
-      "< 1.5",
-      "≤ 1.0"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "≥ 2.0"
-  },
-  {
-    id: 83,
-    image: "",
-    question: "A patient requires an emergency massive transfusion. The blood bank technician notes that the available blood units are stored in a CPDA (Citrate-Phosphate-Dextrose-Adenine) solution rather than the older ACD (Acid Citrate Dextrose) formulation. Compared to ACD, what is the primary physiological benefit of storing blood in CPDA regarding oxygen delivery?",
-    options: [
-      "Lower 2,3-DPG concentration",
-      "Higher 2,3-DPG concentration",
-      "Increased affinity of Hb to oxygen",
-      "Shift in O2-Hb dissociation curve to the left"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Higher 2,3-DPG concentration"
-  },
-  {
-    id: 84,
-    image: "",
-    question: "A 55-year-old presents with episodic flushing, watery diarrhea, and bronchospasm. Clinical evaluation strongly suggests a neuroendocrine tumor arising from the small intestine. Which of the following urinary metabolites is most specific for diagnosing this condition?",
-    options: [
-      "Vanillylmandelic acid",
-      "Homovanillic acid",
-      "5-hydroxyindole acetic acid",
-      "Metanephrine"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "5-hydroxyindole acetic acid"
-  },
-  {
-    id: 85,
-    image: "",
-    question: "A 10-year-old child presents with a palpable abdominal mass and paroxysmal hypertension. Diagnostic imaging suggests a tumor of sympathetic nervous system origin. Which of the following urinary metabolites is the primary end-product of catecholamine catabolism and serves as an essential screening test for this condition?",
-    options: [
-      "5-hydroxyindole acetic acid",
-      "Homovanillic acid",
-      "Metanephrine",
-      "Vanillyl mandelic acid"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Vanillyl mandelic acid"
-  },
-  {
-    id: 86,
-    image: "",
-    question: "A research scientist is investigating gene regulatory mechanisms. Which of the following histone modifications is specifically associated with the relaxation of DNA coiling and subsequent promotion of transcriptional activity?",
-    options: [
-      "Histone Acetylation",
-      "Histone Methylation",
-      "DNA Methylation",
-      "Histone Deacetylation"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Histone Acetylation"
-  },
-  {
-    id: 87,
-    image: "",
-    question: "A term neonate is born limp with a heart rate of 80 beats/min and irregular gasping. Positive pressure ventilation (PPV) is immediately initiated via face mask. According to the Neonatal Resuscitation Protocol (NRP), which of the following is the most reliable clinical indicator that the applied ventilatory efforts are successful?",
-    options: [
-      "Visible, symmetrical chest rise",
-      "Spontaneous crying and movement",
-      "A prompt rise in heart rate",
-      "Improvement in central skin color"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "A prompt rise in heart rate"
-  },
-  {
-    id: 88,
-    image: "",
-    question: "A 25-year-old female, whose father is known to be color blind, is found to have mild red-green color vision defects on a routine Ishihara test. Her mother has normal color vision. Given that color blindness is an X-linked recessive trait, which of the following best explains why this heterozygous female is exhibiting partial phenotypic expression?",
-    options: [
-      "Dominant negative mutation of the inherited paternal allele",
-      "Unrecognized homozygous inheritance from a carrier mother",
-      "Complete failure of the physiological X-chromosome inactivation",
-      "Random inactivation of the normal X chromosome in some cells"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Random inactivation of the normal X chromosome in some cells"
-  },
-  {
-    id: 89,
-    image: "",
-    question: "A 7-year-old boy with a known history of sickle cell anemia presents with severe lethargy, pallor, and a precipitous drop in his hemoglobin from a baseline of 8 g/dL to 3.5 g/dL. A viral infection causing a transient aplastic crisis is suspected. Which specific bone marrow cell stage is primarily targeted and destroyed by this pathogen?",
-    options: [
-      "Pronormoblast",
-      "Reticulocyte",
-      "Megakaryocyte",
-      "Promyelocyte"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Pronormoblast"
-  },
-  {
-    id: 90,
-    image: "images/IMG_8121.jpeg",
-    question: "A 6-year-old boy presents with a non-blanching rash on the extensor surfaces of his legs, swollen knee joints, and severe, colicky abdominal pain. A diagnosis of Henoch-Schönlein Purpura (IgA vasculitis) is made. While the general management is supportive, the initiation of systemic corticosteroids in this patient is most specifically indicated for which of the following?",
-    options: [
-      "The appearance of the palpable purpuric rash",
-      "Significant gastrointestinal involvement",
-      "Uncomplicated, self-limiting joint arthralgia",
-      "The presence of microscopic hematuria"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Significant gastrointestinal involvement"
-  },
-  {
-    id: 91,
-    image: "",
-    question: "A 15-month-old child is evaluated at a rural primary health center. Anthropometric measurements reveal a weight-for-length below -3 SD and a mid-upper arm circumference (MUAC) of 11.2 cm. The child is active, passes the appetite test, and shows no signs of bipedal edema or other medical complications. Based on the WHO guidelines, what is the most appropriate management setting for this patient?",
-    options: [
-      "Admission to a specialized pediatric intensive care unit",
-      "Inpatient management at a Nutritional Rehabilitation Centre",
-      "Supervised management at home",
-      "Re-evaluation after 4 weeks without acute intervention"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Supervised management at home"
-  },
-  {
-    id: 92,
-    image: "",
-    question: "A 4-week-old infant presents with persistent jaundice, dark urine, and pale stools. A HIDA scan reveals completely absent excretion of the radiotracer into the bowel. What is the gold standard investigation to definitively confirm this condition?",
-    options: [
-      "Percutaneous liver biopsy",
-      "Ultrasound of the abdomen",
-      "Magnetic resonance cholangiopancreatography",
-      "Intraoperative cholangiogram"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Intraoperative cholangiogram"
-  },
-  {
-    id: 93,
-    image: "images/IMG_8164.jpeg",
-    question: "A 2-year-old child with a history of recurrent cyanotic spells that improve upon squatting is evaluated. A chest radiograph demonstrates oligemic lung fields and a characteristic \"boot-shaped\" cardiac silhouette. What is the precise anatomical reason for this classic radiographic appearance?",
-    options: [
-      "Right ventricular hypertrophy elevating the cardiac apex",
-      "Massive dilatation of the main pulmonary artery trunk",
-      "Severe left ventricular volume overload and dilation",
-      "Apical displacement of the tricuspid valve leaflets"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Right ventricular hypertrophy elevating the cardiac apex"
-  },
-  {
-    id: 94,
-    image: "images/IMG_8123.jpeg",
-    question: "A 2-year-old child with a history of a protein-deficient diet presents with progressive bipedal edema, a swollen abdomen, and an apathetic facial expression. Examination reveals hepatomegaly and sparse, easily pluckable hair. The skin over the edematous lower limbs exhibits dark, crackled, and peeling patches revealing pale skin underneath. What is this classic cutaneous sign called?",
-    options: [
-      "Pellagrous dermatitis",
-      "Flaky paint dermatosis",
-      "Phrynoderma",
-      "Acrodermatitis enteropathica"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Flaky paint dermatosis"
-  },
-  {
-    id: 95,
-    image: "images/IMG_8124.jpeg",
-    question: "A 5-year-old unvaccinated boy presents with a 3-day history of high fever, severe cough, coryza, and conjunctivitis. Intraoral examination reveals small red lesions with bluish-white centers on the buccal mucosa opposite the lower premolars. What is the most common cause of mortality in this specific viral infection?",
-    options: [
-      "Acute otitis media",
-      "Subacute sclerosing panencephalitis",
-      "Pneumonia",
-      "Severe dehydrating diarrhea"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Pneumonia"
-  },
-  {
-    id: 96,
-    image: "",
-    question: "A 2-week-old female infant (46,XX) presents to the emergency department with severe dehydration, vomiting, and lethargy. Physical examination reveals an enlarged clitoris and partial labial fusion. Laboratory investigations show severe hyponatremia, hyperkalemia, and hypotension. Which of the following is the definitive diagnostic marker for this patient's condition?",
-    options: [
-      "Elevated serum aldosterone levels",
-      "Decreased serum testosterone levels",
-      "Elevated 11-deoxycortisol levels",
-      "Elevated 17-hydroxyprogesterone levels"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Elevated 17-hydroxyprogesterone levels"
-  },
-  {
-    id: 97,
-    image: "images/IMG_8126.jpeg",
-    question: "A newborn presents with eviscerated bowel loops protruding through an abdominal wall defect located just to the right of the umbilicus. What is the most defining characteristic of this congenital anomaly?",
-    options: [
-      "Absence of a covering amniotic sac",
-      "Defect centered directly at the umbilical ring",
-      "Strong association with chromosomal trisomies",
-      "Failure of normal midgut rotation"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Absence of a covering amniotic sac"
-  },
-  {
-    id: 98,
-    image: "",
-    question: "A newborn presents with hypotonia, dysmorphic facial features, and hepatomegaly. Laboratory findings show elevated C26-C38 very-long-chain fatty acids (VLCFAs) and reduced plasmalogen levels. What is the fundamental cellular pathophysiology?",
-    options: [
-      "Absent functional peroxisomes",
-      "Mitochondrial beta-oxidation defect",
-      "Lysosomal hydrolase deficiency",
-      "Defective microsomal protein synthesis"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Absent functional peroxisomes"
-  },
-  {
-    id: 99,
-    image: "",
-    question: "A 55-year-old male with stable angina is prescribed a sublingual medication that works by releasing a potent vasodilator. In normal human physiology, endothelial cells enzymatically synthesize this exact same vasodilatory molecule directly from which of the following amino acid precursors?",
-    options: [
-      "Glutamate",
-      "Arginine",
-      "Glycine",
-      "Tryptophan"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Arginine"
-  },
-  {
-    id: 100,
-    image: "",
-    question: "A mother with a metabolic myopathy passes the disease to all of her male and female children. Years later, her affected son has three completely healthy children with an unaffected woman. Which of the following best describes this genetic transmission pattern?",
-    options: [
-      "Autosomal dominant",
-      "X-linked dominant",
-      "Mitochondrial inheritance",
-      "Autosomal recessive"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Mitochondrial inheritance"
-  },
-  {
-    id: 101,
-    image: "",
-    question: "A 10-year-old child presents with recurrent episodes of acute pancreatitis and eruptive xanthomas. Fasting blood plasma appears milky. Lipid profiling reveals a massive elevation of chylomicrons following a fatty meal. The physician suspects a deficiency in either the endothelial enzyme responsible for clearing these particles or the specific apolipoprotein required to activate it. Which of the following apolipoproteins is essential for activating this clearance enzyme?",
-    options: [
-      "Apo E",
-      "Apo B-48",
-      "Apo B-100",
-      "Apo C-II"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Apo C-II"
-  },
-  {
-    id: 102,
-    image: "",
-    question: "A 25-year-old strict vegan presents with progressive fatigue, pallor, and tingling in her toes. Lab investigations reveal a severe macrocytic anemia. Her condition is due to a dietary deficiency of a specific vitamin. In nature, which of the following biological entities is the exclusive synthesizer of this missing nutrient?",
-    options: [
-      "Microorganisms",
-      "Mammalian hepatocytes",
-      "Green leafy vegetables",
-      "Intestinal enterocytes"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Microorganisms"
-  },
-  {
-    id: 103,
-    image: "",
-    question: "A genetic researcher is performing a biochemical analysis on a double-stranded DNA sample extracted from a patient's tissue. The analysis reveals that the thymine content of the DNA is exactly 28%. Based on fundamental molecular principles, what is the expected percentage of cytosine in this sample?",
-    options: [
-      "28%",
-      "22%",
-      "44%",
-      "56%"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "22%"
-  },
-  {
-    id: 104,
-    image: "",
-    question: "A 40-year-old male presents with early-onset severe arthritis. He reports that his urine turns completely black upon prolonged exposure to the air in the toilet bowl. Physical examination reveals a distinctive bluish-black pigmentation of his ear cartilage. Which of the following enzymes is fundamentally deficient in this patient?",
-    options: [
-      "Tyrosinase",
-      "Phenylalanine hydroxylase",
-      "Homogentisate oxidase",
-      "Branched-chain ketoacid dehydrogenase"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Homogentisate oxidase"
-  },
-  {
-    id: 105,
-    image: "images/IMG_8127.jpeg",
-    question: "A 35-year-old male presents with intermittent pain, swelling, and a chronic discharging sinus from his right leg. He has a history of a severe road traffic accident two years ago that resulted in an open tibial fracture. A radiograph of the lower limb reveals a piece of necrotic bone surrounded by a shell of newly formed sclerotic bone. Which of the following specifically describes this newly formed osseous shell?",
-    options: [
-      "Sequestrum",
-      "Cloaca",
-      "Nidus",
-      "Involucrum"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Involucrum"
-  },
-  {
-    id: 106,
-    image: "",
-    question: "An 8-year-old boy presents with sudden arm pain after a minor fall. Radiographs reveal a pathological fracture through a well-defined unilocular radiolucent lesion in the proximal humerus. A small piece of cortical bone is seen resting at the dependent base of the cystic cavity. What is the most likely diagnosis?",
-    options: [
-      "Simple bone cyst",
-      "Aneurysmal bone cyst",
-      "Giant cell tumor",
-      "Osteosarcoma"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Simple bone cyst"
-  },
-  {
-    id: 107,
-    image: "images/IMG_8128.jpeg",
-    question: "A 30-year-old male presents after a high-speed dashboard injury. His left lower limb is held in a flexed, adducted, and internally rotated position. Radiographs confirm a posterior hip dislocation. Before performing the Allis maneuver, which of the following concomitant radiological findings strictly contraindicates a closed reduction?",
-    options: [
-      "Sciatic nerve injury",
-      "Femoral neck fracture",
-      "Disrupted Shenton's line",
-      "Obscured lesser trochanter"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Femoral neck fracture"
-  },
-  {
-    id: 108,
-    image: "images/IMG_8129.jpeg",
-    question: "A 14-year-old boy presents with a 2-month history of mild, dull aching pain and slight swelling in his upper leg. He is afebrile. Radiographs of the knee reveal a 1.5 cm well-circumscribed radiolucent cavity in the proximal tibial metaphysis. The lesion is surrounded by a distinct dense sclerotic halo with no periosteal reaction. What is the underlying pathogenesis of this specific lesion?",
-    options: [
-      "Benign proliferation of osteoclast-like giant cells",
-      "Ischemic necrosis leading to a central dead bone fragment",
-      "Walled-off infection by organisms of low virulence",
-      "Aggressive malignant proliferation of primitive cells"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Walled-off infection by organisms of low virulence"
-  },
-  {
-    id: 109,
-    image: "images/IMG_8131.jpeg",
-    question: "A 65-year-old postmenopausal female presents with severe back pain and increased kyphosis. A lateral spine radiograph reveals \"codfish\" vertebrae, characterized by biconcave vertebral bodies and biconvex intervertebral discs. A DEXA scan reveals a T-score of -2.8. Which of the following describes the fundamental pathological defect in this patient's bone?",
-    options: [
-      "Defective synthesis of type I collagen",
-      "Decreased mineralization with normal bone matrix",
-      "Increased accumulation of unmineralized osteoid",
-      "Equivalent decrease in both bone matrix and mineralization"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Equivalent decrease in both bone matrix and mineralization"
-  },
-  {
-    id: 110,
-    image: "images/IMG_8133.jpeg",
-    question: "A 28-year-old male presents with persistent right knee pain and swelling. Radiographs reveal an eccentric, multiloculated lytic lesion with a \"soap-bubble\" appearance in the distal femur. What specific radiographic feature of this lesion most reliably differentiates it from an aneurysmal bone cyst (ABC)?",
-    options: [
-      "Extension into the epiphysis",
-      "Presence of a thick sclerotic rim",
-      "Calcified central nidus",
-      "Onion-peel periosteal reaction"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Extension into the epiphysis"
-  },
-  {
-    id: 111,
-    image: "images/IMG_8134.jpeg",
-    question: "A 3-year-old boy is brought to the emergency department crying and refusing to use his right arm. His father mentions he was spinning the child by his hands right before the symptoms started. The child is holding his right elbow extended and the forearm pronated. This classic clinical presentation is due to the subluxation of the radial head from which of the following anatomical structures?",
-    options: [
-      "Radial collateral ligament",
-      "Annular ligament",
-      "Interosseous membrane",
-      "Quadrate ligament"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Annular ligament"
-  },
-  {
-    id: 112,
-    image: "",
-    question: "A 24-year-old male presents with severe odynophagia and high-grade fever. Oropharyngeal examination reveals acutely inflamed palatine tonsils with bilateral purulent exudates. He also complains of a deep, agonizing ache in his left ear, though otoscopic examination reveals a completely normal tympanic membrane and external canal. Which specific nerve branch is responsible for mediating this patient's ear pain?",
-    options: [
-      "Auriculotemporal branch of the trigeminal nerve",
-      "Tympanic branch of the glossopharyngeal nerve",
-      "Auricular branch of the vagus nerve",
-      "Great auricular nerve from the cervical plexus"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Tympanic branch of the glossopharyngeal nerve"
-  },
-  {
-    id: 113,
-    image: "images/IMG_8135.jpeg",
-    question: "A 35-year-old patient undergoes an occipitomental (Water's) radiograph to evaluate chronic facial pain. The radiologic technician instructs the patient to keep their mouth widely open during the film exposure. Which specific paranasal sinus is uniquely visualized using this open-mouth modification?",
-    options: [
-      "Frontal sinus",
-      "Ethmoidal sinus",
-      "Sphenoid sinus",
-      "Maxillary sinus"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Sphenoid sinus"
-  },
-  {
-    id: 114,
-    image: "",
-    question: "A 25-year-old boxer presents to the emergency department after sustaining a direct, forceful punch to the nose from the front. Examination reveals epistaxis and a palpable septal cartilage fracture. Which of the following best describes the classical orientation and eponym of this specific fracture pattern?",
-    options: [
-      "Vertical fracture line; Chevallet type",
-      "Vertical fracture line; Jarjaway type",
-      "Horizontal fracture line; Chevallet type",
-      "Horizontal fracture line; Jarjaway type"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Horizontal fracture line; Jarjaway type"
-  },
-  {
-    id: 115,
-    image: "",
-    question: "A 10-year-old boy presents to the emergency room with an active anterior nosebleed. As the immediate first step in management, the physician instructs him to sit up, lean slightly forward over a basin, breathe quietly through his mouth, and spit out any trickling blood. What is the specific eponym for this clinical maneuver?",
-    options: [
-      "Trotter's method",
-      "Rose's position",
-      "Valsalva maneuver",
-      "Epley maneuver"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Trotter's method"
-  },
-  {
-    id: 116,
-    image: "",
-    question: "A 2-year-old child presents to the pediatric emergency department with respiratory distress and noisy breathing. On careful auscultation, the physician notes a harsh, high-pitched respiratory sound that is equally prominent during both the inspiratory and expiratory phases. This specific pattern of abnormal airway sound strongly localizes the obstructive lesion to which of the following anatomical regions?",
-    options: [
-      "Supraglottis",
-      "Subglottis",
-      "Thoracic trachea",
-      "Nasopharynx"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Subglottis"
-  },
-  {
-    id: 117,
-    image: "",
-    question: "A 45-year-old male undergoes a modified radical mastoidectomy for extensive squamosal chronic otitis media. To ensure adequate access for future outpatient inspection and cleaning of the newly created mastoid cavity, the surgeon deliberately removes a crescent-shaped portion of the conchal cartilage to widen the external opening. Which of the following best describes this specific procedural step?",
-    options: [
-      "Canalplasty",
-      "Tympanoplasty",
-      "Meatoplasty",
-      "Myringoplasty"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Meatoplasty"
-  },
-  {
-    id: 118,
-    image: "",
-    question: "A 40-year-old man undergoes instrumental removal of impacted cerumen strictly adhering to the posterior wall and floor of his right external auditory canal. During the manipulation, he suddenly develops a persistent dry cough. Which of the following nerves directly mediates this specific reflex arc?",
-    options: [
-      "Auriculotemporal nerve",
-      "Great auricular nerve",
-      "Tympanic branch of glossopharyngeal nerve",
-      "Auricular branch of the vagus nerve"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Auricular branch of the vagus nerve"
-  },
-  {
-    id: 119,
-    image: "images/IMG_8137.jpeg",
-    question: "A 28-year-old motorcyclist is brought to the trauma bay following a high-speed collision. He is stabilized, but over the next 48 hours, the nursing staff notes the development of distinct ecchymosis over the retro-auricular and mastoid areas bilaterally. This specific clinical sign is most strongly indicative of a fracture involving which of the following regions?",
-    options: [
-      "Middle cranial fossa",
-      "Anterior cranial fossa",
-      "Posterior cranial fossa",
-      "Pterygopalatine fossa"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Middle cranial fossa"
-  },
-  {
-    id: 120,
-    image: "",
-    question: "A 28-year-old female presents to the surgery outpatient department complaining of a cosmetic deformity over her right temple. Examination reveals a slow-growing, tortuous, and pulsatile swelling over the scalp. Auscultation over the swelling reveals a loud bruit. Which of the following blood vessels is most commonly involved in the pathogenesis of this condition?",
-    options: [
-      "Occipital artery",
-      "Facial artery",
-      "Supraorbital artery",
-      "Superficial temporal artery"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Superficial temporal artery"
-  },
-  {
-    id: 121,
-    image: "",
-    question: "A 62-year-old male smoker presents with a consistent, debilitating cramp-like pain in his right calf that begins after walking approximately 200 meters. The pain forces him to stop and is completely relieved within 5 minutes of standing still. He distinctly notes that the pain is never present upon taking his very first step. Which of the following is the most commonly affected artery responsible for this classic presentation?",
-    options: [
-      "Superficial femoral artery",
-      "Aortoiliac segment",
-      "Profunda femoris artery",
-      "Popliteal artery"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Superficial femoral artery"
-  },
-  {
-    id: 122,
-    image: "",
-    question: "A 30-year-old male is brought to the emergency department following a high-speed motor vehicle accident. He is unconscious and has sustained multiple traumatic injuries. According to the ATLS protocol, which of the following radiographic adjuncts should be performed as a standard part of the primary survey?",
-    options: [
-      "Magnetic Resonance Imaging (MRI) of the spine",
-      "Contrast-Enhanced Computed Tomography (CECT) of the abdomen",
-      "Portable chest and pelvic radiographs",
-      "Focused Assessment with Sonography for Trauma (FAST)"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Portable chest and pelvic radiographs"
-  },
-  {
-    id: 123,
-    image: "",
-    question: "A patient with a history of bilateral adrenalectomy presents with sudden hypotension, fever, severe abdominal pain, and vomiting. Which of the following is the most appropriate initial glucocorticoid replacement regimen?",
-    options: [
-      "Dexamethasone 4 mg bolus followed by 2 mg/day",
-      "Hydrocortisone 100 mg bolus followed by 200 mg/24 hours",
-      "Prednisolone 50 mg bolus followed by 100 mg/24 hours",
-      "Fludrocortisone 0.1 mg daily as a single dose"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Hydrocortisone 100 mg bolus followed by 200 mg/24 hours"
-  },
-  {
-    id: 124,
-    image: "",
-    question: "A 45-year-old male presents with severe, sudden-onset chest and upper abdominal pain accompanied by dyspnea following a heavy bout of drinking and retching. Clinical examination reveals upper abdominal rigidity and palpable subcutaneous emphysema over his neck. Which of the following is the most common anatomical site for the primary pathology occurring in this patient?",
-    options: [
-      "Anterior wall of the first part of the duodenum",
-      "Apical emphysematous bullae of the right lung",
-      "Lower esophagus towards the left esophageal cavity",
-      "Upper thoracic esophagus near the cricopharyngeus"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Lower esophagus towards the left esophageal cavity"
-  },
-  {
-    id: 125,
-    image: "",
-    question: "A 58-year-old diabetic male presents to the emergency department with high-grade fever, severe scrotal pain, and palpable crepitus. Examination reveals a blackish necrotic eschar over the perineum and scrotum. A diagnosis of a fulminating polybacterial necrotizing fasciitis is made. During the emergency surgical debridement, which of the following structures is classically spared?",
-    options: [
-      "Dartos fascia",
-      "Colles' fascia",
-      "Scrotal arterioles",
-      "Testis"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Testis"
-  },
-  {
-    id: 126,
-    image: "images/IMG_8139.jpeg",
-    question: "A 3-year-old child presents to the emergency department with new-onset dysphagia and excessive salivation. An anteroposterior (AP) neck radiograph reveals the flat surface of a radiopaque circular object (resembling a coin) in the upper esophagus. The child is breathing comfortably with no signs of airway compromise. Which of the following is the most appropriate timeline and procedure for management?",
-    options: [
-      "Endoscopic removal within 12-24 hours",
-      "Immediate endoscopic removal",
-      "Non-urgent removal after 48 hours",
-      "Urgent Chest CT followed by surgical extraction"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Endoscopic removal within 12-24 hours"
-  },
-  {
-    id: 127,
-    image: "",
-    question: "A 30-year-old male is brought to the emergency room following a high-speed road traffic accident causing blunt abdominal trauma. He has severe left lumbar tenderness. Which of the following findings is an absolute indication for immediate surgical renal exploration?",
-    options: [
-      "Persistent post-injury urinoma",
-      "Expanding pulsatile retroperitoneal hematoma",
-      "Concomitant traumatic pancreatic injury",
-      "Complete thrombosis of bilateral renal arteries"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Expanding pulsatile retroperitoneal hematoma"
-  },
-  {
-    id: 128,
-    image: "",
-    question: "A 75-year-old male with severe chronic obstructive pulmonary disease presents to the emergency room with a complete, irreducible rectal prolapse. On examination, the prolapsed tissue is severely edematous, dark, and shows early signs of strangulation. Which of the following is the definitive surgical procedure of choice for this patient?",
-    options: [
-      "Delorme's mucosectomy",
-      "Ripstein's procedure",
-      "Altemeier's procedure",
-      "Thiersch's wiring"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Altemeier's procedure"
-  },
-  {
-    id: 129,
-    image: "",
-    question: "A 45-year-old male undergoes emergency surgery for a strangulated inguinal hernia with localized peritonitis. Due to the grossly contaminated field, the surgeon decides against using a synthetic mesh. Instead, a primary tissue repair is performed by suturing the conjoined tendon directly to the inguinal ligament. Which of the following eponymous surgical repairs was performed?",
-    options: [
-      "Lichtenstein repair",
-      "Shouldice repair",
-      "McVay repair",
-      "Bassini repair"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Bassini repair"
-  },
-  {
-    id: 130,
-    image: "images/IMG_8140.jpeg",
-    question: "A 45-year-old male presents with chronic flank pain and dysuria. Urinalysis reveals sterile pyuria. A plain abdominal X-ray shows a \"putty kidney\" with homogenous ground glass-like calcification. Which of the following statements regarding the pathogenesis of this condition is most accurate?",
-    options: [
-      "It is strictly a secondary infection via hematogenous dissemination",
-      "It primarily occurs via an ascending infection from the lower urinary tract",
-      "It represents a primary focal tuberculous infection of the renal parenchyma",
-      "It predominantly spreads to the kidney via the lymphatic system"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "It is strictly a secondary infection via hematogenous dissemination"
-  },
-  {
-    id: 131,
-    image: "images/IMG_8141.jpeg",
-    question: "A 45-year-old chronic alcoholic presents to the emergency room with acute-onset severe upper abdominal pain, tachycardia, and hypotension. Physical examination reveals a bluish, hemorrhagic discoloration specifically localized over the inguinal region. Which of the following eponymous clinical signs is being described?",
-    options: [
-      "Cullen's sign",
-      "Fox's sign",
-      "Grey Turner's sign",
-      "Bryant's sign"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Fox's sign"
-  },
-  {
-    id: 132,
-    image: "",
-    question: "A 50-year-old male presents with acute severe abdominal pain, fever, and vomiting. On examination, he has tachycardia, widespread abdominal tenderness with guarding, and absent bowel sounds. An upright chest X-ray is equivocal for free air under the diaphragm. Which of the following is the most sensitive investigation to confirm minimal pneumoperitoneum and identify the exact site of the pathology?",
-    options: [
-      "Supine abdominal radiograph",
-      "Diagnostic peritoneal lavage",
-      "Contrast-enhanced computed tomography",
-      "Point-of-care abdominal ultrasound"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Contrast-enhanced computed tomography"
-  },
-  {
-    id: 133,
-    image: "",
-    question: "A 45-year-old male presents with fever, myalgia, and marked leukopenia exactly 3 months after receiving a renal transplant. Which of the following is the most likely responsible pathogen?",
-    options: [
-      "Cytomegalovirus",
-      "BK polyomavirus",
-      "Aspergillus species",
-      "Herpes simplex virus"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Cytomegalovirus"
-  },
-  {
-    id: 134,
-    image: "",
-    question: "A 28-year-old male blood donor is deferred after routine screening shows his serum is positive for the \"Australia antigen\". An electron microscopy analysis of his highly infectious serum reveals three distinct morphological structures. Which of the following specifically represents the complete, fully infectious Hepatitis B virion?",
-    options: [
-      "22 nm highly abundant spherical particle",
-      "42 nm double-walled Dane particle",
-      "22 nm filamentous tubular particle",
-      "Naked icosahedral viral core"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "42 nm double-walled Dane particle"
-  },
-  {
-    id: 135,
-    image: "",
-    question: "A 45-year-old sheep farmer presents with chronic right upper quadrant abdominal pain. An ultrasound reveals a large, multiloculated cystic lesion in the right lobe of his liver. Serological testing confirms an infection with Echinococcus granulosus. In the epidemiological life cycle of this specific parasite, what exact role does the human patient play?",
-    options: [
-      "Primary definitive host",
-      "Natural intermediate host",
-      "Accidental intermediate host",
-      "Paratenic host"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Accidental intermediate host"
-  },
-  {
-    id: 136,
-    image: "",
-    question: "A healthy 25-year-old female undergoes a routine high vaginal swab. The culture predominantly isolates a gram-positive, non-motile, non-spore-forming bacterium that thrives in a low pH environment. How does this specific organism primarily maintain this protective acidic mucosal niche?",
-    options: [
-      "Active hydrolysis of urea",
-      "Secretion of short-chain fatty acids",
-      "Enzymatic breakdown of local mucosal amines",
-      "Derivation of lactic acid from glucose"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Derivation of lactic acid from glucose"
-  },
-  {
-    id: 137,
-    image: "images/IMG_8142.jpeg",
-    question: "A 45-year-old male presents with a chronic, deeply indurated swelling at the angle of his jaw. The lesion has developed multiple draining sinus tracts that exude pus containing tiny yellowish macroscopic particles. Which of the following is the most common causative organism for this classic clinical presentation?",
-    options: [
-      "Actinomyces israelii",
-      "Nocardia asteroides",
-      "Staphylococcus aureus",
-      "Mycobacterium tuberculosis"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Actinomyces israelii"
-  },
-  {
-    id: 138,
-    image: "",
-    question: "A 45-year-old male with chronic dyspepsia undergoes an upper endoscopy. A rapid urease test performed on the gastric biopsy rapidly changes color, indicating a strongly positive result. Which of the following urinary pathogens shares this exact enzymatic capability?",
-    options: [
-      "Escherichia coli",
-      "Proteus mirabilis",
-      "Enterococcus faecalis",
-      "Streptococcus agalactiae"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Proteus mirabilis"
-  },
-  {
-    id: 139,
-    image: "",
-    question: "A 22-year-old male presents with a prolonged non-productive cough and low-grade fever. He is diagnosed with atypical pneumonia caused by Mycoplasma pneumoniae. Why is the empirical use of a broad-spectrum beta-lactam antibiotic completely ineffective for this specific pathogen?",
-    options: [
-      "It produces robust beta-lactamase enzymes",
-      "It possesses a mutated penicillin-binding protein",
-      "It structurally lacks a peptidoglycan cell wall",
-      "It utilizes specialized membrane efflux pumps"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "It structurally lacks a peptidoglycan cell wall"
-  },
-  {
-    id: 140,
-    image: "images/IMG_8143.jpeg",
-    question: "A 6-year-old malnourished child presents with chronic bloody diarrhea, tenesmus, and a recent episode of rectal prolapse. Stool microscopy reveals brown, barrel-shaped eggs with distinct colorless mucus plugs at both poles. Which of the following is the most likely causative organism?",
-    options: [
-      "Ascaris lumbricoides",
-      "Enterobius vermicularis",
-      "Ancylostoma duodenale",
-      "Trichuris trichiura"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Trichuris trichiura"
-  },
-  {
-    id: 141,
-    image: "",
-    question: "A 24-year-old primigravida presents at 20 weeks of gestation with a mild facial rash and arthralgia. Routine obstetric ultrasound reveals severe fetal ascites, pleural effusion, and diffuse skin edema. The obstetrician suspects a specific viral infection that classically mimics erythroblastosis fetalis. Which of the following is the specific primary cellular target of the most likely causative virus?",
-    options: [
-      "Immature erythroid progenitor cells",
-      "Mature circulating erythrocytes",
-      "Fetal reticuloendothelial macrophages",
-      "Placental trophoblastic syncytium"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Immature erythroid progenitor cells"
-  },
-  {
-    id: 142,
-    image: "images/IMG_8144.jpeg",
-    question: "A 40-year-old tannery worker presents with a painless ulcer on his forearm. Examination reveals a central black eschar surrounded by a prominent inflammatory ring. This specific clinical presentation is classically known by which of the following occupational eponyms?",
-    options: [
-      "Wool sorter's disease",
-      "Hide porter's disease",
-      "Farmer's lung",
-      "Milker's nodule"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Hide porter's disease"
-  },
-  {
-    id: 143,
-    image: "images/IMG_8145.jpeg",
-    question: "A microbiology laboratory isolates a bacterial pathogen from a patient's wound swab. To determine antibiotic susceptibility, standardized paper discs containing various antimicrobial agents are placed onto an inoculated agar plate. Which of the following specific solid media is universally recommended for performing this standard procedure?",
-    options: [
-      "Chocolate agar",
-      "Blood agar",
-      "Cation-adjusted Mueller-Hinton agar",
-      "MacConkey agar"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Cation-adjusted Mueller-Hinton agar"
-  },
-  {
-    id: 144,
-    image: "",
-    question: "A 10-year-old boy from a rural agricultural community presents with high-grade fever, altered sensorium, and seizures. Serology confirms a diagnosis of Japanese Encephalitis. In the natural epidemiological transmission cycle of this specific viral disease, what exact role does this child play?",
-    options: [
-      "Primary amplifying host",
-      "Definitive maintenance host",
-      "Essential intermediate host",
-      "Incidental dead-end host"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Incidental dead-end host"
-  },
-  {
-    id: 145,
-    image: "images/IMG_8146.jpeg",
-    question: "A 30-year-old male presents with chronic cough, chest pain, and hemoptysis. His sputum is distinctly viscous and speckled with golden-brown eggs. He reports a recent dietary history of consuming inadequately cooked crayfish. Which of the following is the specific infective stage of the parasite responsible for his condition?",
-    options: [
-      "Metacercariae",
-      "Cercariae",
-      "Miracidia",
-      "Embryonated eggs"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Metacercariae"
-  },
-  {
-    id: 146,
-    image: "images/IMG_8165.jpeg",
-    question: "A 35-year-old male presents with adult-onset epilepsy. MRI brain shows multiple cystic lesions with an internal scolex. What is the most critical pharmacological step required immediately before initiating the definitive antiparasitic drug for this condition?",
-    options: [
-      "Intravenous mannitol",
-      "Systemic glucocorticoids",
-      "Prophylactic broad-spectrum antibiotics",
-      "Immediate surgical excision"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Systemic glucocorticoids"
-  },
-  {
-    id: 147,
-    image: "",
-    question: "A 65-year-old male visits the clinic for his annual immunization. He asks the physician why the influenza vaccine requires a newly updated formulation every single year. Which of the following is the primary pathophysiological reason for this periodic strain change?",
-    options: [
-      "Rapid waning of host memory B cells",
-      "Proofreading errors by viral DNA polymerase",
-      "Gradual mutations in surface glycoproteins",
-      "Drastic reassortment of core viral proteins"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Gradual mutations in surface glycoproteins"
-  },
-  {
-    id: 148,
-    image: "images/IMG_8166.jpeg",
-    question: "A 35-year-old male with untreated HIV presents with discomfort while swallowing. Oral examination reveals multiple patchy, white pseudomembranous lesions over his tongue and palate. These patches are easily scraped off with a tongue depressor, leaving a raw, erythematous base. Microscopic examination of the scrapings reveals budding yeasts and pseudohyphae. Which of the following is the most appropriate initial topical therapy for this patient's condition?",
-    options: [
-      "Acyclovir suspension",
-      "Triamcinolone paste",
-      "Mupirocin ointment",
-      "Nystatin suspension"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Nystatin suspension"
-  },
-  {
-    id: 149,
-    image: "",
-    question: "A 28-year-old pregnant woman returns from a tropical vacation presenting with a mild fever, maculopapular rash, and non-purulent conjunctivitis. She reports multiple mosquito bites during her trip. If this specific viral infection is transmitted to her fetus, which of the following is the most classic and devastating congenital manifestation?",
-    options: [
-      "Severe microcephaly",
-      "Patent ductus arteriosus",
-      "Hutchinson's incisors",
-      "Diffuse intracranial calcifications"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Severe microcephaly"
-  },
-  {
-    id: 150,
-    image: "images/IMG_8149.jpeg",
-    question: "A 45-year-old florist presents with a chronic, painless ulcer on her right index finger. Over the next three weeks, she develops a series of subcutaneous, nodular lesions ascending proximally along her forearm. She recalls a recent rose thorn prick at the site of the initial ulcer. What is the fundamental mycological characteristic of the causative organism?",
-    options: [
-      "Strictly anaerobic bacterium",
-      "Thermally dimorphic fungus",
-      "Encapsulated budding yeast",
-      "Non-septate branching mold"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Thermally dimorphic fungus"
-  },
-  {
-    id: 151,
-    image: "",
-    question: "A 28-year-old male presents to the emergency department with severe, uncontrollable vomiting and abdominal cramps. He reports that his symptoms started abruptly just 3 hours after eating a ham sandwich and potato salad at a picnic. He has no fever. Which of the following best describes the exact pathogenesis of his acute gastrointestinal symptoms?",
-    options: [
-      "In vivo production of a heat-labile enterotoxin",
-      "Direct bacterial invasion of the intestinal mucosa",
-      "Ingestion of a preformed heat-stable superantigen",
-      "Intestinal spore germination and subsequent toxin release"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Ingestion of a preformed heat-stable superantigen"
-  },
-  {
-    id: 152,
-    image: "",
-    question: "A 40-year-old male from a highly endemic region presents with recurrent episodes of fever, lower limb lymphangitis, and a progressively enlarging hydrocele. The physician suspects a nematode infection and orders a peripheral blood smear for definitive diagnosis. To maximize the diagnostic yield, at what specific time should the blood sample be optimally collected?",
-    options: [
-      "6:00 AM to 8:00 AM",
-      "12:00 PM to 2:00 PM",
-      "6:00 PM to 8:00 PM",
-      "10:00 PM to 2:00 AM"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "10:00 PM to 2:00 AM"
-  },
-  {
-    id: 153,
-    image: "images/IMG_8150.jpeg",
-    question: "A patient presents with high-grade fever and rigors. A peripheral blood smear reveals multiple ring-form trophozoites within a single erythrocyte, some of which appear at the periphery of the red cell (applique/accole form) and exhibit a characteristic \"stereo-headphone\" appearance due to double chromatin dots. Which of the following species is the most likely causative agent?",
-    options: [
-      "Plasmodium vivax",
-      "Plasmodium falciparum",
-      "Plasmodium ovale",
-      "Plasmodium malariae"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Plasmodium falciparum"
-  },
-  {
-    id: 154,
-    image: "",
-    question: "A 19-year-old college student presents with acute high-grade fever, severe headache, and a rapidly evolving non-blanching purpuric rash. He develops sudden circulatory collapse and multi-organ failure. What is the most appropriate term for this specific, catastrophic presentation of disseminated intravascular coagulation associated with this gram-negative diplococcal infection?",
-    options: [
-      "Lemierre's syndrome",
-      "Waterhouse-Friderichsen syndrome",
-      "Henoch-Schönlein purpura",
-      "Fitz-Hugh-Curtis syndrome"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Waterhouse-Friderichsen syndrome"
-  },
-  {
-    id: 155,
-    image: "",
-    question: "A researcher is studying the virulence factors of Neisseria meningitidis, specifically examining the surface structures that allow the bacterium to colonize the human nasopharynx. Which of the following functions is primarily mediated by the \"ordinary\" pili (fimbriae) in this clinical context?",
-    options: [
-      "Twitching motility",
-      "Bacterial adhesion",
-      "Antigenic variation",
-      "Genetic conjugation"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Bacterial adhesion"
-  },
-  {
-    id: 156,
-    image: "",
-    question: "A 30-year-old male is charged with committing a severe assault. During the trial, his defense argues that he suffers from a profound mental disorder and was entirely unaware that his actions were legally wrong at the time of the incident. Under current legal provisions, this defense is based on which specific section of the Bharatiya Nyaya Sanhita (BNS)?",
-    options: [
-      "Section 20",
-      "Section 21",
-      "Section 22",
-      "Section 23"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Section 22"
-  },
-  {
-    id: 157,
-    image: "",
-    question: "A patient is brought to the emergency department following the ingestion of a toxic substance. On examination, the patient’s vomitus is observed to be faintly luminous in the dark, and the stools exhibit a characteristic \"smoky\" appearance with visible fumes. Which of the following is the most likely diagnosis?",
-    options: [
-      "Arsenic poisoning",
-      "Acute phosphorus poisoning",
-      "Organophosphate poisoning",
-      "Lead poisoning"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Acute phosphorus poisoning"
-  },
-  {
-    id: 158,
-    image: "",
-    question: "A woman falsely claims to have undergone pregnancy and delivery, subsequently producing a live child to illegally claim property inheritance. In the context of forensic medicine, this child is classified under which of the following terms?",
-    options: [
-      "Posthumous child",
-      "Illegitimate child",
-      "Supposititious child",
-      "Legitimated child"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Supposititious child"
-  },
-  {
-    id: 159,
-    image: "",
-    question: "A 25-year-old male is implicated in a crime based on DNA evidence recovered from the scene. However, the suspect has a monozygotic (identical) twin brother, and standard DNA profiling cannot differentiate between them. Which of the following parameters will definitively distinguish the suspect from his identical twin?",
-    options: [
-      "Mitochondrial DNA sequence",
-      "ABO blood group antigens",
-      "Human Leukocyte Antigen (HLA) typing",
-      "Friction ridge patterns"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Friction ridge patterns"
-  },
-  {
-    id: 160,
-    image: "",
-    question: "A 2-year-old child is brought to the emergency department with a fractured humerus. The parents claim the child simply tripped on a carpet. Examination reveals multiple skin bruises across the torso in various different stages of healing. Based on the most likely diagnosis, which of the following is the most mandatory radiological investigation required next?",
-    options: [
-      "Complete skeletal survey",
-      "Magnetic resonance imaging of the arm",
-      "Dual-energy X-ray absorptiometry",
-      "Radionuclide bone scintigraphy"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Complete skeletal survey"
-  },
-  {
-    id: 161,
-    image: "",
-    question: "A 35-year-old male is found dead with a suspected gunshot wound to the right temporal region. During the autopsy, the forensic expert strictly instructs the assistant to carefully preserve the hair immediately surrounding the entry defect rather than shaving the area completely. What is the primary forensic objective of preserving this perilesional hair?",
-    options: [
-      "To extract the victim's follicular DNA for positive identification",
-      "To examine for carbonisation to determine the firing range",
-      "To identify the specific caliber of the weapon used",
-      "To evaluate the internal trajectory towards the exit wound"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "To examine for carbonisation to determine the firing range"
-  },
-  {
-    id: 162,
-    image: "",
-    question: "A 30-year-old farmer presents with extreme restlessness, severe hypertension, and acute pulmonary edema following a sting by an unidentified arthropod. Examination reveals a single puncture wound with no marked local swelling. Which of the following is the specific physiological antidote for this condition?",
-    options: [
-      "Intravenous atropine",
-      "Polyvalent anti-snake venom",
-      "Oral prazosin",
-      "Intramuscular adrenaline"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Oral prazosin"
-  },
-  {
-    id: 163,
-    image: "",
-    question: "An unidentified body is recovered with a completely faded and artificially removed tattoo on the right forearm. To forensically confirm the prior existence and color of this tattoo, which specific anatomical structure must be meticulously examined?",
-    options: [
-      "Underlying muscle fascia",
-      "Adjacent subcutaneous fat",
-      "Systemic bone marrow",
-      "Regional lymph nodes"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Regional lymph nodes"
-  },
-  {
-    id: 164,
-    image: "",
-    question: "A 5-year-old girl is brought to the clinic by her mother with complaints of sudden behavioral withdrawal, new-onset sleep disturbances, and severe pain during urination. The physician strongly suspects a history of sexual abuse and proceeds with a careful forensic genital examination. Which of the following is the most characteristic forensic anatomical finding regarding the hymen in this specific age group following an assault?",
-    options: [
-      "Deeply situated and frequently intact",
-      "Completely ruptured with extensive lacerations",
-      "Superficially located with contact bleeding",
-      "Replaced entirely by carunculae myrtiformes"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Deeply situated and frequently intact"
-  },
-  {
-    id: 165,
-    image: "",
-    question: "A 6-year-old boy presents to the dermatology clinic with intensely pruritic, thickened, and lichenified plaques over his antecubital and popliteal fossae. His mother mentions he has suffered from chronic dry skin since infancy and has a strong family history of bronchial asthma. A genetic defect in which of the following epidermal structural proteins is most directly responsible for the pathogenesis of this condition?",
-    options: [
-      "Desmoglein-1",
-      "Filaggrin",
-      "Type VII collagen",
-      "Plakoglobin"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Filaggrin"
-  },
-  {
-    id: 166,
-    image: "images/IMG_8151.jpeg",
-    question: "A 65-year-old male presents with a severely painful, unilateral, vesicular rash distributed along the right T6 dermatome. He recalls having a widespread, itchy, fluid-filled rash all over his body when he was 7 years old. Following his initial childhood infection, in which specific anatomical structure did the causative agent establish latency prior to his current presentation?",
-    options: [
-      "Trigeminal ganglion",
-      "Sacral sensory ganglia",
-      "Dorsal root ganglia",
-      "B lymphocytes"
-    ],
-    answerIndex: 2,
-    correctAnswerText: "Dorsal root ganglia"
-  },
-  {
-    id: 167,
-    image: "images/IMG_8152.jpeg",
-    question: "A 40-year-old Indian female presents with a distinct, well-demarcated, circular depigmented patch strictly localized to the center of her forehead. She has a history of using decorative adhesive forehead stickers daily for many years. The localized melanocyte apoptosis seen in this specific condition is most classically triggered by which of the following chemicals?",
-    options: [
-      "p-phenylenediamine",
-      "Mono-benzyl ether of hydroquinone",
-      "Crocein Scarlet MOO",
-      "Para tertiary butylphenol"
-    ],
-    answerIndex: 3,
-    correctAnswerText: "Para tertiary butylphenol"
-  },
-  {
-    id: 168,
-    image: "",
-    question: "A 25-year-old female presents with severe vaginal pruritus and a copious, green, frothy discharge. Speculum examination reveals punctate macular erythema on the cervix (\"strawberry cervix\"). Which of the following is a defining biological characteristic of the specific organism responsible for this infection?",
-    options: [
-      "It exists exclusively in the trophozoite stage",
-      "It replicates intracellularly via reticulate bodies",
-      "It possesses a thick, protective chitinous cell wall",
-      "It exhibits a thermally dimorphic life cycle"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "It exists exclusively in the trophozoite stage"
-  },
-  {
-    id: 169,
-    image: "",
-    question: "A 45-year-old obese, diabetic female presents with an intensely itchy, moist, erythematous rash under her breasts. Clinical examination reveals deep red, macerated plaques in the inframammary folds. Which of the following is the most characteristic feature found at the advancing margin of this specific condition?",
-    options: [
-      "Central clearing with an active scaling border",
-      "Fringed irregular edge with subcorneal pustules",
-      "Silvery-white scaling with pinpoint bleeding",
-      "Serpiginous burrows with severe nocturnal pruritus"
-    ],
-    answerIndex: 1,
-    correctAnswerText: "Fringed irregular edge with subcorneal pustules"
-  },
-  {
-    id: 170,
-    image: "images/IMG_8155.jpeg",
-    question: "A 65-year-old non-obese male rapidly develops thickened, gray-brown velvety plaques in his axillae and posterior neck alongside significant unintentional weight loss and early satiety. Which of the following is the most likely underlying cause of this specific cutaneous presentation?",
-    options: [
-      "Severe insulin resistance",
-      "Nicotinic acid therapy",
+      "Non-small cell carcinoma of lung",
+      "Glucagonoma",
       "Gastric adenocarcinoma",
-      "Polycystic ovarian syndrome"
+      "Renal cell carcinoma"
     ],
     answerIndex: 2,
     correctAnswerText: "Gastric adenocarcinoma"
   },
   {
-    id: 171,
-    image: "images/IMG_8158.jpeg",
-    question: "A 35-year-old male with a known history of thick, scaly plaques on his elbows presents to the dermatology clinic. He recently sustained a linear scratch on the dorsum of his hand and now notices identical scaly plaques developing precisely along the line of the mechanical trauma. What is the specific dermatological term for this clinical finding?",
+    id: 81,
+    image: "",
+    question: "A 46-year-old man with past history of irregular treatment for Hansen disease presents with multiple firm, shiny, asymptomatic nodules over the face, ears, trunk, and limbs. The surrounding skin appears diffusely infiltrated and shiny. Slit-skin smear shows very high bacillary load with AFB ++++ arranged in globi.\nWhich variant of leprosy is most likely?",
     options: [
-      "Auspitz sign",
-      "Nikolsky sign",
-      "Meyerson phenomenon",
-      "Koebner phenomenon"
+      "Lucio leprosy",
+      "Tuberculoid leprosy",
+      "Borderline tuberculoid leprosy",
+      "Histoid leprosy"
     ],
     answerIndex: 3,
-    correctAnswerText: "Koebner phenomenon"
+    correctAnswerText: "Histoid leprosy"
+  },
+  {
+    id: 82,
+    image: "",
+    question: "A 34-year-old man on multidrug therapy for borderline Hansen disease develops sudden redness, swelling, and pain in his pre-existing skin lesions. He also complains of tingling and weakness in the ulnar nerve distribution. There are no crops of new painful nodules over the body.\nWhat is the most appropriate management?",
+    options: [
+      "Continue MDT with oral corticosteroids",
+      "Stop MDT immediately and give only antihistamines",
+      "Start thalidomide as the drug of choice",
+      "Perform lepromin test to confirm active disease"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Continue MDT with oral corticosteroids"
+  },
+  {
+    id: 83,
+    image: "",
+    question: "A patient with post-traumatic deviated nasal septum is planned for septoplasty. During teaching, the resident is asked to identify the main structural framework forming the nasal septum. The consultant emphasizes that the major septal framework is made of two bony parts and one cartilaginous part, while small supporting crests and spines only contribute minor support.\nWhich combination represents the major components of the nasal septum?",
+    options: [
+      "Palatine bone, spine of maxilla, rostrum of sphenoid",
+      "Perpendicular plate of ethmoid, vomer, quadrangular cartilage",
+      "Inferior turbinate, nasal bone, cribriform plate of ethmoid",
+      "Spine of frontal bone, spine of sphenoid, crest of maxilla"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Perpendicular plate of ethmoid, vomer, quadrangular cartilage"
+  },
+  {
+    id: 84,
+    image: "",
+    question: "During endoscopic sinus surgery, a surgeon identifies a posterior ethmoidal air cell extending close to the sphenoid sinus and optic nerve. The senior surgeon warns that this cell is a dangerous landmark because mistaken entry can injure the optic nerve.\nWhich paranasal sinus air cell is being described?",
+    options: [
+      "Agger nasi cell",
+      "Bulla ethmoidalis",
+      "Onodi cell",
+      "Maxillary sinus"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Onodi cell"
+  },
+  {
+    id: 85,
+    image: "",
+    question: "A 28-year-old man with recurrent rhinosinusitis is planned for functional endoscopic sinus surgery. The surgeon explains that the key step is to restore ventilation and drainage by clearing the region where maximum paranasal sinus ostia open, especially the drainage pathway related to the uncinate process, ethmoidal infundibulum, and hiatus semilunaris.\nWhich anatomical region is the surgeon mainly targeting?",
+    options: [
+      "Sphenoethmoidal recess",
+      "Superior meatus",
+      "Inferior meatus",
+      "Osteomeatal complex"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Osteomeatal complex"
+  },
+  {
+    id: 86,
+    image: "",
+    question: "A 62-year-old man is evaluated for gradually progressive loss of smell along with early memory decline. The ENT resident plans a standardized olfactory assessment using “scratch and sniff” booklets, where the patient identifies odorants from multiple choices. The consultant says this test is a commonly used smell identification test and each booklet contains 10 odorants.\nWhich test is being described?",
+    options: [
+      "University of Pennsylvania Smell Identification Test",
+      "Ammonia perception test",
+      "Cross-cultural smell identification test",
+      "Pure tone audiometry"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "University of Pennsylvania Smell Identification Test"
+  },
+  {
+    id: 87,
+    image: "",
+    question: "A 7-year-old child with repaired cleft palate is brought with abnormal nasal quality of voice. On speaking, there is excessive nasal resonance and nasal air escape. Examination shows poor palatal closure during phonation, but the nasal cavity is patent with no obstruction.\nWhich mechanism best explains this voice abnormality?",
+    options: [
+      "Reduced nasal component due to nasal obstruction",
+      "Increased nasal component due to palatal insufficiency",
+      "Reduced oral and nasal components due to laryngeal paralysis",
+      "Increased oral component due to concha bullosa"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Increased nasal component due to palatal insufficiency"
+  },
+  {
+    id: 88,
+    image: "",
+    question: "A patient undergoing evaluation for nasal airflow is explained that the narrowest part of the nostril acts like a physiological valve. During inspiration, airflow remains relatively linear, but during expiration it becomes turbulent, which helps in ventilation of the paranasal sinuses.\nWhich statement is most accurate regarding this region?",
+    options: [
+      "It is formed mainly by the nasolacrimal duct opening into inferior meatus",
+      "It is the widest part of the nasal cavity and causes laminar expiration",
+      "It is limen nasi, and sinus ventilation occurs mainly during expiration due to turbulent flow",
+      "It is bounded only by septum and vomer, with no role of inferior turbinate"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "It is limen nasi, and sinus ventilation occurs mainly during expiration due to turbulent flow"
+  },
+  {
+    id: 89,
+    image: "",
+    question: "A 35-year-old man presents with nasal blockage, thick mucopurulent nasal discharge, reduced smell, fever, and facial heaviness for 8 days. He says the pain is maximum early morning and gradually reduces by evening after remaining upright. Examination also shows mild swelling of the upper eyelid.\nWhich interpretation is most appropriate?",
+    options: [
+      "Chronic sinusitis; fever is a major criterion and sphenoid sinus is involved",
+      "Maxillary sinusitis; pain is classically retro-orbital and vertex type",
+      "Ethmoid sinusitis; pain is maximum in the morning due to pus drainage on standing",
+      "Acute frontal sinusitis; diagnosis requires 2 major symptoms with 1 minor symptom"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Acute frontal sinusitis; diagnosis requires 2 major symptoms with 1 minor symptom"
+  },
+  {
+    id: 90,
+    image: "images/IMG_7037.jpeg",
+    question: "A 12-year-old child presents with fever, nasal obstruction, facial heaviness, and mucopurulent nasal discharge. Nasal endoscopy shows pus in the middle meatus. Two days later, he develops painful periorbital swelling with restricted eye movements. Imaging shows involvement of the ethmoidal sinus.\nWhich of the following is the most appropriate interpretation?",
+    options: [
+      "Orbital cellulitis / orbital abscess is commonly associated with ethmoidal sinusitis",
+      "Mucocele and pyocele are classically common complications of ethmoidal sinusitis",
+      "Pus in middle meatus rules out sinusitis and suggests allergic rhinitis",
+      "Open sinus surgery is the routine first-line treatment for uncomplicated sinusitis"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Orbital cellulitis / orbital abscess is commonly associated with ethmoidal sinusitis"
+  },
+  {
+    id: 91,
+    image: "images/IMG_7038.jpeg",
+    question: "A 19-year-old woman presents with chronic foul-smelling nasal crusting, anosmia, and a roomy nasal cavity. She is started on regular alkaline nasal douching. The solution advised contains sodium biborate, sodium bicarbonate, and sodium chloride. If she fails medical management, a procedure producing temporary nostril closure is considered, but the surgeon prefers a modification that avoids complete obstruction.\nWhich statement is most appropriate regarding management?",
+    options: [
+      "The alkaline nasal wash contains sodium biborate, sodium bicarbonate, and sodium chloride in 2:1:1 ratio",
+      "Modified Young’s operation leaves a small 3 mm opening instead of complete nostril closure",
+      "Classical Young’s operation is preferred nowadays because it is very comfortable for patients",
+      "FESS is the routine definitive procedure for atrophic rhinitis with crusting"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Modified Young’s operation leaves a small 3 mm opening instead of complete nostril closure"
+  },
+  {
+    id: 92,
+    image: "",
+    question: "A 32-year-old man has long-standing watery rhinorrhea and nasal obstruction, especially triggered by cold air and strong smells. Allergy testing is negative. Examination shows congested nasal mucosa without infection. Medical therapy fails. The surgeon plans a procedure through the region lying behind the maxillary sinus to interrupt parasympathetic supply responsible for excessive vasodilatation.\nWhich structure is targeted in the treatment of this condition?",
+    options: [
+      "Internal maxillary artery",
+      "Nasolacrimal duct",
+      "Vidian nerve",
+      "Anterior ethmoidal nerve"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Vidian nerve"
+  },
+  {
+    id: 93,
+    image: "images/IMG_7039.jpeg",
+    question: "A 24-year-old atopic male presents with long-standing nasal obstruction, foul-smelling nasal discharge, and recurrent nasal polyps. Diagnostic nasal endoscopy reveals thick tenacious peanut-butter-like mucin. CT paranasal sinuses shows areas of heterogeneous opacity with double density. Fungal smear is positive, but there is no tissue invasion.\nWhich of the following best supports the diagnosis?",
+    options: [
+      "Fungal culture is a major diagnostic criterion and tissue invasion is mandatory",
+      "Absence of nasal polyposis rules in allergic fungal rhinosinusitis",
+      "Single-density CT opacity with neutrophilic mucin is classical",
+      "Type I IgE-mediated hypersensitivity with eosinophilic mucin and positive fungal smear"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Type I IgE-mediated hypersensitivity with eosinophilic mucin and positive fungal smear"
+  },
+  {
+    id: 94,
+    image: "images/IMG_7041.jpeg",
+    question: "A 64-year-old man presents with progressive unilateral nasal obstruction, intermittent epistaxis, and facial heaviness. Diagnostic nasal endoscopy shows a friable mass arising from the lateral wall of the nose. CT scan shows extension toward the maxillary sinus with destruction of the maxillary sinus wall.\nWhich is the most likely diagnosis?",
+    options: [
+      "Squamous cell carcinoma of nose",
+      "Inverted papilloma",
+      "Juvenile nasopharyngeal angiofibroma",
+      "Allergic nasal polyp"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Squamous cell carcinoma of nose"
+  },
+  {
+    id: 95,
+    image: "",
+    question: "A 58-year-old carpenter presents with progressive unilateral nasal obstruction, blood-stained nasal discharge, facial fullness, and reduced smell. Imaging shows a mass predominantly involving the ethmoid sinus. Biopsy shows a gland-forming malignant epithelial tumor. The consultant asks the resident to identify the most likely occupational association and tumor ranking among paranasal sinus malignancies.\nWhich statement is most appropriate?",
+    options: [
+      "It is the most common paranasal sinus malignancy and is classically associated with nickel exposure",
+      "It is the second most common paranasal sinus malignancy and is classically associated with wood industry exposure",
+      "It is the most common benign tumor of paranasal sinuses and commonly arises from the maxillary sinus",
+      "It is best treated with chemotherapy alone using cisplatin and 5-fluorouracil"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "It is the second most common paranasal sinus malignancy and is classically associated with wood industry exposure"
+  },
+  {
+    id: 96,
+    image: "images/IMG_7042.jpeg",
+    question: "A 24-year-old man presents after a road traffic accident with nasal swelling, epistaxis, and deviation of the nasal dorsum. Lateral view nasal X-ray shows a radiolucent line over the dorsum of the nasal bone. The resident plans manipulation, but the consultant says reduction becomes difficult if edema develops and timing decides the type of reduction.\nWhich of the following is the most appropriate statement?",
+    options: [
+      "Zygomatic fracture is the most common facial fracture and should always be treated by open reduction immediately",
+      "Radiolucency on the lateral aspect of nasal bone always confirms fracture",
+      "Nasal bone fracture should ideally be reduced immediately; if edema develops, reduce after 5–7 days, and closed reduction is preferred within 3 weeks",
+      "Open reduction is preferred for all nasal bone fractures presenting within the first week"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Nasal bone fracture should ideally be reduced immediately; if edema develops, reduce after 5–7 days, and closed reduction is preferred within 3 weeks"
+  },
+  {
+    id: 97,
+    image: "images/IMG_7043.jpeg",
+    question: "A 30-year-old man presents after facial trauma with swelling around the eye, circumorbital ecchymosis, subconjunctival hemorrhage, unilateral epistaxis, and flattening of the cheek prominence. Palpation reveals a step deformity at the infraorbital rim and frontozygomatic suture. X-ray shows a tear drop sign.\nWhich fracture pattern is most likely involved?",
+    options: [
+      "Isolated nasal bone fracture",
+      "Le Fort I fracture",
+      "Isolated orbital roof fracture",
+      "Zygomatic fracture involving frontozygomatic region, zygomatic arch, and zygomaticotemporal suture"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Zygomatic fracture involving frontozygomatic region, zygomatic arch, and zygomaticotemporal suture"
+  },
+  {
+    id: 98,
+    image: "images/IMG_7045.jpeg",
+    question: "A 29-year-old man develops persistent clear watery nasal discharge after a road traffic accident. The discharge increases when he bends forward. When the fluid mixed with blood is placed on tissue paper, it forms a central reddish spot surrounded by a clear outer ring.\nWhich of the following is the most likely explanation?",
+    options: [
+      "Cribriform plate leak producing double ring / target / halo sign",
+      "Frontal sinus osteomyelitis producing single ring sign",
+      "Maxillary sinus fracture producing allergic mucin discharge",
+      "Nasolacrimal duct injury producing paradoxical CSF rhinorrhea"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Cribriform plate leak producing double ring / target / halo sign"
+  },
+  {
+    id: 99,
+    image: "",
+    question: "A 68-year-old hypertensive man presents with recurrent profuse nasal bleeding. Anterior rhinoscopy does not show an obvious bleeding point over the anterior septum. Diagnostic nasal endoscopy localizes the bleeding to the posterior part of the lateral nasal wall. The consultant says this bleeding area is classically venous, unlike the common childhood bleeding site.\nWhich structure is most likely responsible?",
+    options: [
+      "Little’s area",
+      "Woodruff plexus",
+      "Retrocolumellar vein",
+      "Anterior ethmoidal artery"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Woodruff plexus"
+  },
+  {
+    id: 100,
+    image: "images/IMG_7100.jpeg",
+    question: "A 13-year-old boy presents with progressive unilateral nasal obstruction and mouth breathing. Nasal endoscopy shows a single smooth polypoidal mass extending posteriorly toward the choana. The surgeon explains that the lesion arises from the maxillary antrum, passes through the ostium, and has a characteristic trilobed configuration. There is no history of allergy and recurrence is uncommon after complete endoscopic removal.\nWhich diagnosis best fits this presentation?",
+    options: [
+      "Ethmoidal polyp",
+      "Juvenile nasopharyngeal angiofibroma",
+      "Antrochoanal polyp",
+      "Allergic fungal rhinosinusitis"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Antrochoanal polyp"
+  },
+  {
+    id: 101,
+    image: "images/IMG_7047.jpeg",
+    question: "A 38-year-old man presents with chronic nasal obstruction, crusting, occasional epistaxis, and a non-healing ulcerative lesion in the anterior nasal cavity. Examination shows involvement of the cartilaginous septal region near the anterior end of the inferior turbinate. The clinician also mentions that the same region is commonly involved in another chronic granulomatous disease of the nose.\nWhich of the following statements is most accurate?",
+    options: [
+      "The most common symptom is lacrimation, and the bony septum is the usual site",
+      "The most common site is posterior nasal cavity, and nasal obstruction is rare",
+      "The most common nasal involvement in tertiary syphilis is the anterior end of inferior turbinate",
+      "The most common site is cartilaginous nasal septum with anterior end of inferior turbinate, and the most common symptom is nasal obstruction"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "The most common site is cartilaginous nasal septum with anterior end of inferior turbinate, and the most common symptom is nasal obstruction"
+  },
+  {
+    id: 102,
+    image: "images/IMG_7048.jpeg",
+    question: "A 34-year-old man from North India presents with long-standing foul-smelling nasal crusting and progressive nasal obstruction. On examination, the nose feels hard and woody. Biopsy from the nasal lesion shows large vacuolated macrophages containing bacilli, along with eosinophilic inclusion bodies.\nWhich of the following is the most appropriate diagnosis?",
+    options: [
+      "Rhinoscleroma",
+      "Atrophic rhinitis",
+      "Allergic fungal rhinosinusitis",
+      "Tuberculosis of nose"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Rhinoscleroma"
+  },
+  {
+    id: 103,
+    image: "images/IMG_7049.jpeg",
+    question: "A 62-year-old debilitated man with poor nasal hygiene presents with foul-smelling nasal discharge, crusting, bleeding, and a crawling sensation inside the nose. On examination, multiple motile larvae are seen within the nasal cavity. The ENT surgeon explains that the causative fly can release hundreds of eggs within a day, and larvae crawl out by the 3rd–4th day.\nWhich of the following is the most appropriate treatment step?",
+    options: [
+      "Vidian neurectomy through pterygopalatine fossa",
+      "Cleaning of nose with chloroform water and removal of maggots",
+      "FESS followed by amphotericin B",
+      "Modified Young’s operation with 3 mm opening"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Cleaning of nose with chloroform water and removal of maggots"
+  },
+  {
+    id: 104,
+    image: "",
+    question: "A 21-year-old man presents with chronic unilateral nasal obstruction and recurrent mouth breathing. He gives a history of nasal deformity since childhood. Examination shows deviation of the nasal septum without external nasal deformity. The consultant says that the corrective procedure should preserve mucoperichondrium as much as possible and remove only the deviated part, thereby reducing the risk of septal perforation.\nWhich of the following is the most appropriate statement?",
+    options: [
+      "DNS is the most common pathology of nose, and concha bullosa is the second most common",
+      "Rhinoplasty is the treatment of choice when only the nasal septum is abnormal",
+      "Septoplasty corrects septal abnormality by removing only the deviated part with lower risk of perforation",
+      "Submucous resection is preferred because it removes the entire septal cartilage routinely"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Septoplasty corrects septal abnormality by removing only the deviated part with lower risk of perforation"
+  },
+  {
+    id: 105,
+    image: "images/IMG_7050.jpeg",
+    question: "A 27-year-old man presents with a depressed nasal bridge after repeated nasal trauma. On examination, there is loss of dorsal nasal support with a characteristic saddle-shaped deformity. The surgeon plans a corrective procedure using autologous graft material.\nWhich of the following is the most appropriate management?",
+    options: [
+      "Septoplasty alone",
+      "Vidian neurectomy",
+      "Modified Young’s operation",
+      "Augmentation rhinoplasty using iliac crest graft"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Augmentation rhinoplasty using iliac crest graft"
+  },
+  {
+    id: 106,
+    image: "",
+    question: "A 35-year-old man with chronic nasal blockage and suspected chronic rhinosinusitis is planned for diagnostic nasal endoscopy. During teaching, the senior surgeon asks the resident to describe the correct order of the three-pass technique of Stammberger. The resident begins with examination of the inferior meatus.\nWhich is the correct sequence of passes?",
+    options: [
+      "Inferior meatus → superior/supreme meatus and anterior middle meatus → posterior part of middle meatus",
+      "Middle meatus posteriorly → inferior meatus → superior meatus",
+      "Superior meatus → inferior meatus → anterior part of middle meatus",
+      "Posterior choana → sphenoethmoidal recess → inferior meatus"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Inferior meatus → superior/supreme meatus and anterior middle meatus → posterior part of middle meatus"
+  },
+  {
+    id: 107,
+    image: "images/IMG_7051.jpeg",
+    question: "A patient with suspected posterior paranasal sinus pathology is advised an X-ray view in which the beam passes from below the chin toward the vertex. The radiology resident says this view is especially useful for evaluating the deeper posterior sinuses, and remembers the visibility sequence as SPM.\nWhich of the following correctly describes this view?",
+    options: [
+      "Occipitomental view; best for frontal sinus, anterior ethmoid, and maxillary sinus",
+      "Basal / submentovertex view; best for sphenoid sinus, posterior ethmoid sinus, and maxillary sinus",
+      "Lateral view; best for nasal bone fracture and adenoids only",
+      "Caldwell view; best for inferior meatus and nasolacrimal duct opening"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Basal / submentovertex view; best for sphenoid sinus, posterior ethmoid sinus, and maxillary sinus"
+  },
+  {
+    id: 108,
+    image: "",
+    question: "A 46-year-old man with long-standing unsafe chronic otitis media is planned for middle ear surgery. During drilling near the superior wall of the tympanic cavity, the surgeon warns the resident that excessive manipulation here may open into the cranial cavity. The same discussion includes that the floor of this cavity is related to the jugular bulb.\nWhich of the following anatomical relations is correctly matched?",
+    options: [
+      "Lateral wall of middle ear – Inner ear",
+      "Medial wall of middle ear – External auditory canal",
+      "Roof of middle ear – Middle cranial fossa",
+      "Floor of middle ear – Mastoid air cells"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Roof of middle ear – Middle cranial fossa"
+  },
+  {
+    id: 109,
+    image: "images/IMG_7052.jpeg",
+    question: "A 14-year-old boy presents with progressive unilateral nasal obstruction and recurrent episodes of profuse epistaxis. Examination shows a reddish mass filling the nasopharynx. CT scan shows anterior bowing of the posterior wall of maxillary sinus. The surgeon warns the resident not to attempt tissue sampling before definitive planning.\nWhich of the following is the most appropriate statement regarding this lesion?",
+    options: [
+      "It is a benign non-vascular polyp arising from maxillary antrum and biopsy is diagnostic",
+      "It is commonly seen in adult females and usually originates from the ethmoid sinus",
+      "Debulking surgery is preferred because complete removal causes high recurrence",
+      "It is a testosterone-dependent vascular tumor arising near the sphenopalatine foramen, and biopsy is contraindicated"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "It is a testosterone-dependent vascular tumor arising near the sphenopalatine foramen, and biopsy is contraindicated"
+  },
+  {
+    id: 110,
+    image: "",
+    question: "A 6-year-old child with persistent otitis media with effusion for more than 3 months is planned for grommet insertion. During the procedure, the surgeon chooses the quadrant where the tympanic membrane is thinnest and where the cone of light is normally seen.\nWhich of the following is the most appropriate site for the incision?",
+    options: [
+      "Anteroinferior quadrant of pars tensa",
+      "Posteroinferior quadrant of pars tensa",
+      "Pars flaccida near Shrapnell’s membrane",
+      "Posterosuperior quadrant near ossicles"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Anteroinferior quadrant of pars tensa"
+  },
+  {
+    id: 111,
+    image: "",
+    question: "A patient undergoing middle ear surgery develops sharp pain when the inner surface of the tympanic membrane is manipulated. The surgeon explains that this surface is supplied by the same cranial nerve whose branch also contributes to the tympanic plexus.\nWhich nerve is most likely responsible?",
+    options: [
+      "Auriculotemporal nerve",
+      "Tympanic branch of glossopharyngeal nerve",
+      "Auricular branch of vagus nerve",
+      "Chorda tympani nerve"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Tympanic branch of glossopharyngeal nerve"
+  },
+  {
+    id: 112,
+    image: "images/IMG_7053.jpeg",
+    question: "During tympanoplasty for chronic otitis media, the surgeon finds erosion near the long process of incus. A small terminal knob-like process that normally articulates with the head of stapes is identified as the key structure needed to reconstruct the ossicular chain.\nWhich ossicular part is being referred to?",
+    options: [
+      "Short process of incus",
+      "Anterior process of malleus",
+      "Lenticular process of incus",
+      "Footplate of stapes"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Lenticular process of incus"
+  },
+  {
+    id: 113,
+    image: "",
+    question: "During surgery for chronic otitis media, a resident identifies a nerve plexus lying over the promontory of the middle ear. The consultant explains that this plexus provides sensory innervation to the middle ear mucosa and is mainly contributed by cranial nerves IX and X, with sympathetic fibres from the carotid plexus.\nWhich of the following statements is most accurate?",
+    options: [
+      "Motor supply of middle ear is mainly by cranial nerves IX and X",
+      "Sensory supply of middle ear is mainly by cranial nerves V and VII",
+      "Tympanic plexus lies on the lateral wall of middle ear near tympanic membrane",
+      "Tympanic plexus lies over the promontory and receives Jacobson’s and Arnold’s fibres"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Tympanic plexus lies over the promontory and receives Jacobson’s and Arnold’s fibres"
+  },
+  {
+    id: 114,
+    image: "",
+    question: "A 19-year-old patient undergoes surgery for unsafe chronic otitis media. During follow-up, recurrent disease is suspected despite apparently adequate clearance of the middle ear. The surgeon explains that one narrow hidden recess of the tympanic cavity is notoriously difficult to visualize and clear, making it a common site for residual or recurrent cholesteatoma.\nWhich site is most likely responsible?",
+    options: [
+      "Sinus tympani",
+      "Hypotympanum",
+      "Protympanum",
+      "Epitympanum"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Sinus tympani"
+  },
+  {
+    id: 115,
+    image: "",
+    question: "A 32-year-old woman presents with progressive conductive hearing loss with normal tympanic membrane. Pure tone audiometry shows conductive loss, and stapedial reflex is absent. The surgeon plans a middle ear procedure through the external auditory canal rather than a postaural incision.\nWhich of the following is the most appropriate approach for this surgery?",
+    options: [
+      "Wilde’s postaural approach",
+      "Rosen endomeatal approach",
+      "Transpalatal approach",
+      "Lateral rhinotomy approach"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Rosen endomeatal approach"
+  },
+  {
+    id: 116,
+    image: "images/IMG_7055.jpeg",
+    question: "A 16-year-old boy with recurrent foul-smelling ear discharge is evaluated for unsafe chronic otitis media. Otoscopy shows an attic retraction pocket with collection of white keratin debris. The surgeon explains that this lesion is not a true tumor and develops due to squamous metaplasia/keratinizing squamous epithelium within the middle ear cleft. The earliest site where this process commonly begins is asked.\nWhich of the following is the most likely earliest site for development of this lesion?",
+    options: [
+      "Sinus tympani",
+      "Prussak’s space",
+      "Hypotympanum",
+      "Protympanum"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Prussak’s space"
+  },
+  {
+    id: 117,
+    image: "",
+    question: "A 9-year-old child requires widening of the external auditory canal for better access to the middle ear. The surgeon chooses an endaural incision that begins at a small cartilaginous gap between the helix and tragus. The assistant is asked to identify the incision based on the landmark used.\nWhich incision is being described?",
+    options: [
+      "Wilde’s postaural incision",
+      "Rosen endomeatal incision",
+      "Lempert endaural incision",
+      "William Wilde’s mastoid incision"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Lempert endaural incision"
+  },
+  {
+    id: 118,
+    image: "",
+    question: "A 52-year-old man presents with painless unilateral neck swelling, recurrent epistaxis, and unilateral blocked ear sensation. Otoscopy shows features of serous otitis media due to Eustachian tube obstruction. He later develops ipsilateral facial pain and palatal weakness. EBV association is suspected.\nWhich site is most commonly involved by the primary lesion?",
+    options: [
+      "Pyriform fossa",
+      "Posterior commissure",
+      "Fossa of Rosenmuller",
+      "Vallecula"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Fossa of Rosenmuller"
+  },
+  {
+    id: 119,
+    image: "",
+    question: "During otoscopic examination, a patient suddenly develops cough when the examiner touches the conchal region of the auricle. The consultant explains that this reflex occurs because this auricular area is supplied by a cranial nerve branch that carries vagal sensory fibres.\nWhich nerve is most likely responsible?",
+    options: [
+      "Auricular branch of vagus nerve",
+      "Greater auricular nerve",
+      "Lesser occipital nerve",
+      "Auriculotemporal nerve"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Auricular branch of vagus nerve"
+  },
+  {
+    id: 120,
+    image: "images/IMG_7056.jpeg",
+    question: "A 4-year-old child is brought with sudden ear pain after inserting a small round object into the ear. Otoscopy shows the object impacted at the narrowest part of the external auditory canal, close to the tympanic membrane. X-ray shows a double-ring appearance. The ENT surgeon immediately shifts the child for urgent removal, warning that delay may cause surrounding tissue necrosis and facial nerve palsy.\nWhich is the most dangerous foreign body in the external auditory canal?",
+    options: [
+      "Pea seed",
+      "Button battery",
+      "Cotton bud fragment",
+      "Live insect"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Button battery"
+  },
+  {
+    id: 121,
+    image: "",
+    question: "A patient undergoing temporal bone dissection is shown a cut section of the cochlea. The examiner points to the apical region and asks for the structure through which two perilymph-filled chambers communicate with each other. The same structure is absent at the basal turn and is located at the apex of the cochlear spiral.\nWhich structure is being referred to?",
+    options: [
+      "Reissner’s membrane",
+      "Modiolus",
+      "Helicotrema",
+      "Basilar membrane"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Helicotrema"
+  },
+  {
+    id: 122,
+    image: "",
+    question: "During viva on vestibular physiology, an examiner asks a student to compare the gelatinous structures overlying sensory hair cells in different parts of the inner ear. The student correctly says that in the cochlea it is related to the tectorial membrane and in the macula it is related to the otolithic membrane. The examiner then asks for the corresponding structure in the semicircular canal.\nWhich of the following is the correct structure?",
+    options: [
+      "Stria vascularis",
+      "Basilar membrane",
+      "Otolithic membrane",
+      "Cupula"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Cupula"
+  },
+  {
+    id: 123,
+    image: "images/IMG_7058.jpeg",
+    question: "A child with congenital sensorineural hearing loss undergoes HRCT temporal bone. The report describes an incompletely developed cochlea with only 1.5 turns, instead of the normal 2¾ turns. Vestibular structures are present, and the cochlea is not completely absent.\nWhich congenital inner ear abnormality is most likely present?",
+    options: [
+      "Mondini dysplasia",
+      "Michel aplasia",
+      "Scheibe anomaly",
+      "Alexander dysplasia"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Mondini dysplasia"
+  },
+  {
+    id: 124,
+    image: "",
+    question: "A 36-year-old woman presents with recurrent episodes of severe spinning vertigo lasting for hours, associated with fluctuating hearing loss, tinnitus, and a feeling of fullness in the ear. The consultant explains that the core pathology is increased pressure within the endolymphatic system due to defective fluid handling by the endolymphatic sac.\nWhich of the following best explains the underlying pathology?",
+    options: [
+      "Leakage of perilymph through oval window",
+      "Endolymphatic hydrops",
+      "Fixation of stapes footplate",
+      "Otoconia displacement into posterior semicircular canal"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Endolymphatic hydrops"
+  },
+  {
+    id: 125,
+    image: "images/IMG_7060.jpeg",
+    question: "A 42-year-old man presents with slowly progressive unilateral hearing difficulty, tinnitus, and imbalance. Pure tone audiometry shows sensorineural hearing loss, but speech discrimination is disproportionately poor. MRI shows a cerebellopontine angle lesion arising from the vestibular part of the eighth cranial nerve.\nWhich type of deafness is most classically represented in this patient?",
+    options: [
+      "Conductive deafness",
+      "Sensory cochlear deafness",
+      "Neural retrocochlear deafness",
+      "Functional deafness"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Neural retrocochlear deafness"
+  },
+  {
+    id: 126,
+    image: "images/IMG_7061.jpeg",
+    question: "A 28-year-old woman presents with gradually progressive hearing loss. Otoscopy is normal. Pure tone audiometry shows an air-bone gap, but the examiner also notices a characteristic dip in bone conduction threshold at 2000 Hz. The consultant says this dip is not true cochlear damage and may disappear after successful stapes surgery.\nWhich of the following best explains this finding?",
+    options: [
+      "True sensory loss due to outer hair cell damage",
+      "Neural deafness due to vestibulocochlear nerve compression",
+      "Conductive loss with maximum air conduction dip at 4000 Hz",
+      "Bone conduction notch at 2000 Hz due to altered ossicular resonance in otosclerosis"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Bone conduction notch at 2000 Hz due to altered ossicular resonance in otosclerosis"
+  },
+  {
+    id: 127,
+    image: "images/IMG_7102.jpeg",
+    question: "A 46-year-old factory worker presents with gradually progressive difficulty in hearing after many years of exposure to loud industrial machinery. Pure tone audiometry shows a characteristic dip at 4000 Hz. The examiner explains that this dip is due to early damage to a specific group of cochlear hair cells.\nWhich of the following is the most appropriate explanation?",
+    options: [
+      "Acoustic notch due to outer hair cell damage in noise-induced hearing loss",
+      "Carhart notch due to stapes fixation in otosclerosis",
+      "Retrocochlear deafness due to vestibular nerve compression",
+      "Endolymphatic hydrops due to defective endolymph absorption"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Acoustic notch due to outer hair cell damage in noise-induced hearing loss"
+  },
+  {
+    id: 128,
+    image: "",
+    question: "A newborn fails otoacoustic emission screening and later shows delayed response to sound. There is no history of postnatal meningitis or ototoxic drug exposure. Audiometry performed during evaluation shows a characteristic U-shaped curve. The examiner says this pattern strongly points toward congenital deafness and asks for the most common infective cause associated with this condition.\nWhich of the following is the most likely cause?",
+    options: [
+      "Congenital rubella infection",
+      "Congenital CMV infection",
+      "Mumps infection",
+      "Herpes simplex infection"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Congenital CMV infection"
+  },
+  {
+    id: 129,
+    image: "",
+    question: "A 38-year-old man has complete sensorineural hearing loss in the right ear after vestibular schwannoma surgery. During tuning fork testing, the fork is placed on the right mastoid and the patient says he can hear it, but when it is brought near the right external auditory canal, he cannot hear it. The examiner warns that the result is misleading because the sound is actually being perceived by the opposite cochlea through skull vibration.\nWhat is the best interpretation of this finding?",
+    options: [
+      "True negative Rinne’s test due to conductive deafness",
+      "True positive Rinne’s test due to normal hearing",
+      "False negative Rinne’s test due to severe unilateral sensorineural deafness",
+      "Positive Rinne’s test due to retrocochlear recruitment"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "False negative Rinne’s test due to severe unilateral sensorineural deafness"
+  },
+  {
+    id: 130,
+    image: "",
+    question: "A 30-year-old patient is evaluated using a 512 Hz tuning fork. The vibrating fork is placed on the midline forehead, and the patient reports that the sound is heard louder in the right ear. No masking is required for this test. The examiner asks the intern to interpret the possible lesion based only on this finding.\nWhich of the following is the most appropriate interpretation?",
+    options: [
+      "Right sensorineural deafness or left conductive deafness",
+      "Bilaterally normal hearing only",
+      "Left conductive deafness or bilateral sensorineural deafness",
+      "Right conductive deafness or left sensorineural deafness"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Right conductive deafness or left sensorineural deafness"
+  },
+  {
+    id: 131,
+    image: "",
+    question: "A patient with suspected neuromuscular weakness undergoes impedance audiometry. The tympanogram does not show a single smooth peak. Instead, it shows two distinct compliance peaks separated by a central dip, giving a characteristic double-peaked pattern. The examiner asks which condition is classically associated with this tracing.\nWhich of the following is the most appropriate association?",
+    options: [
+      "Myopathy",
+      "Otosclerosis",
+      "Secretory otitis media",
+      "Ossicular fixation"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Myopathy"
+  },
+  {
+    id: 132,
+    image: "images/IMG_7064.jpeg",
+    question: "A 2-month-old infant is evaluated for suspected hearing impairment using a non-invasive objective auditory test. Three electrodes are placed, and the response is recorded as 7 waves generated from sequential auditory pathway stations. The examiner asks the intern to identify the wave that is usually the largest and most clinically reliable in this test.\nWhich wave is being referred to?",
+    options: [
+      "Wave I",
+      "Wave V",
+      "Wave III",
+      "Wave VII"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Wave V"
+  },
+  {
+    id: 133,
+    image: "images/IMG_7103.jpeg",
+    question: "A young adult presents with gradually progressive hearing difficulty. Audiometry suggests conductive hearing loss, and stapes fixation is suspected. On general examination, the patient has blue sclera and gives a history of repeated fractures after trivial trauma.\nWhich syndrome best explains this association?",
+    options: [
+      "Alport syndrome",
+      "Pendred syndrome",
+      "Van der Hoeve syndrome",
+      "Usher syndrome"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Van der Hoeve syndrome"
+  },
+  {
+    id: 134,
+    image: "",
+    question: "A 32-year-old woman presents with slowly progressive conductive hearing loss. Otoscopy is normal, pure tone audiometry shows an air-bone gap, and a Carhart notch is seen at 2000 Hz. The surgeon plans a procedure in which only a small opening is made in the stapes footplate and a prosthesis is inserted. The patient asks whether complete stapes removal is required.\nWhich is the treatment of choice in this condition?",
+    options: [
+      "Sodium fluoride therapy alone",
+      "Complete stapedectomy",
+      "Myringotomy with grommet insertion",
+      "Stapedotomy with prosthesis placement"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Stapedotomy with prosthesis placement"
+  },
+  {
+    id: 135,
+    image: "",
+    question: "A 34-year-old woman complains that when a single musical tone is played, she perceives it as two different tones. She also has episodic vertigo, tinnitus, and fluctuating sensorineural hearing loss. The examiner explains that this occurs due to a mismatch in the refractory behaviour of cochlear hair cells.\nWhat is this abnormal sound perception called?",
+    options: [
+      "Diplacusis",
+      "Recruitment",
+      "Hyperacusis",
+      "Presbyacusis"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Diplacusis"
+  },
+  {
+    id: 136,
+    image: "",
+    question: "A 39-year-old patient with recurrent episodic vertigo, tinnitus, aural fullness, and fluctuating sensorineural hearing loss is diagnosed with Meniere’s disease. Dietary modification and diuretics are tried, but attacks continue. The consultant plans a non-destructive therapy that delivers low-pressure pulses to the middle ear through a ventilation tube before considering endolymphatic sac surgery or intratympanic gentamicin.\nWhich of the following is the device used for this therapy?",
+    options: [
+      "Robinson prosthesis",
+      "Meniett device",
+      "Silverstein MicroWick",
+      "Grommet alone"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Meniett device"
+  },
+  {
+    id: 137,
+    image: "",
+    question: "A 45-year-old patient presents with unilateral sensorineural hearing loss, tinnitus, imbalance, and poor speech discrimination. On examination, there is early loss of corneal reflex. The radiologist describes an enhancing mass extending from the internal auditory canal into the cerebellopontine angle, producing an “ice-cream cone” appearance.\nWhich investigation is the radiological investigation of choice for this condition?",
+    options: [
+      "HRCT temporal bone",
+      "Plain X-ray skull",
+      "Gadolinium-enhanced MRI",
+      "Pure tone audiometry"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Gadolinium-enhanced MRI"
+  },
+  {
+    id: 138,
+    image: "images/IMG_7068.jpeg",
+    question: "A 22-year-old wrestler presents with painful swelling of the pinna after repeated blunt trauma during training. The swelling is fluctuant and lies over the cartilaginous part of the auricle. The surgeon warns that if it is not treated early, it can heal with permanent irregular deformity of the pinna known as cauliflower ear.\nThe collection of blood in this condition is present between which of the following layers?",
+    options: [
+      "Skin and subcutaneous tissue",
+      "Periosteum and temporal bone",
+      "Tympanic membrane and malleus handle",
+      "Auricular cartilage and perichondrium"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Auricular cartilage and perichondrium"
+  },
+  {
+    id: 139,
+    image: "images/IMG_7071.jpeg",
+    question: "A 24-year-old trekker returns after prolonged exposure to freezing temperature. He develops painful swelling of the pinna with erythema, edema, and bullae formation. A few areas later become dusky and necrotic. There is no history of blunt trauma or auricular hematoma.\nWhat is the most appropriate initial management?",
+    options: [
+      "Rewarming with analgesics and local care; antibiotics/debridement only when infection or necrosis is present",
+      "Immediate cosmetic otoplasty with pressure dressing",
+      "Incision and drainage between cartilage and perichondrium",
+      "Stapedotomy with prosthesis placement"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Rewarming with analgesics and local care; antibiotics/debridement only when infection or necrosis is present"
+  },
+  {
+    id: 140,
+    image: "images/IMG_7072.jpeg",
+    question: "A 42-year-old woman presents with recurrent painful redness and swelling of both pinnae. The ear lobule is spared. She also complains of hoarseness and intermittent nasal bridge pain. On evaluation, involvement of septal, laryngeal, tracheal, and costal cartilages is suspected.\nWhich of the following is the treatment of choice during active disease?",
+    options: [
+      "Incision and drainage with pressure bandage",
+      "Systemic corticosteroids",
+      "Topical silver nitrate application",
+      "Stapedotomy with prosthesis placement"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Systemic corticosteroids"
+  },
+  {
+    id: 141,
+    image: "images/IMG_7073.jpeg",
+    question: "A 19-year-old swimmer presents with severe localized ear pain, worsened by touching the tragus. Otoscopy shows a small tender pustular swelling in the cartilaginous part of the external auditory canal, while the tympanic membrane is normal. The lesion is limited to the canal and does not involve the middle ear.\nWhich of the following best explains this condition?",
+    options: [
+      "Diffuse fungal infection of the external auditory canal",
+      "Viral vesicular infection involving facial nerve ganglion",
+      "Staphylococcal infection of a hair follicle in the external auditory canal",
+      "Autoimmune inflammation of auricular cartilage with lobule sparing"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Staphylococcal infection of a hair follicle in the external auditory canal"
+  },
+  {
+    id: 142,
+    image: "images/IMG_7074.jpeg",
+    question: "An elderly diabetic patient presents with persistent foul-smelling ear discharge, severe otalgia, granulation tissue in the external auditory canal, and new-onset facial nerve palsy. Skull base osteomyelitis is suspected. A radionuclide scan is used to establish the diagnosis. After treatment is started, the consultant asks for the best investigation to assess response and prognosis.\nWhich of the following is most useful for monitoring prognosis in this condition?",
+    options: [
+      "Pure tone audiometry",
+      "High-resolution CT temporal bone",
+      "Technetium-99 bone scan",
+      "Gallium scan"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Gallium scan"
+  },
+  {
+    id: 143,
+    image: "images/IMG_7077.jpeg",
+    question: "A 14-year-old boy presents with severe ear pain and conductive hearing difficulty. Otoscopy shows a pearly white mass deeply impacted in the external auditory canal. The lesion is bilateral, and after removal it is found to be made of desquamated epithelial debris. He is started on keratolytic therapy, but persistent obstruction later requires widening of the canal.\nWhat is the most likely diagnosis?",
+    options: [
+      "Keratosis obturans",
+      "External auditory canal cholesteatoma",
+      "Malignant otitis externa",
+      "Furuncle of external auditory canal"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Keratosis obturans"
+  },
+  {
+    id: 144,
+    image: "images/IMG_7078.jpeg",
+    question: "A 17-year-old boy who regularly practices surfing and swimming presents with recurrent ear blockage and episodes of diffuse otitis externa. Otoscopic examination shows bilateral multiple bony swellings arising from the external auditory canal. There is no single pedunculated unilateral mass.\nWhat is the most likely diagnosis?",
+    options: [
+      "Osteoma of external auditory canal",
+      "Exostosis of external auditory canal",
+      "Keratosis obturans",
+      "Malignant otitis externa"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Exostosis of external auditory canal"
+  },
+  {
+    id: 145,
+    image: "images/IMG_7079.jpeg",
+    question: "A 7-year-old school-going child is brought with gradually progressive hearing difficulty noticed by the teacher. There is no fever, no ear pain, and no congestion. Otoscopy shows a dull bluish tympanic membrane with reduced mobility. Thick mucoid fluid is suspected behind the tympanic membrane. The condition has persisted for more than 3 months despite medical treatment.\nWhat is the treatment of choice?",
+    options: [
+      "Immediate mastoidectomy",
+      "Stapedotomy with prosthesis placement",
+      "Myringotomy with grommet insertion",
+      "Incision and drainage of external auditory canal"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Myringotomy with grommet insertion"
+  },
+  {
+    id: 146,
+    image: "images/IMG_7081.jpeg",
+    question: "A 6-year-old school-going child presents with acute severe ear pain, high-grade fever, and irritability. Otoscopy shows a congested, red, bulging tympanic membrane with loss of normal landmarks. The pediatrician explains that if pus is under pressure or complications are suspected, a surgical drainage procedure may be needed using a large circumferential incision in a safe quadrant.\nWhich of the following is the most appropriate management statement?",
+    options: [
+      "Small radial incision in the anteroinferior quadrant with grommet insertion",
+      "Rewarming with analgesics and topical silver nitrate",
+      "Keratolytic agents followed by canaloplasty if resistant",
+      "Antibiotics with myringotomy using a large posteroinferior circumferential incision"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Antibiotics with myringotomy using a large posteroinferior circumferential incision"
+  },
+  {
+    id: 147,
+    image: "images/IMG_7082.jpeg",
+    question: "A 13-year-old child has recurrent ear discharge. Otoscopy shows a pars flaccida perforation with scanty, foul-smelling discharge, attic granulation tissue, and a small aural polyp. The clinician is concerned about cholesteatoma and ossicular erosion.\nWhich diagnosis best fits this presentation?",
+    options: [
+      "Unsafe atticoantral disease with pars flaccida involvement",
+      "Safe tubotympanic disease with central pars tensa perforation",
+      "Serous otitis media with bluish tympanic membrane",
+      "Acute suppurative otitis media with congested bulging tympanic membrane"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Unsafe atticoantral disease with pars flaccida involvement"
+  },
+  {
+    id: 148,
+    image: "",
+    question: "A 28-year-old patient with chronic middle ear disease undergoes surgery after hearing evaluation shows conductive hearing loss. Intraoperatively, the tympanic membrane is damaged and the malleus handle is not usable, but the incus is intact and mobile. The surgeon decides to place the graft in contact with the incus to restore sound conduction.\nWhich type of tympanoplasty is being performed?",
+    options: [
+      "Type I tympanoplasty – myringoplasty",
+      "Type II tympanoplasty – myringo-incudopexy",
+      "Type III tympanoplasty – myringostapediopexy",
+      "Type IV tympanoplasty – minor cavum effect"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Type II tympanoplasty – myringo-incudopexy"
+  },
+  {
+    id: 149,
+    image: "",
+    question: "A 16-year-old boy with long-standing ear discharge has a tympanic membrane perforation. During surgery, a chalky white keratinizing mass is found in the middle ear. The surgeon explains that this lesion developed because squamous epithelium from the external auditory canal migrated through the perforation into the middle ear.\nWhich hypothesis best explains this mechanism?",
+    options: [
+      "Wittmaack theory",
+      "Ruedi theory",
+      "Habermann’s hypothesis",
+      "Sade theory"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Habermann’s hypothesis"
+  },
+  {
+    id: 150,
+    image: "",
+    question: "A 19-year-old patient with long-standing foul-smelling ear discharge and attic cholesteatoma is planned for surgery. The surgeon decides to perform a canal wall down mastoidectomy but wants to preserve healthy middle ear structures and avoid unnecessary destruction of normal tissue. The Eustachian tube is not blocked, and the indication is chronic suppurative otitis media, not malignancy.\nWhich operation is most appropriate?",
+    options: [
+      "Cortical mastoidectomy",
+      "Radical mastoidectomy",
+      "Combined approach tympanoplasty",
+      "Modified radical mastoidectomy"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Modified radical mastoidectomy"
+  },
+  {
+    id: 151,
+    image: "",
+    question: "A 12-year-old child with long-standing intermittent ear discharge presents with fever, worsening otalgia, and tenderness behind the ear. On examination, the pinna appears pushed forward and the postauricular region is swollen. Otoscopy shows narrowing due to sagging of the posterosuperior wall of the external auditory canal.\nWhich of the following is the hallmark finding of this complication?",
+    options: [
+      "Sagging of posterosuperior wall of external auditory canal",
+      "Abscess tracking along sternocleidomastoid muscle",
+      "Abscess tracking along digastric muscle",
+      "Abscess pointing into the external auditory canal"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Sagging of posterosuperior wall of external auditory canal"
+  },
+  {
+    id: 152,
+    image: "",
+    question: "A 15-year-old boy with long-standing foul-smelling ear discharge develops high swinging fever with chills and rigors. Fever spikes occur repeatedly, giving a picket fence pattern. Examination shows edema over the mastoid emissary vein region, and contrast imaging later demonstrates an empty delta sign.\nWhich of the following findings is most characteristic of this complication?",
+    options: [
+      "Sagging of posterosuperior wall of external auditory canal",
+      "Pickett fence fever due to septic thrombophlebitis of lateral sinus",
+      "Pearly white mass of desquamated epithelial cells in deep meatus",
+      "Bilateral multiple bony swellings in external auditory canal"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Pickett fence fever due to septic thrombophlebitis of lateral sinus"
+  },
+{
+  id: 153,
+  image: "",
+  question: "A 10-year-old child with congenital external auditory canal atresia has persistent conductive hearing difficulty. Conventional ear mould fitting is difficult because the external canal is absent. The ENT surgeon plans a device in which a titanium implant is fixed in the mastoid bone, connected through an abutment to an external sound processor.\nWhat is the most common complication of this device?",
+  options: [
+    "Facial nerve palsy",
+    "Recurrent cholesteatoma",
+    "Skin / soft tissue reaction around the abutment",
+    "Perilymph fistula"
+  ],
+  answerIndex: 2,
+  correctAnswerText: "Skin / soft tissue reaction around the abutment"
+  },
+  {
+    id: 154,
+    image: "",
+    question: "A 3-year-old child with bilateral severe sensorineural hearing loss is planned for a cochlear implant after inadequate benefit from high-power hearing aids. The surgeon explains that the device has an external processor, an internal receiver-stimulator, and an electrode array that bypasses damaged cochlear hair cells to directly stimulate the auditory nerve.\nDuring implantation, the electrode array is ideally placed through which route and into which chamber?",
+    options: [
+      "Oval window into scala vestibuli",
+      "Helicotrema into scala media",
+      "Promontory into vestibule",
+      "Round window into scala tympani"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Round window into scala tympani"
+  },
+  {
+    id: 155,
+    image: "",
+    question: "A 32-year-old patient presents with sudden-onset lower motor neuron facial palsy. The ENT surgeon explains that edema within the narrowest intratemporal part of the facial canal commonly produces compression of the facial nerve in this condition.\nWhich segment of the facial nerve is most likely involved?",
+    options: [
+      "Labyrinthine segment",
+      "Tympanic segment",
+      "Mastoid segment",
+      "Extratemporal segment"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Labyrinthine segment"
+  },
+  {
+    id: 156,
+    image: "",
+    question: "During vestibular schwannoma surgery, the surgeon reaches the fundus of the internal acoustic canal. A small vertical bony partition is identified in the superior compartment. It separates the facial nerve anteriorly from the superior vestibular nerve posteriorly.\nWhich structure is being described?",
+    options: [
+      "Transverse crest",
+      "Bill’s bar",
+      "Promontory",
+      "Crista ampullaris"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Bill’s bar"
+  },
+  {
+    id: 157,
+    image: "",
+    question: "A 29-year-old patient presents with sudden-onset unilateral lower motor neuron facial palsy. There is no history of trauma or ear surgery. He is started on steroids, acyclovir, vitamin B complex, and physiotherapy. After 3 weeks, there is no clinical improvement. Electrophysiological testing of the facial nerve shows significant degeneration.\nWhat is the next appropriate step?",
+    options: [
+      "Immediate facial nerve decompression within 24 hours",
+      "Continue only conservative therapy for 6 more months",
+      "Surgical decompression of facial nerve after 3 weeks",
+      "Cochlear implant with round window electrode insertion"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Surgical decompression of facial nerve after 3 weeks"
+  },
+  {
+    id: 158,
+    image: "",
+    question: "A 38-year-old patient develops vertigo and nystagmus whenever intermittent pressure is applied to the external auditory canal using a pneumatic speculum. However, imaging and operative evaluation show no labyrinthine fistula. The patient is later found to have inner ear pathology with abnormal pressure sensitivity.\nWhat is this finding called?",
+    options: [
+      "Greisinger sign",
+      "Tobey-Ayer sign",
+      "Empty delta sign",
+      "Hennebert sign"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Hennebert sign"
+  },
+  {
+    id: 159,
+    image: "",
+    question: "A 24-year-old patient with episodic vertigo is advised a vestibular function test. During the test, acoustic stimulation is given and the response is recorded from the ipsilateral sternocleidomastoid muscle. The examiner explains that this test mainly assesses the saccule and its pathway through the inferior vestibular nerve.\nWhich of the following is the correct pairing?",
+    options: [
+      "cVEMP – ipsilateral SCM – inferior vestibular nerve – inhibitory response",
+      "cVEMP – extraocular muscle – superior vestibular nerve – excitatory response",
+      "oVEMP – ipsilateral SCM – cochlear nerve – inhibitory response",
+      "VEMP – investigation of choice for cochlear hair cell function"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "cVEMP – ipsilateral SCM – inferior vestibular nerve – inhibitory response"
+  },
+  {
+    id: 160,
+    image: "",
+    question: "A 34-year-old patient presents with recurrent vertigo triggered by loud sounds and pressure changes. He complains that noisy surroundings make him extremely uncomfortable. Pure tone audiometry shows an apparent conductive hearing loss, but otoscopy and middle ear evaluation are normal. HRCT temporal bone shows a bony defect over the superior semicircular canal.\nWhat is the most likely diagnosis?",
+    options: [
+      "Vestibular schwannoma",
+      "Superior semicircular canal dehiscence syndrome",
+      "Meniere’s disease",
+      "Labyrinthitis ossificans"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Superior semicircular canal dehiscence syndrome"
+  },
+  {
+    id: 161,
+    image: "",
+    question: "A 46-year-old woman complains of sudden brief episodes of spinning sensation whenever she turns in bed or looks upward. Each episode lasts only for a few seconds and settles spontaneously. There is no hearing loss, no tinnitus, and no neurological deficit. The ENT resident explains that displaced calcium carbonate particles are irritating the posterior semicircular canal.\nWhich of the following is the investigation of choice for confirming this condition?",
+    options: [
+      "Caloric test",
+      "VEMP",
+      "Hallpike maneuver",
+      "Gadolinium-enhanced MRI"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Hallpike maneuver"
+  },
+  {
+    id: 162,
+    image: "",
+    question: "A 9-year-old child develops sudden severe vertigo with nausea and imbalance for the last 2 days. The mother gives a history of upper respiratory tract infection one week earlier. There is no hearing loss, no tinnitus, no ear discharge, and no focal neurological deficit. Symptoms gradually improve with supportive treatment.\nWhat is the most likely diagnosis?",
+    options: [
+      "Meniere’s disease",
+      "Labyrinthitis",
+      "Benign paroxysmal positional vertigo",
+      "Vestibular neuronitis"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Vestibular neuronitis"
+  },
+  {
+    id: 163,
+    image: "",
+    question: "A 42-year-old woman presents with pulsatile tinnitus and progressive conductive hearing loss. Otoscopy shows a reddish-blue pulsatile mass behind the tympanic membrane. When gentle pressure is applied over the tympanic membrane, the mass temporarily blanches.\nWhich sign is being demonstrated?",
+    options: [
+      "Brown’s sign",
+      "Aquino sign",
+      "Phelps sign",
+      "Rising sun sign"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Brown’s sign"
+  },
+  {
+    id: 164,
+    image: "",
+    question: "A 28-year-old man is brought after road traffic trauma with impact over the occipital region. He develops severe facial nerve palsy, intense vertigo, and hearing assessment shows sensorineural hearing loss. Otoscopy shows an intact tympanic membrane, and there is no obvious middle ear bleeding.\nWhich type of temporal bone fracture best explains this presentation?",
+    options: [
+      "Longitudinal temporal bone fracture",
+      "Transverse temporal bone fracture",
+      "Zygomatic arch fracture",
+      "Nasal bone fracture"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Transverse temporal bone fracture"
+  },
+  {
+    id: 165,
+    image: "",
+    question: "During microlaryngeal examination, a surgeon identifies a small paired elastic cartilage lying within the aryepiglottic fold, producing a subtle elevation anterior to the corniculate cartilage. The professor asks the resident to identify the cartilage also known as the cartilage of Wrisberg.\nWhich cartilage is being described?",
+    options: [
+      "Thyroid cartilage",
+      "Arytenoid cartilage",
+      "Cuneiform cartilage",
+      "Corniculate cartilage"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Cuneiform cartilage"
+  },
+  {
+    id: 166,
+    image: "",
+    question: "A 58-year-old chronic smoker is evaluated for a supraglottic growth involving the lower epiglottis. Contrast imaging shows tumor extension into a fat-filled space located below the hyoepiglottic ligament, bounded anteriorly by the hyoid bone, thyrohyoid membrane, and thyroid cartilage, and posteriorly by the infrahyoid epiglottis.\nWhich space is being involved?",
+    options: [
+      "Vallecula",
+      "Pyriform fossa",
+      "Paraglottic space",
+      "Preepiglottic space"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Preepiglottic space"
+  },
+  {
+    id: 167,
+    image: "",
+    question: "A 45-year-old teacher comes to ENT OPD with chronic hoarseness. The surgeon decides to examine the larynx using a warmed laryngeal mirror while the patient is sitting. The tongue is held with the non-dominant hand, and the mirror is held with the dominant hand. No general anesthesia is required.\nWhich of the following statements is most appropriate for this procedure?",
+    options: [
+      "It is non-invasive and best visualizes the supraglottic segment",
+      "It is done in supine position under general anesthesia",
+      "It gives the best view of the whole larynx and allows endotracheal intubation",
+      "The laryngoscope is held in the left hand and instruments are held in the right hand"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "It is non-invasive and best visualizes the supraglottic segment"
+  },
+  {
+    id: 168,
+    image: "",
+    question: "A 41-year-old singer presents with chronic throat clearing, foreign body sensation in throat, intermittent hoarseness, and cough. Laryngoscopy shows posterior commissure hypertrophy, subglottic edema, and ventricular obliteration. She has minimal heartburn. The consultant wants to confirm reflux reaching the hypopharynx behind the laryngeal inlet.\nWhich investigation is the gold standard for diagnosis?",
+    options: [
+      "Barium swallow",
+      "Ambulatory 24-hour double-probe pH monitoring",
+      "Plain X-ray neck lateral view",
+      "Direct laryngoscopy under general anesthesia"
+    ],
+    answerIndex: 1,
+    correctAnswerText: "Ambulatory 24-hour double-probe pH monitoring"
+  },
+  {
+    id: 169,
+    image: "",
+    question: "A neonate is brought with abnormal weak cry and episodes of biphasic dyspnea since birth. Flexible laryngoscopy shows a thin membrane involving the glottic area, attached at the anterior commissure. The child has severe hoarseness with moderate dyspnea, but the voice is not completely lost.\nAccording to Cohen classification, which grade is most likely?",
+    options: [
+      "Grade I",
+      "Grade II",
+      "Grade III",
+      "Grade IV"
+    ],
+    answerIndex: 2,
+    correctAnswerText: "Grade III"
+  },
+  {
+    id: 170,
+    image: "",
+    question: "A 56-year-old chronic smoker presents with persistent hoarseness. Flexible laryngoscopy shows a small exophytic lesion limited to one true vocal cord with preserved cord mobility. Biopsy confirms squamous cell carcinoma. There is no cartilage invasion, no nodal disease, and the lesion is staged as early glottic carcinoma.\nWhat is the preferred first-line treatment?",
+    options: [
+      "Total laryngectomy followed by radiotherapy",
+      "Concurrent chemoradiation with cisplatin and 5-fluorouracil",
+      "Horizontal partial laryngectomy",
+      "Radiotherapy"
+    ],
+    answerIndex: 3,
+    correctAnswerText: "Radiotherapy"
+  },
+  {
+    id: 171,
+    image: "",
+    question: "A 39-year-old woman develops hoarseness after thyroid surgery. Laryngoscopy shows one vocal cord lying close to the midline in a median to paramedian position. The consultant explains that the cord does not fall into a fully lateral cadaveric position because the cricothyroid muscle is still functioning.\nWhich law explains this vocal cord position?",
+    options: [
+      "Wagner-Grossman law",
+      "Boyle’s law",
+      "Bell’s law",
+      "Weber’s law"
+    ],
+    answerIndex: 0,
+    correctAnswerText: "Wagner-Grossman law"
   },
   {
     id: 172,
-    image: "images/IMG_8159.jpeg",
-    question: "A 24-year-old female presents with a cluster of painful, fluid-filled vesicles on an erythematous base located on the vermilion border of her lower lip. She reports a distinct prodrome of localized burning and tingling one day prior to the eruption. Which of the following is the most common causative agent for this condition?",
+    image: "",
+    question: "A 48-year-old man with chronic cough, weight loss, and evening rise of temperature presents with gradually progressive weakness of voice. Laryngoscopy shows hyperemia and irregular ulceration in the posterior part of the glottis, giving a mouse-nibbled appearance. The clinician suspects laryngeal involvement by tuberculosis.\nWhich is the most common site of laryngeal involvement in this condition?",
     options: [
-      "Herpes simplex virus type 1",
-      "Varicella-zoster virus",
-      "Coxsackievirus A16",
-      "Human papillomavirus"
+      "Epiglottis",
+      "Posterior commissure",
+      "Anterior commissure",
+      "Subglottis"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Herpes simplex virus type 1"
+    answerIndex: 1,
+    correctAnswerText: "Posterior commissure"
   },
   {
     id: 173,
     image: "",
-    question: "A 45-year-old patient is undergoing an exploratory laparotomy under general anesthesia. To ensure adequate abdominal muscle relaxation, the anesthesiologist administers an intravenous dose of a curare-derivative drug. What is the primary molecular mechanism of action of this specific class of pharmacological agents?",
+    question: "A 62-year-old man underwent tracheostomy for prolonged pulmonary ventilation. On the 12th postoperative day, the tracheostomy tube accidentally comes out while shifting the patient. The patient is stable, maintaining oxygen saturation, and there is no respiratory distress. The junior resident panics and calls it an airway emergency.\nWhich of the following is the most appropriate statement?",
     options: [
-      "Prolonged depolarization of the motor endplate",
-      "Competitive antagonism of acetylcholine at nicotinic receptors",
-      "Inhibition of acetylcholine release from the presynaptic terminal",
-      "Irreversible inhibition of acetylcholinesterase in the synaptic cleft"
+      "Decannulation is always an emergency irrespective of duration",
+      "Tracheostomy tract forms within 24 hours after surgery",
+      "Decannulation after 10 days is usually not an emergency because a mature tract has formed",
+      "Tracheostomy should never be done for pulmonary toilet"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Competitive antagonism of acetylcholine at nicotinic receptors"
+    answerIndex: 2,
+    correctAnswerText: "Decannulation after 10 days is usually not an emergency because a mature tract has formed"
   },
   {
     id: 174,
     image: "",
-    question: "An anesthesiologist uses a peripheral nerve stimulator at the wrist to objectively assess the adequacy of neuromuscular blockade during a surgical procedure. Stimulation of the specific target nerve at this anatomical site is clinically evaluated by observing the contraction of which of the following muscles?",
+    question: "A 52-year-old chronic smoker presents with gradually progressive deep hoarse voice. Laryngoscopy shows bilateral diffuse, boggy, polypoidal swelling of the true vocal cords, giving a ballooned appearance. There is no ulceroproliferative growth or neck node. The surgeon plans definitive treatment for this benign vocal cord lesion.\nWhat is the most appropriate treatment?",
     options: [
-      "Orbicularis oculi",
-      "Flexor carpi ulnaris",
-      "Adductor pollicis",
-      "Flexor hallucis brevis"
+      "Antitubercular therapy",
+      "Radiotherapy",
+      "Oral antibiotics with voice rest only",
+      "Microlaryngeal stripping"
     ],
-    answerIndex: 2,
-    correctAnswerText: "Adductor pollicis"
+    answerIndex: 3,
+    correctAnswerText: "Microlaryngeal stripping"
   },
   {
     id: 175,
     image: "",
-    question: "During a preoperative airway assessment, a resident evaluates a patient using the Modified Mallampati classification. For an accurate grading, the patient is instructed to sit straight, open the mouth, protrude the tongue maximally, and strictly follow which specific instruction?",
+    question: "A 16-year-old boy is brought by his parents because his voice has remained unusually high-pitched even after puberty. He is emotionally dependent, anxious, and has a history of overprotective parenting. Laryngeal examination is normal, but during phonation the vocal cords remain excessively tense. No structural lesion is identified.\nWhich of the following is the most appropriate management?",
     options: [
-      "Phonate \"ahh\" continuously",
-      "Flex the cervical spine",
-      "Perform the Valsalva maneuver",
-      "Refrain from phonating"
+      "Psychotherapy with speech therapy",
+      "Microlaryngeal stripping",
+      "Radiotherapy",
+      "Antitubercular therapy"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Refrain from phonating"
+    answerIndex: 0,
+    correctAnswerText: "Psychotherapy with speech therapy"
   },
   {
     id: 176,
-    image: "images/IMG_8160.jpeg",
-    question: "A 50-year-old intubated patient in the intensive care unit suddenly develops high peak airway pressures. Assessment reveals that the main distal lumen of the endotracheal tube is completely obstructed by a thick, tenacious mucus plug. Despite this total occlusion of the primary tip, the patient is still receiving a small amount of ventilation. Which specific structural feature of the tube allows this life-saving alternate route for airflow?",
+    image: "",
+    question: "A 7-year-old child presents with gradually progressive hoarseness and intermittent breathing difficulty. Laryngoscopy shows multiple wart-like lesions arising near the anterior commissure. The lesions are recurrent, and the causative virus is suspected to be a low-risk HPV type.\nWhich of the following is the treatment of choice?",
     options: [
-      "Murphy's eye",
-      "Beveled tip",
-      "Inflatable cuff",
-      "Pilot balloon"
+      "Cidofovir injection",
+      "CO₂ laser excision",
+      "Radiotherapy",
+      "Antitubercular therapy"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Murphy's eye"
+    answerIndex: 1,
+    correctAnswerText: "CO₂ laser excision"
   },
   {
     id: 177,
     image: "",
-    question: "A 40-year-old patient is undergoing a prolonged surgical procedure under general anesthesia. To strictly prevent intraoperative awareness, the anesthesiologist wishes to utilize the most sensitive indicator available to monitor the depth of anesthesia. Which of the following modalities represents the most sensitive parameter for this purpose?",
+    question: "A 2-year-old child is brought with low-grade fever, inspiratory stridor, hoarseness, and a harsh barking cough. The child is not toxic-looking and has gradually worsening respiratory symptoms. X-ray neck shows tapering of the subglottic airway resembling a church steeple.\nWhich of the following is the most likely diagnosis and radiological sign?",
     options: [
-      "Bispectral index",
-      "Middle latency auditory evoked potential",
-      "End-tidal anesthetic gas concentration",
-      "Somatosensory evoked potential"
+      "Acute epiglottitis – Thumb sign on lateral view",
+      "Retropharyngeal abscess – Widened prevertebral shadow",
+      "Laryngotracheobronchitis – Steeple sign on AP view",
+      "Foreign body aspiration – Hyperinflation on expiratory film"
     ],
-    answerIndex: 1,
-    correctAnswerText: "Middle latency auditory evoked potential"
+    answerIndex: 2,
+    correctAnswerText: "Laryngotracheobronchitis – Steeple sign on AP view"
   },
   {
     id: 178,
     image: "",
-    question: "A 30-year-old male presents with sudden-onset central cyanosis after an accidental overdose of dapsone. Despite the administration of 100% high-flow oxygen, the resident notices a peculiar pattern on the bedside monitor. In this specific toxicological condition, standard pulse oximetry classically displays which of the following?",
+    question: "A 55-year-old diabetic man presents with rapidly progressive woody swelling below the chin, fever, dysphagia, raised floor of mouth, and difficulty in tongue movement. History reveals recent infection of a lower molar tooth. The surgeon explains that the infection entered the submandibular region because of the relation of the tooth root to the mylohyoid muscle.\nWhich anatomical explanation is most appropriate?",
     options: [
-      "A falsely low reading fluctuating with blood pressure",
-      "A falsely high reading approaching 100% saturation",
-      "A fixed reading resting tightly between 80% to 85%",
-      "An accurate measurement of absolute oxygen content"
+      "Premolar roots lie below mylohyoid and cause submandibular abscess",
+      "Mylohyoid muscle divides the parapharyngeal space into upper and lower compartments",
+      "Molar roots lie above mylohyoid and cause isolated sublingual abscess",
+      "Molar roots lie below mylohyoid and infection spreads to submaxillary space"
     ],
-    answerIndex: 2,
-    correctAnswerText: "A fixed reading resting tightly between 80% to 85%"
+    answerIndex: 3,
+    correctAnswerText: "Molar roots lie below mylohyoid and infection spreads to submaxillary space"
   },
   {
     id: 179,
     image: "",
-    question: "A 45-year-old intubated patient is on controlled mechanical ventilation during an exploratory laparotomy. While monitoring the patient, the anesthesiologist notices a sudden, recurrent downward deflection appearing consistently during the plateau phase (Phase III) of the continuous capnograph trace. Which of the following is the most likely physiological cause of this specific waveform abnormality?",
+    question: "A 10-year-old child with recurrent tonsillitis is planned for tonsillectomy. After induction of anesthesia, the surgeon asks the assistant to position the child so that the tonsillar bed becomes better exposed by extension of the neck.\nWhich position is classically used during tonsillectomy?",
     options: [
-      "Exhaustion of the soda lime absorbent canister",
-      "Acute intraoperative bronchospasm",
-      "Partial obstruction of the endotracheal tube",
-      "Spontaneous inspiratory effort by the patient"
+      "Rose position",
+      "Trendelenburg position",
+      "Fowler position",
+      "Lithotomy position"
     ],
-    answerIndex: 3,
-    correctAnswerText: "Spontaneous inspiratory effort by the patient"
+    answerIndex: 0,
+    correctAnswerText: "Rose position"
   },
   {
     id: 180,
     image: "",
-    question: "A 40-year-old patient completes an exploratory laparotomy. To reverse the residual postoperative muscle weakness caused by a non-depolarizing muscle relaxant (NDMR), the anesthesiologist administers neostigmine. What is the primary molecular mechanism by which this drug restores normal neuromuscular transmission?",
+    question: "A 12-year-old child underwent tonsillectomy for recurrent tonsillitis. On the 6th postoperative day, he develops fresh bleeding from the tonsillar fossa with fever and foul breath. There was no bleeding on the operation table or during the first 24 hours.\nWhich of the following best explains this complication?",
     options: [
-      "Inhibiting acetylcholinesterase to accumulate synaptic acetylcholine",
-      "Direct agonism of nicotinic receptors at the motor endplate",
-      "Enhancing presynaptic release of stored acetylcholine vesicles",
-      "Allosteric modulation of the specific NDMR binding site"
+      "Primary hemorrhage due to vessel injury, treated by ligation of vessel",
+      "Secondary hemorrhage due to infection, treated with intravenous antibiotics",
+      "Reactionary hemorrhage due to ligature slippage, treated only by observation",
+      "Grisel’s syndrome due to C1-C2 subluxation, treated by vessel ligation"
     ],
-    answerIndex: 0,
-    correctAnswerText: "Inhibiting acetylcholinesterase to accumulate synaptic acetylcholine"
+    answerIndex: 1,
+    correctAnswerText: "Secondary hemorrhage due to infection, treated with intravenous antibiotics"
   }
 ];
