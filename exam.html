@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ZENITH HIGH CBT Exam</title>
+  <title>NEET PG CBT - Exam</title>
 
   <style>
     * {
@@ -20,8 +20,8 @@
     .topbar {
       background: #003b66;
       color: white;
-      height: 36px;
-      padding: 8px 14px;
+      height: 34px;
+      padding: 7px 14px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -32,11 +32,11 @@
     .layout {
       display: grid;
       grid-template-columns: 1fr 310px;
-      min-height: calc(100vh - 36px);
+      min-height: calc(100vh - 34px);
     }
 
     .main {
-      padding: 16px 45px;
+      padding: 15px 45px;
       background: #ffffff;
     }
 
@@ -51,14 +51,13 @@
       color: #333;
     }
 
-    .question-number {
-      font-size: 15px;
+    .qtitle {
       font-weight: bold;
       margin-bottom: 12px;
-      color: #111;
+      font-size: 15px;
     }
 
-    .question-text {
+    .qtext {
       background: #f7f7f7;
       padding: 12px;
       border-radius: 4px;
@@ -68,7 +67,7 @@
       white-space: pre-wrap;
     }
 
-    .question-img {
+    .qimg {
       width: 100%;
       max-height: 520px;
       object-fit: contain;
@@ -79,7 +78,11 @@
       cursor: zoom-in;
     }
 
-    .option {
+    .opts {
+      margin-top: 10px;
+    }
+
+    .opt {
       border: 1px solid #ddd;
       border-radius: 4px;
       padding: 10px 12px;
@@ -92,11 +95,11 @@
       gap: 8px;
     }
 
-    .option:hover {
+    .opt:hover {
       background: #f6f8fb;
     }
 
-    .option.selected {
+    .opt.selected {
       background: #dbeafe;
       border-color: #003b66;
       font-weight: bold;
@@ -112,11 +115,11 @@
       position: relative;
     }
 
-    .option.selected .radio-circle {
+    .opt.selected .radio-circle {
       border-color: #0057d9;
     }
 
-    .option.selected .radio-circle::after {
+    .opt.selected .radio-circle::after {
       content: "";
       width: 7px;
       height: 7px;
@@ -162,7 +165,7 @@
       background: #f3f5fa;
       border-left: 1px solid #d6dce5;
       padding: 25px 18px;
-      min-height: calc(100vh - 36px);
+      min-height: calc(100vh - 34px);
     }
 
     .palette h3 {
@@ -260,7 +263,7 @@
       display: none;
       position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.92);
+      background: rgba(0, 0, 0, 0.92);
       z-index: 9999;
     }
 
@@ -307,15 +310,15 @@
         padding: 12px;
       }
 
-      .question-text {
+      .qtext {
         font-size: 14px;
       }
 
-      .question-img {
+      .qimg {
         max-height: 360px;
       }
 
-      .option {
+      .opt {
         font-size: 14px;
         padding: 10px;
       }
@@ -358,11 +361,11 @@
 
 <body>
   <header class="topbar">
-    <div>ZENITH HIGH CBT</div>
+    <div>NEET PG CBT</div>
     <div>
-      Time Left: <span id="timer">180:00</span>
+      Time Left: <b id="timeLeft">60:00</b>
       &nbsp; | &nbsp;
-      Violations: <span id="vio">0</span>
+      Violations: <b id="vio">0</b>
     </div>
   </header>
 
@@ -371,13 +374,12 @@
       <div class="qbox">
         <div class="student-info" id="studentInfo"></div>
 
-        <div class="question-number" id="questionNumber"></div>
+        <div id="qTitle" class="qtitle"></div>
+        <div id="qText" class="qtext"></div>
 
-        <div class="question-text" id="questionText"></div>
+        <img id="qImg" class="qimg" style="display:none;" alt="Question image" />
 
-        <img id="questionImage" class="question-img" style="display:none;" alt="Question image" />
-
-        <div id="optionsBox"></div>
+        <div id="opts" class="opts"></div>
 
         <div class="actions">
           <button id="prevBtn" onclick="prevQuestion()">Previous</button>
@@ -421,10 +423,8 @@
   <script src="questions.js"></script>
 
   <script>
-    const DEFAULT_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwWqrXYBHFoZJCohBix9FXKP4BMkZym-r4arYbybFiXLAf78aBQmQSMFSEAp5okNLJs/exec";
-    const API_URL = window.API_URL || window.SCRIPT_URL || DEFAULT_SCRIPT_URL;
-
-    const EXAM_DURATION_SECONDS = window.EXAM_DURATION_SECONDS || (180 * 60);
+    const API_URL = window.API_URL || window.SCRIPT_URL || "";
+    const EXAM_DURATION_SECONDS = Number(window.EXAM_DURATION_SECONDS || 60 * 60);
 
     let currentIndex = 0;
     let userAnswers = {};
@@ -434,42 +434,74 @@
     let violationCount = 0;
     let timerInterval = null;
 
-    function safeParse(s) {
+    function safeParse(value) {
       try {
-        return JSON.parse(s);
+        return JSON.parse(value);
       } catch {
         return null;
       }
     }
 
-    const candidate = safeParse(localStorage.getItem("neet_candidate") || "");
+    function escapeHtml(text) {
+      return String(text || "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
 
-    if (!candidate || !candidate.token) {
+    const candidate =
+      safeParse(localStorage.getItem("neet_candidate") || "") ||
+      {
+        token: localStorage.getItem("token") || "",
+        candidateId: localStorage.getItem("candidateId") || "",
+        name: localStorage.getItem("candidateName") || "",
+        phone: localStorage.getItem("candidatePhone") || "",
+        email: localStorage.getItem("candidateEmail") || ""
+      };
+
+    if (!candidate || !candidate.token || !candidate.candidateId) {
       alert("Please login first");
       window.location.replace("login.html");
       throw new Error("Login required");
     }
 
-    const candidateId = candidate.candidateId || "";
-    const token = candidate.token || "";
-    const candidateName = candidate.name || "";
-    const candidatePhone = candidate.phone || "";
-    const candidateEmail = candidate.email || "";
+    if (localStorage.getItem("neet_submitted") === "yes") {
+      window.location.replace("result.html");
+      throw new Error("Already submitted");
+    }
+
+    if (!API_URL) {
+      alert("API_URL missing. Please check config.js");
+      throw new Error("API_URL missing");
+    }
 
     if (!window.questions || !Array.isArray(window.questions) || window.questions.length === 0) {
       alert("Questions not loaded. Please check questions.js");
       throw new Error("Questions not loaded");
     }
 
+    const candidateId = candidate.candidateId;
+    const token = candidate.token;
+    const candidateName = candidate.name || "";
+    const candidatePhone = candidate.phone || "";
+    const candidateEmail = candidate.email || "";
+
     const stateKey = "neet_exam_state_" + candidateId;
+
+    document.getElementById("studentInfo").innerHTML =
+      "<b>Name:</b> " + escapeHtml(candidateName) +
+      " | <b>ID:</b> " + escapeHtml(candidateId) +
+      " | <b>Email:</b> " + escapeHtml(candidateEmail);
 
     function saveState() {
       localStorage.setItem(stateKey, JSON.stringify({
-        currentIndex,
-        userAnswers,
-        markedQuestions,
+        currentIndex: currentIndex,
+        userAnswers: userAnswers,
+        markedQuestions: markedQuestions,
         startedAt: startedAt.toISOString(),
-        violationCount
+        violationCount: violationCount
       }));
     }
 
@@ -486,29 +518,15 @@
       document.getElementById("vio").textContent = violationCount;
     }
 
-    document.getElementById("studentInfo").innerHTML =
-      "<b>Name:</b> " + escapeHtml(candidateName) +
-      " | <b>ID:</b> " + escapeHtml(candidateId) +
-      " | <b>Email:</b> " + escapeHtml(candidateEmail);
-
-    function escapeHtml(text) {
-      return String(text || "")
-        .replaceAll("&", "&amp;")
-        .replaceAll("<", "&lt;")
-        .replaceAll(">", "&gt;")
-        .replaceAll('"', "&quot;")
-        .replaceAll("'", "&#039;");
-    }
-
     function renderQuestion() {
       const q = window.questions[currentIndex];
 
-      document.getElementById("questionNumber").textContent =
+      document.getElementById("qTitle").textContent =
         "Question " + (currentIndex + 1) + " of " + window.questions.length;
 
-      document.getElementById("questionText").textContent = q.question || "";
+      document.getElementById("qText").textContent = q.question || "";
 
-      const img = document.getElementById("questionImage");
+      const img = document.getElementById("qImg");
 
       if (q.image && String(q.image).trim() !== "") {
         img.src = q.image;
@@ -518,12 +536,12 @@
         img.removeAttribute("src");
       }
 
-      const optionsBox = document.getElementById("optionsBox");
-      optionsBox.innerHTML = "";
+      const opts = document.getElementById("opts");
+      opts.innerHTML = "";
 
       (q.options || []).forEach(function(option, index) {
         const div = document.createElement("div");
-        div.className = "option";
+        div.className = "opt";
 
         if (Number(userAnswers[q.id]) === index) {
           div.classList.add("selected");
@@ -544,7 +562,7 @@
           renderQuestion();
         };
 
-        optionsBox.appendChild(div);
+        opts.appendChild(div);
       });
 
       document.getElementById("prevBtn").disabled = currentIndex === 0;
@@ -561,7 +579,11 @@
         const btn = document.createElement("button");
         btn.textContent = index + 1;
 
-        const answered = userAnswers[q.id] !== undefined && userAnswers[q.id] !== null;
+        const answered =
+          userAnswers[q.id] !== undefined &&
+          userAnswers[q.id] !== null &&
+          userAnswers[q.id] !== "";
+
         const marked = markedQuestions[q.id] === true;
 
         if (answered && marked) {
@@ -642,31 +664,51 @@
     async function submitExam(reason, isAuto) {
       if (submitted) return;
       submitted = true;
-
       clearInterval(timerInterval);
 
       const endedAt = new Date();
       const timeTakenSec = Math.floor((endedAt - startedAt) / 1000);
       const qOrder = window.questions.map(q => q.id);
 
+      const payload = {
+        name: candidateName,
+        phone: candidatePhone,
+        email: candidateEmail,
+        answers: userAnswers,
+        marked: markedQuestions,
+        qOrder: qOrder,
+        timeTakenSec: timeTakenSec,
+        violations: violationCount,
+        userAgent: navigator.userAgent,
+        reason: reason,
+        isAuto: isAuto,
+        startedAt: formatLocalDate(startedAt),
+        endedAt: formatLocalDate(endedAt)
+      };
+
       try {
         const res = await fetch(API_URL, {
           method: "POST",
-          headers: { "Content-Type": "text/plain;charset=utf-8" },
+          headers: {
+            "Content-Type": "text/plain;charset=utf-8"
+          },
           body: JSON.stringify({
             action: "submit",
             candidateId: candidateId,
             token: token,
+
+            payload: payload,
+
             responses: userAnswers,
             markedQuestions: markedQuestions,
             qOrder: qOrder,
-            startedAtIST: formatLocalDate(startedAt),
-            endedAtIST: formatLocalDate(endedAt),
             timeTakenSec: timeTakenSec,
             violationCount: violationCount,
             userAgent: navigator.userAgent,
             reason: reason,
-            isAuto: isAuto
+            isAuto: isAuto,
+            startedAtIST: formatLocalDate(startedAt),
+            endedAtIST: formatLocalDate(endedAt)
           }),
           cache: "no-store"
         });
@@ -686,7 +728,23 @@
           localStorage.setItem("neet_result", JSON.stringify(result));
           localStorage.removeItem(stateKey);
 
-          alert("Exam submitted successfully");
+          const score = result.score ?? "-";
+          const correct = result.correct ?? "-";
+          const wrong = result.wrong ?? "-";
+          const unattempted = result.unattempted ?? "-";
+          const totalQuestions = result.totalQuestions ?? "-";
+          const violations = result.violationCount ?? result.violations ?? "0";
+
+          alert(
+            "Exam submitted successfully!\n\n" +
+            "Score: " + score + "\n" +
+            "Correct: " + correct + "\n" +
+            "Wrong: " + wrong + "\n" +
+            "Unattempted: " + unattempted + "\n" +
+            "Total Questions: " + totalQuestions + "\n" +
+            "Violations: " + violations
+          );
+
           window.location.replace("result.html");
         } else {
           alert(result.error || result.message || "Submission failed");
@@ -712,7 +770,7 @@
         const min = Math.floor(remaining / 60);
         const sec = remaining % 60;
 
-        document.getElementById("timer").textContent =
+        document.getElementById("timeLeft").textContent =
           min + ":" + String(sec).padStart(2, "0");
 
         if (remaining <= 0) {
@@ -731,15 +789,15 @@
 
       fetch(API_URL, {
         method: "POST",
-        headers: { "Content-Type": "text/plain;charset=utf-8" },
+        headers: {
+          "Content-Type": "text/plain;charset=utf-8"
+        },
         body: JSON.stringify({
           action: "violation",
           candidateId: candidateId,
           token: token,
           type: type,
-          details: details || "",
-          timeIST: formatLocalDate(new Date()),
-          userAgent: navigator.userAgent
+          details: details || ""
         }),
         cache: "no-store"
       }).catch(function() {});
@@ -767,12 +825,6 @@
       sendViolation("Copy attempted", "Student attempted copy");
     });
 
-    window.addEventListener("beforeunload", function() {
-      if (!submitted) {
-        sendViolation("Page refreshed/closed", "Student refreshed, closed, or left page");
-      }
-    });
-
     function formatLocalDate(date) {
       return date.toLocaleString("en-IN", {
         timeZone: "Asia/Kolkata",
@@ -780,13 +832,13 @@
       });
     }
 
-    const questionImage = document.getElementById("questionImage");
+    const qImg = document.getElementById("qImg");
     const imgModal = document.getElementById("imgModal");
     const imgModalPic = document.getElementById("imgModalPic");
 
-    questionImage.onclick = function() {
-      if (!questionImage.src) return;
-      imgModalPic.src = questionImage.src;
+    qImg.onclick = function() {
+      if (!qImg.src) return;
+      imgModalPic.src = qImg.src;
       imgModal.classList.add("show");
     };
 
