@@ -15,7 +15,7 @@ window.questions = [
   },
   {
     id: 2,
-    image: "images/IMG_ 9094.jpeg",
+    image: "images/IMG_9094.jpeg",
     question: "A 9-year-old girl is brought with difficulty climbing stairs, getting up from the floor, and combing her hair for the past 2 months. Examination shows symmetrical proximal muscle weakness. A violaceous rash is present over the eyelids, and erythematous scaly papules are seen over the metacarpophalangeal and interphalangeal joints.\nWhat is the most appropriate next investigation?",
     options: [
       "Muscle biopsy",
@@ -28,7 +28,7 @@ window.questions = [
   },
   {
     id: 3,
-    image: "images/IMG_ 9095.jpeg",
+    image: "images/IMG_9095.jpeg",
     question: "A 3-year-old boy is brought with fever for 7 days, not responding to antipyretics. Examination shows bilateral non-purulent conjunctival congestion with limbal sparing, cracked red lips, strawberry tongue, polymorphous rash, and swelling of hands and feet. The pediatrician is worried about a silent but life-threatening vascular complication that usually appears in the 2nd to 3rd week of illness.\nWhich of the following is the most appropriate first-line treatment?",
     options: [
       "Oral corticosteroids",
@@ -41,7 +41,7 @@ window.questions = [
   },
   {
     id: 4,
-    image: "images/IMG_ 9096.jpeg",
+    image: "images/IMG_9096.jpeg",
     question: "A 6-year-old child develops low-grade fever and malaise followed by intense erythema over both cheeks. Two days later, a lacy macular rash appears over the trunk and proximal extremities. His younger sibling has sickle cell disease and develops sudden pallor, tachycardia, tachypnea, and marked reticulocytopenia after contact with him.\nWhich of the following is the most likely causative organism?",
     options: [
       "Human herpesvirus 6",
@@ -54,7 +54,7 @@ window.questions = [
   },
   {
     id: 5,
-    image: "images/IMG_ 9097.jpeg",
+    image: "images/IMG_9097.jpeg",
     question: "A 13-year-old boy is brought with progressive difficulty in lifting his arms above the head. His parents also notice that he sleeps with partially open eyes and cannot whistle properly. On examination, there is asymmetric weakness of facial muscles and shoulder girdle muscles, prominent scapular winging, wasting of biceps and triceps, and a puckered appearance of the mouth.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Facioscapulohumeral muscular dystrophy",
@@ -67,7 +67,7 @@ window.questions = [
   },
   {
     id: 6,
-    image: "images/IMG_ 9098.jpeg",
+    image: "images/IMG_9098.jpeg",
     question: "A 4-year-old neglected child from a poor socioeconomic background is brought with irritability, refusal to walk, and pain in both lower limbs. Examination shows swollen costochondral junctions and tenderness over long bones. X-ray of the knee shows dense metaphyseal white lines, sclerotic rings around the epiphysis, and a cortical spur at the metaphyseal margin.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Scurvy",
@@ -80,7 +80,7 @@ window.questions = [
   },
   {
     id: 7,
-    image: "images/IMG_ 9099.jpeg",
+    image: "images/IMG_9099.jpeg",
     question: "A 5-year-old child is brought with persistent scalp swelling and localized skull tenderness. X-ray skull shows a well-defined punched-out lytic lesion without a sclerotic rim. CT shows asymmetrical involvement of the inner and outer tables, giving a “hole within a hole” appearance. Examination also reveals seborrhea-like scalp lesions and mild hepatosplenomegaly.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Multiple myeloma",
@@ -93,7 +93,7 @@ window.questions = [
   },
   {
     id: 8,
-    image: "images/IMG_ 9100.jpeg",
+    image: "images/IMG_9100.jpeg",
     question: "A 2-year-old child is brought with delayed walking, widening of wrists and ankles, and progressive deformity of both lower limbs. On standing, one lower limb shows valgus angulation while the other shows varus angulation, giving an asymmetric lower-limb posture. Examination also shows anterior bowing of the tibia and widening of costochondral junctions.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Scurvy",
@@ -106,7 +106,7 @@ window.questions = [
   },
   {
     id: 9,
-    image: "images/IMG_ 9101.jpeg",
+    image: "images/IMG_9101.jpeg",
     question: "A 2-month-old infant is brought with poor feeding, excessive sleepiness, constipation not responding to usual treatment, and prolonged neonatal jaundice. Examination shows a protuberant abdomen, umbilical hernia, macroglossia, puffy facies, hypotonia, wide-open fontanelles, and slow relaxation of deep tendon reflexes.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Down syndrome",
@@ -119,7 +119,7 @@ window.questions = [
   },
   {
     id: 10,
-    image: "images/IMG_ 9102.jpeg",
+    image: "images/IMG_9102.jpeg",
     question: "A 6-year-old child presents with fever, sore throat, painful swallowing, and tender anterior cervical lymph nodes. After 24 hours, he develops a diffuse erythematous papular rash that begins around the neck and spreads to the trunk and extremities, sparing the palms and soles. The rash blanches on pressure. Examination shows circumoral pallor and a coated tongue with swollen papillae, later giving a red “strawberry” appearance.\nWhich of the following is responsible for this condition?",
     options: [
       "Endotoxin produced by Haemophilus influenzae",
@@ -132,7 +132,7 @@ window.questions = [
   },
   {
     id: 11,
-    image: "images/IMG_ 9103.jpeg",
+    image: "images/IMG_9103.jpeg",
     question: "A 10-year-old child is brought for evaluation of multiple light-brown macules over the trunk. Examination shows axillary freckling, several soft rubbery skin nodules, and pigmented iris hamartomas on slit-lamp examination. His father has similar skin lesions. MRI brain shows an optic pathway glioma.\nWhich chromosome carries the gene most commonly involved in this disorder?",
     options: [
       "Chromosome 17",
@@ -145,7 +145,7 @@ window.questions = [
   },
   {
     id: 12,
-    image: "images/IMG_ 9104.jpeg",
+    image: "images/IMG_9104.jpeg",
     question: "A 14-year-old phenotypic female is brought for evaluation of short stature and primary amenorrhea. Examination shows webbed neck, shield chest, widely spaced nipples, cubitus valgus, and short fourth metacarpal. Ultrasound abdomen shows horseshoe kidney and streak gonads. Echocardiography reveals a bicuspid aortic valve.\nWhich of the following is the most likely karyotype?",
     options: [
       "47, XXY",
@@ -249,7 +249,7 @@ window.questions = [
   },
   {
     id: 20,
-    image: "images/IMG_ 9127.jpeg",
+    image: "images/IMG_9127.jpeg",
     question: "A 4-year-old malnourished child is brought with difficulty seeing in dim light. On examination, the conjunctiva appears dry and wrinkled with foamy triangular plaques near the limbus. Slit-lamp examination later shows corneal ulceration involving less than one-third of the corneal surface with stromal softening.\nWhich of the following WHO stages of xerophthalmia corresponds to this corneal finding?",
     options: [
       "X2",
@@ -262,7 +262,7 @@ window.questions = [
   },
   {
     id: 21,
-    image: "images/IMG_ 9128.jpeg",
+    image: "images/IMG_9128.jpeg",
     question: "A newborn is evaluated for hypotonia, flat facial profile, upslanting palpebral fissures, epicanthic folds, single transverse palmar crease, and wide sandal gap. Karyotyping confirms trisomy 21. Echocardiography is planned to screen for the most common cardiovascular lesion associated with this condition.\nWhich of the following cardiac defects is most commonly associated with this syndrome?",
     options: [
       "Bicuspid aortic valve",
@@ -275,7 +275,7 @@ window.questions = [
   },
   {
     id: 22,
-    image: "images/IMG_ 9129.jpeg",
+    image: "images/IMG_9129.jpeg",
     question: "A 9-year-old unimmunized child presents with fever, headache, vomiting, and painful swelling near the angle of the jaw. The swelling is tender and becomes more painful while chewing sour foods. Five days later, the child develops neck stiffness and altered sensorium. CSF analysis suggests viral meningoencephalitis.\nWhich of the following is the most likely causative agent?",
     options: [
       "DNA herpesvirus",
@@ -288,7 +288,7 @@ window.questions = [
   },
   {
     id: 23,
-    image: "images/IMG_ 9130.jpeg",
+    image: "images/IMG_9130.jpeg",
     question: "A 68-year-old man presents with progressive abdominal distension, constipation, and colicky abdominal pain. He has not passed stool or flatus for 2 days. On examination, the abdomen is markedly distended and tympanic. Abdominal radiograph shows a massively dilated loop of colon arising from the pelvis and extending toward the upper abdomen, forming a characteristic coffee-bean appearance.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Sigmoid volvulus",
@@ -301,7 +301,7 @@ window.questions = [
   },
   {
     id: 24,
-    image: "images/IMG_ 9131.jpeg",
+    image: "images/IMG_9131.jpeg",
     question: "A 14-month-old child presents with acute onset watery, non-bloody diarrhea, vomiting, low-grade fever, and signs of dehydration. Stool examination is negative for blood and pus cells. Electron microscopy of the stool sample shows wheel-like particles with short spokes radiating from the center. The virus is known to undergo genetic reassortment.\nWhich of the following best describes the causative agent?",
     options: [
       "Enveloped single-stranded RNA virus with helical symmetry",
@@ -314,7 +314,7 @@ window.questions = [
   },
   {
     id: 25,
-    image: "images/IMG_ 9132.jpeg",
+    image: "images/IMG_9132.jpeg",
     question: "A 12-year-old child presents with headache, vomiting, diplopia, and progressive difficulty looking upward. Examination shows impaired upgaze, convergence-retraction nystagmus on attempted upward gaze, lid retraction, bilateral papilledema, and light-near dissociation of pupils. MRI reveals a pineal region mass causing obstructive hydrocephalus.\nWhich of the following structures is most likely involved?",
     options: [
       "Optic chiasma",
@@ -327,7 +327,7 @@ window.questions = [
   },
   {
     id: 26,
-    image: "images/IMG_ 9133.jpeg",
+    image: "images/IMG_9133.jpeg",
     question: "A 7-year-old child admitted after major trauma receives multiple units of stored blood transfusion. A few hours later, she develops weakness and palpitations. ECG shows tall, narrow, tent-shaped T waves with flattening of P waves and progressive widening of QRS complexes.\nWhich electrolyte abnormality is most likely responsible?",
     options: [
       "Hypocalcemia",
@@ -340,7 +340,7 @@ window.questions = [
   },
   {
     id: 27,
-    image: "images/IMG_ 9134.jpeg",
+    image: "images/IMG_9134.jpeg",
     question: "A preterm neonate born to a diabetic mother develops respiratory distress shortly after birth. The baby has tachypnea, nasal flaring, chest retractions, expiratory grunting, and mild cyanosis. Chest X-ray shows diffuse fine reticulogranular ground-glass opacities with air bronchograms and partial white-out of both lung fields.\nWhich of the following is the most likely underlying cause?",
     options: [
       "Excessive fetal lung fluid retention",
@@ -353,7 +353,7 @@ window.questions = [
   },
   {
     id: 28,
-    image: "images/IMG_ 9135.jpeg",
+    image: "images/IMG_9135.jpeg",
     question: "A 6-year-old child is brought with progressive headache, vomiting, unsteady gait, and repeated falls. Examination shows truncal ataxia, poor balance, and dysmetria. MRI brain reveals a midline posterior fossa tumor arising from the cerebellar vermis with obstructive hydrocephalus. Histopathology shows sheets of small round blue cells arranged in Homer-Wright rosettes and immunopositivity for synaptophysin.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Pilocytic astrocytoma",
@@ -366,7 +366,7 @@ window.questions = [
   },
   {
     id: 29,
-    image: "images/IMG_ 9136.jpeg",
+    image: "images/IMG_9136.jpeg",
     question: "A neonate born after a pregnancy complicated by polyhydramnios develops repeated episodes of bilious vomiting on the first day of life. The abdomen is not significantly distended. Plain abdominal radiograph shows two large gas shadows in the upper abdomen with absence of distal bowel gas.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Duodenal atresia",
@@ -379,7 +379,7 @@ window.questions = [
   },
   {
     id: 30,
-    image: "images/IMG_ 9137.jpeg",
+    image: "images/IMG_9137.jpeg",
     question: "A 6-year-old child develops colicky abdominal pain and swelling of both knee joints one week after an upper respiratory tract infection. Examination shows non-blanching palpable purpura over the lower limbs and extensor surfaces. Urine examination reveals microscopic hematuria and proteinuria. Skin biopsy shows leukocytoclastic vasculitis with immune deposition in vessel walls.\nWhich of the following immunoglobulins is most characteristically deposited in this disease?",
     options: [
       "IgG",
@@ -392,7 +392,7 @@ window.questions = [
   },
   {
     id: 31,
-    image: "images/IMG_ 9138.jpeg",
+    image: "images/IMG_9138.jpeg",
     question: "A 5-year-old child is brought with chronic bulky foul-smelling stools, failure to thrive, and progressive difficulty walking. Examination shows ataxic gait, absent deep tendon reflexes, and visual complaints suggestive of retinal degeneration. Peripheral smear shows irregularly spiculated red cells with projections of variable length and uneven distribution.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Hereditary spherocytosis",
@@ -405,7 +405,7 @@ window.questions = [
   },
   {
     id: 32,
-    image: "images/IMG_ 9139.jpeg",
+    image: "images/IMG_9139.jpeg",
     question: "A 5-year-old child is brought for evaluation after close contact with a sputum-positive tuberculosis patient. The child is otherwise asymptomatic. Chest X-ray shows hilar lymphadenopathy with a small parenchymal pulmonary focus. There is no apical cavitary lesion. The pediatrician explains that the combination of the lung focus and draining lymph node represents the primary complex.\nWhich of the following best describes this lesion?",
     options: [
       "Simon focus",
@@ -418,7 +418,7 @@ window.questions = [
   },
   {
     id: 33,
-    image: "images/IMG_ 9140.jpeg",
+    image: "images/IMG_9140.jpeg",
     question: "A 10-year-old boy is brought with excessive weight gain, poor linear growth, acne, facial rounding, and increased facial hair. Examination shows central obesity, moon facies, purple abdominal striae, proximal muscle weakness, hypertension, and hyperpigmentation. Her mother gives a history of repeated long-term steroid use for a chronic inflammatory illness.\nWhich of the following is the most common cause of this condition?",
     options: [
       "Prolonged exogenous glucocorticoid administration",
@@ -431,7 +431,7 @@ window.questions = [
   },
   {
     id: 34,
-    image: "images/IMG_ 9141.jpeg",
+    image: "images/IMG_9141.jpeg",
     question: "A 19-year-old boy presents with painless cervical lymphadenopathy, intermittent fever, night sweats, and weight loss. Lymph node biopsy shows large atypical cells that are either multinucleated or bilobed, with prominent eosinophilic inclusion-like nucleoli giving an “owl-eye” appearance. The neoplastic cells are derived from germinal center B cells.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Hodgkin lymphoma",
@@ -444,7 +444,7 @@ window.questions = [
   },
   {
     id: 35,
-    image: "images/IMG_ 9142.jpeg",
+    image: "images/IMG_9142.jpeg",
     question: "A 6-year-old child is evaluated for recurrent urinary tract infections. Ultrasound abdomen shows fusion of the lower poles of both kidneys, forming a U-shaped renal mass. The lower border of the fused kidneys lies anterior to the L3 vertebra due to failure of normal ascent. Further evaluation reveals vesicoureteral reflux.\nWhich of the following is not a usual association of this condition?",
     options: [
       "Turner syndrome",
@@ -457,7 +457,7 @@ window.questions = [
   },
   {
     id: 36,
-    image: "images/IMG_ 9143.jpeg",
+    image: "images/IMG_9143.jpeg",
     question: "A 5-year-old girl is brought with recurrent episodes of vaginal bleeding and breast development. She also has multiple irregular café-au-lait macules with jagged borders over the trunk. She has repeated bone pain and history of recurrent fractures. Imaging shows multiple expansile bony lesions involving the skull base and proximal femur.\nWhich of the following gene mutations is most likely responsible?",
     options: [
       "FGFR3 gene mutation",
@@ -2276,7 +2276,7 @@ window.questions = [
   },
   {
     id: 176,
-    image: "images/IMG_ 9144.jpeg",
+    image: "images/IMG_9144.jpeg",
     question: "A full-term neonate is born to a mother who did not receive folic acid supplementation during pregnancy. The baby is asymptomatic at birth, but examination reveals a midline tuft of hair over the lumbosacral region.\nBased on the clinical presentation and image finding, what is the most likely diagnosis?",
     options: [
       "Anencephaly",
@@ -2302,7 +2302,7 @@ window.questions = [
   },
   {
     id: 178,
-    image: "images/IMG_ 9146.jpeg",
+    image: "images/IMG_9146.jpeg",
     question: "A 4-year-old child is brought with recurrent episodes of icterus and pallor. Peripheral blood smear shows small, densely staining RBCs lacking central pallor.\nWhat is the most probable diagnosis and the investigation used to confirm it?",
     options: [
       "Hereditary spherocytosis — Osmotic fragility test",
@@ -2315,7 +2315,7 @@ window.questions = [
   },
   {
     id: 179,
-    image: "images/IMG_ 9147.jpeg",
+    image: "images/IMG_9147.jpeg",
     question: "A 14-month-old child with hemoglobin 6.3 g/dL has been undergoing repeated blood transfusions. Peripheral smear shows anisopoikilocytosis with target cells. The last transfusion was given at 9 months of age.\nWhich investigation is used for definitive diagnosis?",
     options: [
       "HPLC",
@@ -2328,7 +2328,7 @@ window.questions = [
   },
   {
     id: 180,
-    image: "images/IMG_ 9148.jpeg",
+    image: "images/IMG_9140.jpeg",
     question: "A young boy is brought with a history of recurrent fractures after trivial trauma. Examination shows bluish discoloration of the sclera, normal intelligence, and generalized bone fragility.\nWhich of the following is the most likely diagnosis?",
     options: [
       "Rickets",
