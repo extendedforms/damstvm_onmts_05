@@ -476,11 +476,11 @@
     </div>
   </div>
 
-  <script src="config.js?v=20260714a"></script>
-  <script src="questions.js?v=20260714a"></script>
+  <script src="config.js?v=20260714b"></script>
+  <script src="questions.js?v=20260714b"></script>
 
   <script>
-    const ASSET_VERSION = "20260714a";
+    const ASSET_VERSION = "20260714b";
 
     const API_URL = window.API_URL || window.SCRIPT_URL || "";
 
@@ -569,7 +569,7 @@
 
     if (typeof window.isWithinExamWindow === "function" && !window.isWithinExamWindow()) {
       alert("Exam is not live now.");
-      window.location.replace("instructions.html?v=20260714a");
+      window.location.replace("instructions.html?v=20260714b");
       throw new Error("Exam not live");
     }
 
@@ -877,6 +877,28 @@
       }
     }
 
+    function selectOption(index) {
+      if (submitted) return;
+
+      const q = window.questions[currentIndex];
+
+      userAnswers[q.id] = index;
+
+      delete markedQuestions[q.id];
+
+      document.querySelectorAll("#opts .opt").forEach(function(optEl, optIndex) {
+        if (optIndex === index) {
+          optEl.classList.add("selected");
+        } else {
+          optEl.classList.remove("selected");
+        }
+      });
+
+      saveState();
+      updateMarkButton();
+      renderPalette();
+    }
+
     function renderQuestion() {
       const q = window.questions[currentIndex];
 
@@ -908,13 +930,7 @@
         div.appendChild(text);
 
         div.onclick = function() {
-          if (submitted) return;
-
-          userAnswers[q.id] = index;
-          delete markedQuestions[q.id];
-
-          saveState();
-          renderQuestion();
+          selectOption(index);
         };
 
         opts.appendChild(div);
@@ -1038,10 +1054,15 @@
       if (submitted) return;
 
       const q = window.questions[currentIndex];
+
       delete userAnswers[q.id];
 
+      document.querySelectorAll("#opts .opt").forEach(function(optEl) {
+        optEl.classList.remove("selected");
+      });
+
       saveState();
-      renderQuestion();
+      renderPalette();
     }
 
     function markForReview() {
@@ -1056,7 +1077,8 @@
       }
 
       saveState();
-      renderQuestion();
+      updateMarkButton();
+      renderPalette();
     }
 
     function confirmSubmit() {
