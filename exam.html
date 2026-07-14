@@ -476,11 +476,11 @@
     </div>
   </div>
 
-  <script src="config.js?v=20260714b"></script>
-  <script src="questions.js?v=20260714b"></script>
+  <script src="config.js?v=20260714d"></script>
+  <script src="questions.js?v=20260714d"></script>
 
   <script>
-    const ASSET_VERSION = "20260714b";
+    const ASSET_VERSION = "20260714d";
 
     const API_URL = window.API_URL || window.SCRIPT_URL || "";
 
@@ -569,7 +569,7 @@
 
     if (typeof window.isWithinExamWindow === "function" && !window.isWithinExamWindow()) {
       alert("Exam is not live now.");
-      window.location.replace("instructions.html?v=20260714b");
+      window.location.replace("instructions.html?v=20260714d");
       throw new Error("Exam not live");
     }
 
@@ -877,13 +877,40 @@
       }
     }
 
+    function scrollToQuestionTop() {
+      if (window.innerWidth <= 768) {
+        setTimeout(function() {
+          const target = document.querySelector(".qbox");
+          if (!target) return;
+
+          const y = target.getBoundingClientRect().top + window.pageYOffset - 45;
+
+          window.scrollTo({
+            top: Math.max(y, 0),
+            behavior: "smooth"
+          });
+        }, 80);
+
+        setTimeout(function() {
+          const target = document.querySelector(".qbox");
+          if (!target) return;
+
+          const y = target.getBoundingClientRect().top + window.pageYOffset - 45;
+
+          window.scrollTo({
+            top: Math.max(y, 0),
+            behavior: "smooth"
+          });
+        }, 350);
+      }
+    }
+
     function selectOption(index) {
       if (submitted) return;
 
       const q = window.questions[currentIndex];
 
       userAnswers[q.id] = index;
-
       delete markedQuestions[q.id];
 
       document.querySelectorAll("#opts .opt").forEach(function(optEl, optIndex) {
@@ -1015,15 +1042,7 @@
 
           currentIndex = index;
           renderQuestion();
-
-          if (window.innerWidth <= 768) {
-            setTimeout(function() {
-              document.querySelector(".qbox").scrollIntoView({
-                behavior: "smooth",
-                block: "start"
-              });
-            }, 100);
-          }
+          scrollToQuestionTop();
         };
 
         pal.appendChild(btn);
@@ -1038,6 +1057,7 @@
       if (currentIndex < window.questions.length - 1) {
         currentIndex++;
         renderQuestion();
+        scrollToQuestionTop();
       }
     }
 
@@ -1047,6 +1067,7 @@
       if (currentIndex > 0) {
         currentIndex--;
         renderQuestion();
+        scrollToQuestionTop();
       }
     }
 
