@@ -438,11 +438,11 @@
     </div>
   </div>
 
-  <script src="config.js?v=20260717b"></script>
-  <script src="questions.js?v=20260717b"></script>
+  <script src="config.js?v=20260717c"></script>
+  <script src="questions.js?v=20260717c"></script>
 
   <script>
-    const ASSET_VERSION = "20260717b";
+    const ASSET_VERSION = "20260717c";
 
     const API_URL = window.API_URL || window.SCRIPT_URL || "";
 
@@ -531,7 +531,7 @@
 
     if (typeof window.isWithinExamWindow === "function" && !window.isWithinExamWindow()) {
       alert("Exam is not live now.");
-      window.location.replace("instructions.html?v=20260717b");
+      window.location.replace("instructions.html?v=20260717c");
       throw new Error("Exam not live");
     }
 
@@ -1117,35 +1117,13 @@
         answerKey: answerKey,
         timeTakenSec: timeTakenSec,
         violations: violationCount,
+        violationCount: violationCount,
+        totalQuestions: localResult.totalQuestions,
         userAgent: navigator.userAgent,
         reason: reason,
         isAuto: isAuto,
         startedAt: formatLocalDate(startedAt),
         endedAt: formatLocalDate(endedAt)
-      };
-
-      const localResultForStorage = {
-        ok: true,
-        status: "success",
-        localDisplayed: true,
-        score: localResult.score,
-        correct: localResult.correct,
-        wrong: localResult.wrong,
-        unattempted: localResult.unattempted,
-        totalQuestions: localResult.totalQuestions,
-        violations: localResult.violations,
-        violationCount: localResult.violationCount,
-        candidateId: candidateId,
-        name: candidateName,
-        phone: candidatePhone,
-        email: candidateEmail,
-        qOrder: qOrder,
-        answerKey: answerKey,
-        timeTakenSec: timeTakenSec,
-        reason: reason,
-        isAuto: isAuto,
-        startedAtIST: formatLocalDate(startedAt),
-        endedAtIST: formatLocalDate(endedAt)
       };
 
       const submissionBody = JSON.stringify({
@@ -1157,7 +1135,9 @@
         markedQuestions: markedQuestions,
         qOrder: qOrder,
         answerKey: answerKey,
+        totalQuestions: localResult.totalQuestions,
         timeTakenSec: timeTakenSec,
+        violations: violationCount,
         violationCount: violationCount,
         userAgent: navigator.userAgent,
         reason: reason,
@@ -1169,7 +1149,32 @@
       try {
         const serverResult = await sendSubmissionToBackend(submissionBody);
 
-        const finalResult = Object.assign({}, localResultForStorage, serverResult);
+        const finalResult = {
+          ok: true,
+          status: serverResult.status || "success",
+          localDisplayed: true,
+
+          score: serverResult.score ?? localResult.score,
+          correct: serverResult.correct ?? localResult.correct,
+          wrong: serverResult.wrong ?? localResult.wrong,
+          unattempted: serverResult.unattempted ?? localResult.unattempted,
+          totalQuestions: serverResult.totalQuestions || localResult.totalQuestions,
+
+          candidateId: candidateId,
+          name: candidateName,
+          phone: candidatePhone,
+          email: candidateEmail,
+          qOrder: qOrder,
+          answerKey: answerKey,
+          timeTakenSec: timeTakenSec,
+          reason: reason,
+          isAuto: isAuto,
+          startedAtIST: formatLocalDate(startedAt),
+          endedAtIST: formatLocalDate(endedAt),
+
+          violations: violationCount,
+          violationCount: violationCount
+        };
 
         localStorage.setItem("neet_submitted", "yes");
         localStorage.setItem("neet_result", JSON.stringify(finalResult));
@@ -1183,7 +1188,7 @@
           "Wrong: " + finalResult.wrong + "\n" +
           "Unattempted: " + finalResult.unattempted + "\n" +
           "Total Questions: " + finalResult.totalQuestions + "\n" +
-          "Violations: " + (finalResult.violationCount || violationCount)
+          "Violations: " + violationCount
         );
 
         window.location.replace("result.html");
